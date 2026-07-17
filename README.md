@@ -165,24 +165,6 @@ electricity-billing-validation/
     └── output/         # Reconciliation, exception and reporting outputs
 ```
 
-## Reproducibility
-
-The workflow was developed and tested using Python 3.12. Running `run_all.py` executes the nine processing and validation stages in sequence. A fixed random seed is used so the simulated data and validation results can be reproduced.
-
-```bash
-python3 -m pip install -r requirements.txt
-python3 run_all.py
-
-## Main project evidence
-
-- [`billing_reconciliation.csv`](data/output/billing_reconciliation.csv) — expected-versus-system comparison for all 2,000 monthly bills
-- [`billing_exception_log.csv`](data/output/billing_exception_log.csv) — 50 review records with detected issue type, variance, status, and investigation details
-- [`pricing_impact_analysis.csv`](data/output/pricing_impact_analysis.csv) — 2025-rate versus 2026-rate calculations using identical quantities
-- [`revenue_monthly_summary.csv`](data/output/revenue_monthly_summary.csv) — monthly revenue and billing-control KPIs
-- [`tests/`](tests/) — validation results for pricing, input data, expected billing, system billing, reconciliation, reporting, and SQL
-- [`findings_and_recommendations.md`](docs/findings_and_recommendations.md) — business findings, recommended controls, and limitations
-- [`billing_rules.md`](docs/billing_rules.md) — calculation, effective-date, and rounding rules
-- [`source_register.md`](docs/source_register.md) — public source documents and their use
 
 ## Scope and limitations
 
