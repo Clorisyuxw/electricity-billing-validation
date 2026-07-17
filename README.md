@@ -165,28 +165,13 @@ electricity-billing-validation/
     └── output/         # Reconciliation, exception and reporting outputs
 ```
 
-## Run locally
+## Reproducibility
+
+The workflow was developed and tested using Python 3.12. Running `run_all.py` executes the nine processing and validation stages in sequence. A fixed random seed is used so the simulated data and validation results can be reproduced.
 
 ```bash
-python3 -m venv .venv
-source .venv/bin/activate
 python3 -m pip install -r requirements.txt
 python3 run_all.py
-```
-
-On Windows, activate the environment using:
-
-```powershell
-.venv\Scripts\activate
-```
-
-A successful run ends with:
-
-```text
-ALL PROJECT STEPS PASSED
-```
-
-The random seed is fixed, making the simulated records and validation outcomes reproducible.
 
 ## Main project evidence
 
