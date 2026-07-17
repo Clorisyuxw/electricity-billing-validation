@@ -1,0 +1,501 @@
+icp_id,retailer_id,connection_group,control_type,price_category_code,region,connection_start_date,connection_end_date,status,data_origin
+ICP000001,RET002,Residential Low User,Uncontrolled,URES,Selwyn,2022-04-02,,Active,Simulated
+ICP000002,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-02-04,,Active,Simulated
+ICP000003,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-10-25,,Active,Simulated
+ICP000004,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-10-15,,Active,Simulated
+ICP000005,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-09-07,,Active,Simulated
+ICP000006,RET005,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2021-12-06,,Active,Simulated
+ICP000007,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-06-07,,Active,Simulated
+ICP000008,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-02-13,,Active,Simulated
+ICP000009,RET005,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-07-27,,Active,Simulated
+ICP000010,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2021-08-22,,Active,Simulated
+ICP000011,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-05-30,,Active,Simulated
+ICP000012,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-04-12,,Active,Simulated
+ICP000013,RET002,Residential Low User,Uncontrolled,URES,Central Canterbury Rural,2022-04-28,,Active,Simulated
+ICP000014,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-09-28,,Active,Simulated
+ICP000015,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-12-14,,Active,Simulated
+ICP000016,RET002,Residential Low User,Uncontrolled,URES,Central Canterbury Rural,2022-12-10,,Active,Simulated
+ICP000017,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-12-27,,Active,Simulated
+ICP000018,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2024-05-31,,Active,Simulated
+ICP000019,RET001,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2024-07-27,,Active,Simulated
+ICP000020,RET001,Residential Low User,Uncontrolled,URES,Selwyn,2023-03-02,,Active,Simulated
+ICP000021,RET005,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-06-28,,Active,Simulated
+ICP000022,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-12-21,,Active,Simulated
+ICP000023,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-04-09,,Active,Simulated
+ICP000024,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-06-21,,Active,Simulated
+ICP000025,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-07-14,,Active,Simulated
+ICP000026,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-15,,Active,Simulated
+ICP000027,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-20,,Active,Simulated
+ICP000028,RET002,Residential Low User,Controlled,RES,Selwyn,2023-03-20,,Active,Simulated
+ICP000029,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-03-12,,Active,Simulated
+ICP000030,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-11-28,,Active,Simulated
+ICP000031,RET002,Residential Standard User,Uncontrolled,RSU,Selwyn,2023-12-26,,Active,Simulated
+ICP000032,RET004,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-09-30,,Active,Simulated
+ICP000033,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-05-08,,Active,Simulated
+ICP000034,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-07-15,,Active,Simulated
+ICP000035,RET005,Residential Standard User,Controlled,RSC,Selwyn,2024-01-04,,Active,Simulated
+ICP000036,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-31,,Active,Simulated
+ICP000037,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-08-25,,Active,Simulated
+ICP000038,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-07-07,,Active,Simulated
+ICP000039,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-10-19,,Active,Simulated
+ICP000040,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-01-29,,Active,Simulated
+ICP000041,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-05-31,,Active,Simulated
+ICP000042,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-07-29,,Active,Simulated
+ICP000043,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-02-20,,Active,Simulated
+ICP000044,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-07-13,,Active,Simulated
+ICP000045,RET001,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2021-03-29,,Active,Simulated
+ICP000046,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-10-01,,Active,Simulated
+ICP000047,RET001,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2021-08-21,,Active,Simulated
+ICP000048,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-18,,Active,Simulated
+ICP000049,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-06-29,,Active,Simulated
+ICP000050,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-10-11,,Active,Simulated
+ICP000051,RET004,Residential Low User,Uncontrolled,URES,Christchurch Urban,2024-04-26,,Active,Simulated
+ICP000052,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-03-22,,Active,Simulated
+ICP000053,RET003,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2024-09-06,,Active,Simulated
+ICP000054,RET002,Residential Standard User,Controlled,RSC,Selwyn,2022-12-12,,Active,Simulated
+ICP000055,RET001,Residential Low User,Controlled,RES,Central Canterbury Rural,2023-01-02,,Active,Simulated
+ICP000056,RET005,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-05-04,,Active,Simulated
+ICP000057,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-08-16,,Active,Simulated
+ICP000058,RET003,Residential Low User,Controlled,RES,Selwyn,2022-12-22,,Active,Simulated
+ICP000059,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-03-25,,Active,Simulated
+ICP000060,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-01-20,,Active,Simulated
+ICP000061,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-12-14,,Active,Simulated
+ICP000062,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-03-01,,Active,Simulated
+ICP000063,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-04-24,,Active,Simulated
+ICP000064,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-12-05,,Active,Simulated
+ICP000065,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-13,,Active,Simulated
+ICP000066,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-06-20,,Active,Simulated
+ICP000067,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-11-02,,Active,Simulated
+ICP000068,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-11-14,,Active,Simulated
+ICP000069,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-20,,Active,Simulated
+ICP000070,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-01-14,,Active,Simulated
+ICP000071,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-02-23,,Active,Simulated
+ICP000072,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-08-02,,Active,Simulated
+ICP000073,RET002,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2023-03-10,,Active,Simulated
+ICP000074,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-04-19,,Active,Simulated
+ICP000075,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-07-24,,Active,Simulated
+ICP000076,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-05-05,,Active,Simulated
+ICP000077,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-07-16,,Active,Simulated
+ICP000078,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-05-25,,Active,Simulated
+ICP000079,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-11-04,,Active,Simulated
+ICP000080,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-03-10,,Active,Simulated
+ICP000081,RET003,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2023-05-15,,Active,Simulated
+ICP000082,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-04,,Active,Simulated
+ICP000083,RET003,Residential Low User,Controlled,RES,Selwyn,2021-10-14,,Active,Simulated
+ICP000084,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-08-08,,Active,Simulated
+ICP000085,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-04-03,,Active,Simulated
+ICP000086,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-03-31,,Active,Simulated
+ICP000087,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-02-26,,Active,Simulated
+ICP000088,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-02-22,,Active,Simulated
+ICP000089,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-02-26,,Active,Simulated
+ICP000090,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-01-17,,Active,Simulated
+ICP000091,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-12-29,,Active,Simulated
+ICP000092,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-06,,Active,Simulated
+ICP000093,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-01,,Active,Simulated
+ICP000094,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-06-27,,Active,Simulated
+ICP000095,RET001,Residential Low User,Controlled,RES,Central Canterbury Rural,2024-12-08,,Active,Simulated
+ICP000096,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-10-12,,Active,Simulated
+ICP000097,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-07-03,,Active,Simulated
+ICP000098,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2021-10-17,,Active,Simulated
+ICP000099,RET003,Residential Standard User,Controlled,RSC,Selwyn,2024-05-26,,Active,Simulated
+ICP000100,RET003,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2022-08-14,,Active,Simulated
+ICP000101,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-07-09,,Active,Simulated
+ICP000102,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-02-26,,Active,Simulated
+ICP000103,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-05-30,,Active,Simulated
+ICP000104,RET005,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-03-31,,Active,Simulated
+ICP000105,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-04-19,,Active,Simulated
+ICP000106,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-09-26,,Active,Simulated
+ICP000107,RET004,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-02-03,,Active,Simulated
+ICP000108,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-06-03,,Active,Simulated
+ICP000109,RET001,Residential Standard User,Controlled,RSC,Selwyn,2022-02-10,,Active,Simulated
+ICP000110,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-12-24,,Active,Simulated
+ICP000111,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-01-25,,Active,Simulated
+ICP000112,RET003,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2022-09-05,,Active,Simulated
+ICP000113,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-18,,Active,Simulated
+ICP000114,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-11,,Active,Simulated
+ICP000115,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-15,,Active,Simulated
+ICP000116,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-08-28,,Active,Simulated
+ICP000117,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-11-14,,Active,Simulated
+ICP000118,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-08-16,,Active,Simulated
+ICP000119,RET004,Residential Low User,Controlled,RES,Selwyn,2022-02-08,,Active,Simulated
+ICP000120,RET004,Residential Low User,Controlled,RES,Selwyn,2023-02-17,,Active,Simulated
+ICP000121,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-07-22,,Active,Simulated
+ICP000122,RET005,Residential Low User,Controlled,RES,Selwyn,2024-10-31,,Active,Simulated
+ICP000123,RET005,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2024-03-21,,Active,Simulated
+ICP000124,RET004,Residential Low User,Controlled,RES,Central Canterbury Rural,2024-06-12,,Active,Simulated
+ICP000125,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-07-05,,Active,Simulated
+ICP000126,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-05-11,,Active,Simulated
+ICP000127,RET001,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2023-07-28,,Active,Simulated
+ICP000128,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-06-16,,Active,Simulated
+ICP000129,RET002,Residential Low User,Controlled,RES,Selwyn,2021-06-13,,Active,Simulated
+ICP000130,RET001,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2022-03-23,,Active,Simulated
+ICP000131,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-03-04,,Active,Simulated
+ICP000132,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-05-13,,Active,Simulated
+ICP000133,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-05-03,,Active,Simulated
+ICP000134,RET004,Residential Low User,Controlled,RES,Selwyn,2024-10-24,,Active,Simulated
+ICP000135,RET001,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2023-12-05,,Active,Simulated
+ICP000136,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-12-08,,Active,Simulated
+ICP000137,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-12-02,,Active,Simulated
+ICP000138,RET001,Residential Low User,Controlled,RES,Selwyn,2022-04-09,,Active,Simulated
+ICP000139,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-05-05,,Active,Simulated
+ICP000140,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2024-07-13,,Active,Simulated
+ICP000141,RET002,Residential Low User,Controlled,RES,Selwyn,2021-11-23,,Active,Simulated
+ICP000142,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-11-02,,Active,Simulated
+ICP000143,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-07-03,,Active,Simulated
+ICP000144,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-03-01,,Active,Simulated
+ICP000145,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-11-09,,Active,Simulated
+ICP000146,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-06-14,,Active,Simulated
+ICP000147,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-03-27,,Active,Simulated
+ICP000148,RET005,Residential Low User,Uncontrolled,URES,Selwyn,2022-09-17,,Active,Simulated
+ICP000149,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-05-21,,Active,Simulated
+ICP000150,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-21,,Active,Simulated
+ICP000151,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-10-04,,Active,Simulated
+ICP000152,RET002,Residential Low User,Controlled,RES,Selwyn,2024-11-01,,Active,Simulated
+ICP000153,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-03-18,,Active,Simulated
+ICP000154,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-12-24,,Active,Simulated
+ICP000155,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-05-01,,Active,Simulated
+ICP000156,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-31,,Active,Simulated
+ICP000157,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2022-02-09,,Active,Simulated
+ICP000158,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-12-13,,Active,Simulated
+ICP000159,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-12-06,,Active,Simulated
+ICP000160,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-12-02,,Active,Simulated
+ICP000161,RET003,Residential Low User,Controlled,RES,Selwyn,2023-02-01,,Active,Simulated
+ICP000162,RET001,Residential Low User,Controlled,RES,Selwyn,2023-09-14,,Active,Simulated
+ICP000163,RET003,Residential Low User,Controlled,RES,Selwyn,2021-09-25,,Active,Simulated
+ICP000164,RET001,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2021-09-21,,Active,Simulated
+ICP000165,RET001,Residential Standard User,Controlled,RSC,Selwyn,2021-01-15,,Active,Simulated
+ICP000166,RET005,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-10-07,,Active,Simulated
+ICP000167,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-01-20,,Active,Simulated
+ICP000168,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-11-21,,Active,Simulated
+ICP000169,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-09,,Active,Simulated
+ICP000170,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-01-03,,Active,Simulated
+ICP000171,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-10-22,,Active,Simulated
+ICP000172,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-03,,Active,Simulated
+ICP000173,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-03-28,,Active,Simulated
+ICP000174,RET005,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-06-17,,Active,Simulated
+ICP000175,RET003,Residential Standard User,Controlled,RSC,Selwyn,2023-09-13,,Active,Simulated
+ICP000176,RET005,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-10-14,,Active,Simulated
+ICP000177,RET003,Residential Standard User,Controlled,RSC,Selwyn,2022-04-30,,Active,Simulated
+ICP000178,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-02-10,,Active,Simulated
+ICP000179,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-08-10,,Active,Simulated
+ICP000180,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2022-11-20,,Active,Simulated
+ICP000181,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-09-19,,Active,Simulated
+ICP000182,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-06-06,,Active,Simulated
+ICP000183,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-05-03,,Active,Simulated
+ICP000184,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-04-24,,Active,Simulated
+ICP000185,RET004,Residential Low User,Controlled,RES,Central Canterbury Rural,2024-08-20,,Active,Simulated
+ICP000186,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-01-02,,Active,Simulated
+ICP000187,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-01-29,,Active,Simulated
+ICP000188,RET004,Residential Low User,Controlled,RES,Selwyn,2021-09-30,,Active,Simulated
+ICP000189,RET005,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2023-12-06,,Active,Simulated
+ICP000190,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2022-01-16,,Active,Simulated
+ICP000191,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-12-12,,Active,Simulated
+ICP000192,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2021-06-12,,Active,Simulated
+ICP000193,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-05-02,,Active,Simulated
+ICP000194,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-05-24,,Active,Simulated
+ICP000195,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-07-26,,Active,Simulated
+ICP000196,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-12-13,,Active,Simulated
+ICP000197,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-05-22,,Active,Simulated
+ICP000198,RET002,Residential Low User,Controlled,RES,Selwyn,2023-05-22,,Active,Simulated
+ICP000199,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-08-06,,Active,Simulated
+ICP000200,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-01-30,,Active,Simulated
+ICP000201,RET001,Residential Low User,Controlled,RES,Selwyn,2021-06-13,,Active,Simulated
+ICP000202,RET005,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-04-16,,Active,Simulated
+ICP000203,RET004,Residential Low User,Uncontrolled,URES,Selwyn,2023-07-24,,Active,Simulated
+ICP000204,RET005,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2021-08-15,,Active,Simulated
+ICP000205,RET005,Residential Low User,Uncontrolled,URES,Selwyn,2021-03-18,,Active,Simulated
+ICP000206,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-11-25,,Active,Simulated
+ICP000207,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-30,,Active,Simulated
+ICP000208,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-10-27,,Active,Simulated
+ICP000209,RET001,Residential Low User,Controlled,RES,Selwyn,2022-07-01,,Active,Simulated
+ICP000210,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-08,,Active,Simulated
+ICP000211,RET002,Residential Low User,Controlled,RES,Selwyn,2024-10-17,,Active,Simulated
+ICP000212,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2023-03-28,,Active,Simulated
+ICP000213,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-10-20,,Active,Simulated
+ICP000214,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-05-01,,Active,Simulated
+ICP000215,RET004,Residential Low User,Controlled,RES,Central Canterbury Rural,2021-01-27,,Active,Simulated
+ICP000216,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-10-31,,Active,Simulated
+ICP000217,RET001,Residential Low User,Controlled,RES,Central Canterbury Rural,2023-03-01,,Active,Simulated
+ICP000218,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-29,,Active,Simulated
+ICP000219,RET005,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-06-06,,Active,Simulated
+ICP000220,RET004,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-07-30,,Active,Simulated
+ICP000221,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-12-04,,Active,Simulated
+ICP000222,RET002,Residential Low User,Controlled,RES,Selwyn,2022-04-16,,Active,Simulated
+ICP000223,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-01-17,,Active,Simulated
+ICP000224,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-09-19,,Active,Simulated
+ICP000225,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-09-12,,Active,Simulated
+ICP000226,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-01-28,,Active,Simulated
+ICP000227,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-04-12,,Active,Simulated
+ICP000228,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-08-07,,Active,Simulated
+ICP000229,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-12-29,,Active,Simulated
+ICP000230,RET003,Residential Low User,Controlled,RES,Central Canterbury Rural,2023-12-16,,Active,Simulated
+ICP000231,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-12-21,,Active,Simulated
+ICP000232,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-10-22,,Active,Simulated
+ICP000233,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2024-01-20,,Active,Simulated
+ICP000234,RET003,Residential Standard User,Controlled,RSC,Selwyn,2021-11-06,,Active,Simulated
+ICP000235,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-09-25,,Active,Simulated
+ICP000236,RET001,Residential Low User,Controlled,RES,Selwyn,2021-01-12,,Active,Simulated
+ICP000237,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-03-13,,Active,Simulated
+ICP000238,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-03-26,,Active,Simulated
+ICP000239,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-12-02,,Active,Simulated
+ICP000240,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-16,,Active,Simulated
+ICP000241,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-09-14,,Active,Simulated
+ICP000242,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-10-06,,Active,Simulated
+ICP000243,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-09-23,,Active,Simulated
+ICP000244,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-02-28,,Active,Simulated
+ICP000245,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-03-24,,Active,Simulated
+ICP000246,RET003,Residential Low User,Controlled,RES,Central Canterbury Rural,2021-11-20,,Active,Simulated
+ICP000247,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2022-06-21,,Active,Simulated
+ICP000248,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-03-07,,Active,Simulated
+ICP000249,RET001,Residential Low User,Uncontrolled,URES,Selwyn,2021-03-01,,Active,Simulated
+ICP000250,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-10-26,,Active,Simulated
+ICP000251,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-08-21,,Active,Simulated
+ICP000252,RET002,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2024-02-22,,Active,Simulated
+ICP000253,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-06-16,,Active,Simulated
+ICP000254,RET002,Residential Low User,Controlled,RES,Selwyn,2021-12-11,,Active,Simulated
+ICP000255,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2024-07-15,,Active,Simulated
+ICP000256,RET001,Residential Low User,Controlled,RES,Selwyn,2022-04-28,,Active,Simulated
+ICP000257,RET003,Residential Standard User,Controlled,RSC,Selwyn,2024-12-21,,Active,Simulated
+ICP000258,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-02-03,,Active,Simulated
+ICP000259,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-12-02,,Active,Simulated
+ICP000260,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-07-29,,Active,Simulated
+ICP000261,RET004,Residential Low User,Controlled,RES,Central Canterbury Rural,2023-06-30,,Active,Simulated
+ICP000262,RET001,Residential Low User,Controlled,RES,Selwyn,2021-09-12,,Active,Simulated
+ICP000263,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-12-21,,Active,Simulated
+ICP000264,RET001,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-12-09,,Active,Simulated
+ICP000265,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-30,,Active,Simulated
+ICP000266,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-07-18,,Active,Simulated
+ICP000267,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-09-27,,Active,Simulated
+ICP000268,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-07-14,,Active,Simulated
+ICP000269,RET003,Residential Standard User,Controlled,RSC,Selwyn,2023-03-16,,Active,Simulated
+ICP000270,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-11-19,,Active,Simulated
+ICP000271,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-09-13,,Active,Simulated
+ICP000272,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2021-04-26,,Active,Simulated
+ICP000273,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-07-18,,Active,Simulated
+ICP000274,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-08-06,,Active,Simulated
+ICP000275,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-09-17,,Active,Simulated
+ICP000276,RET001,Residential Low User,Controlled,RES,Selwyn,2021-11-08,,Active,Simulated
+ICP000277,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-03-11,,Active,Simulated
+ICP000278,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-02-22,,Active,Simulated
+ICP000279,RET001,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2024-02-14,,Active,Simulated
+ICP000280,RET002,Residential Standard User,Controlled,RSC,Selwyn,2024-07-20,,Active,Simulated
+ICP000281,RET001,Residential Low User,Controlled,RES,Selwyn,2024-08-19,,Active,Simulated
+ICP000282,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-08-13,,Active,Simulated
+ICP000283,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-03-08,,Active,Simulated
+ICP000284,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-03-08,,Active,Simulated
+ICP000285,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-12-29,,Active,Simulated
+ICP000286,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-03-03,,Active,Simulated
+ICP000287,RET005,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-08-24,,Active,Simulated
+ICP000288,RET002,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2024-01-10,,Active,Simulated
+ICP000289,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-09-01,,Active,Simulated
+ICP000290,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-11-30,,Active,Simulated
+ICP000291,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-01,,Active,Simulated
+ICP000292,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-11-17,,Active,Simulated
+ICP000293,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-11-15,,Active,Simulated
+ICP000294,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-30,,Active,Simulated
+ICP000295,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-11-20,,Active,Simulated
+ICP000296,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-07-01,,Active,Simulated
+ICP000297,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-08-10,,Active,Simulated
+ICP000298,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-09-06,,Active,Simulated
+ICP000299,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2023-04-24,,Active,Simulated
+ICP000300,RET005,Residential Low User,Controlled,RES,Selwyn,2022-03-17,,Active,Simulated
+ICP000301,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-01-02,,Active,Simulated
+ICP000302,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-14,,Active,Simulated
+ICP000303,RET005,Residential Low User,Controlled,RES,Selwyn,2022-11-08,,Active,Simulated
+ICP000304,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-03-24,,Active,Simulated
+ICP000305,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-11-14,,Active,Simulated
+ICP000306,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-02-07,,Active,Simulated
+ICP000307,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-13,,Active,Simulated
+ICP000308,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-07-22,,Active,Simulated
+ICP000309,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-03-02,,Active,Simulated
+ICP000310,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-08-03,,Active,Simulated
+ICP000311,RET005,Residential Low User,Uncontrolled,URES,Selwyn,2024-05-26,,Active,Simulated
+ICP000312,RET001,Residential Low User,Controlled,RES,Central Canterbury Rural,2024-08-23,,Active,Simulated
+ICP000313,RET004,Residential Low User,Controlled,RES,Central Canterbury Rural,2024-01-02,,Active,Simulated
+ICP000314,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-12-15,,Active,Simulated
+ICP000315,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-01-10,,Active,Simulated
+ICP000316,RET005,Residential Low User,Controlled,RES,Central Canterbury Rural,2021-03-26,,Active,Simulated
+ICP000317,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-10-09,,Active,Simulated
+ICP000318,RET004,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2023-03-29,,Active,Simulated
+ICP000319,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-12-15,,Active,Simulated
+ICP000320,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-07-06,,Active,Simulated
+ICP000321,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-04-12,,Active,Simulated
+ICP000322,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-09-01,,Active,Simulated
+ICP000323,RET002,Residential Low User,Uncontrolled,URES,Central Canterbury Rural,2022-11-11,,Active,Simulated
+ICP000324,RET002,Residential Standard User,Controlled,RSC,Selwyn,2024-12-09,,Active,Simulated
+ICP000325,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-12-19,,Active,Simulated
+ICP000326,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-09-14,,Active,Simulated
+ICP000327,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-07-10,,Active,Simulated
+ICP000328,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-03-24,,Active,Simulated
+ICP000329,RET001,Residential Low User,Controlled,RES,Selwyn,2022-04-02,,Active,Simulated
+ICP000330,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-11-03,,Active,Simulated
+ICP000331,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-14,,Active,Simulated
+ICP000332,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-10-09,,Active,Simulated
+ICP000333,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-08-02,,Active,Simulated
+ICP000334,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-05-29,,Active,Simulated
+ICP000335,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-11-25,,Active,Simulated
+ICP000336,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-05-16,,Active,Simulated
+ICP000337,RET001,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2024-04-22,,Active,Simulated
+ICP000338,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2021-04-01,,Active,Simulated
+ICP000339,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-28,,Active,Simulated
+ICP000340,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-07-18,,Active,Simulated
+ICP000341,RET005,Residential Standard User,Controlled,RSC,Central Canterbury Rural,2022-03-17,,Active,Simulated
+ICP000342,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-12-26,,Active,Simulated
+ICP000343,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-11-23,,Active,Simulated
+ICP000344,RET003,Residential Low User,Controlled,RES,Selwyn,2022-05-10,,Active,Simulated
+ICP000345,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-21,,Active,Simulated
+ICP000346,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-03-30,,Active,Simulated
+ICP000347,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-07-15,,Active,Simulated
+ICP000348,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-02-06,,Active,Simulated
+ICP000349,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-07-27,,Active,Simulated
+ICP000350,RET003,Residential Low User,Uncontrolled,URES,Selwyn,2024-10-22,,Active,Simulated
+ICP000351,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-03-24,,Active,Simulated
+ICP000352,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-01-17,,Active,Simulated
+ICP000353,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-06-05,,Active,Simulated
+ICP000354,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-10-21,,Active,Simulated
+ICP000355,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-23,,Active,Simulated
+ICP000356,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-04-20,,Active,Simulated
+ICP000357,RET003,Residential Low User,Uncontrolled,URES,Central Canterbury Rural,2021-09-22,,Active,Simulated
+ICP000358,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-09-08,,Active,Simulated
+ICP000359,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-05-29,,Active,Simulated
+ICP000360,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-01-07,,Active,Simulated
+ICP000361,RET004,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-03-24,,Active,Simulated
+ICP000362,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-12-21,,Active,Simulated
+ICP000363,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-12-15,,Active,Simulated
+ICP000364,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-05,,Active,Simulated
+ICP000365,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-09-05,,Active,Simulated
+ICP000366,RET001,Residential Low User,Controlled,RES,Selwyn,2024-12-28,,Active,Simulated
+ICP000367,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-08,,Active,Simulated
+ICP000368,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-04-21,,Active,Simulated
+ICP000369,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-12-20,,Active,Simulated
+ICP000370,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-06-06,,Active,Simulated
+ICP000371,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-05-03,,Active,Simulated
+ICP000372,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-05-24,,Active,Simulated
+ICP000373,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-11-02,,Active,Simulated
+ICP000374,RET004,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-04-23,,Active,Simulated
+ICP000375,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-02-05,,Active,Simulated
+ICP000376,RET002,Residential Low User,Controlled,RES,Selwyn,2022-10-21,,Active,Simulated
+ICP000377,RET004,Residential Low User,Controlled,RES,Selwyn,2022-11-19,,Active,Simulated
+ICP000378,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-10-28,,Active,Simulated
+ICP000379,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-06-14,,Active,Simulated
+ICP000380,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-04-19,,Active,Simulated
+ICP000381,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-11-14,,Active,Simulated
+ICP000382,RET002,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2022-09-20,,Active,Simulated
+ICP000383,RET004,Residential Low User,Controlled,RES,Selwyn,2021-02-21,,Active,Simulated
+ICP000384,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-10-02,,Active,Simulated
+ICP000385,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-02-21,,Active,Simulated
+ICP000386,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-05-29,,Active,Simulated
+ICP000387,RET004,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-10-29,,Active,Simulated
+ICP000388,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-10-23,,Active,Simulated
+ICP000389,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-06-06,,Active,Simulated
+ICP000390,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-03-08,,Active,Simulated
+ICP000391,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-16,,Active,Simulated
+ICP000392,RET002,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2024-09-04,,Active,Simulated
+ICP000393,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-10,,Active,Simulated
+ICP000394,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-06-29,,Active,Simulated
+ICP000395,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-05-16,,Active,Simulated
+ICP000396,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-10-16,,Active,Simulated
+ICP000397,RET004,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-03-16,,Active,Simulated
+ICP000398,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-11-19,,Active,Simulated
+ICP000399,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2022-04-17,,Active,Simulated
+ICP000400,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-05-28,,Active,Simulated
+ICP000401,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2024-10-04,,Active,Simulated
+ICP000402,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2022-05-03,,Active,Simulated
+ICP000403,RET001,Residential Low User,Uncontrolled,URES,Selwyn,2023-05-03,,Active,Simulated
+ICP000404,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-07-04,,Active,Simulated
+ICP000405,RET005,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-11-25,,Active,Simulated
+ICP000406,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-10-06,,Active,Simulated
+ICP000407,RET001,Residential Standard User,Uncontrolled,RSU,Christchurch Urban,2024-09-14,,Active,Simulated
+ICP000408,RET001,Residential Low User,Controlled,RES,Selwyn,2021-08-20,,Active,Simulated
+ICP000409,RET005,Residential Standard User,Controlled,RSC,Selwyn,2021-11-12,,Active,Simulated
+ICP000410,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-12,,Active,Simulated
+ICP000411,RET002,Residential Low User,Controlled,RES,Selwyn,2024-04-15,,Active,Simulated
+ICP000412,RET001,Residential Low User,Controlled,RES,Selwyn,2022-03-03,,Active,Simulated
+ICP000413,RET001,Residential Low User,Controlled,RES,Selwyn,2022-02-15,,Active,Simulated
+ICP000414,RET001,Residential Low User,Controlled,RES,Selwyn,2023-11-11,,Active,Simulated
+ICP000415,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-09-15,,Active,Simulated
+ICP000416,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2021-08-21,,Active,Simulated
+ICP000417,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-06-24,,Active,Simulated
+ICP000418,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-10,,Active,Simulated
+ICP000419,RET001,Residential Low User,Uncontrolled,URES,Selwyn,2024-06-06,,Active,Simulated
+ICP000420,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2021-12-25,,Active,Simulated
+ICP000421,RET003,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-07-15,,Active,Simulated
+ICP000422,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-11-03,,Active,Simulated
+ICP000423,RET001,Residential Low User,Controlled,RES,Selwyn,2024-10-01,,Active,Simulated
+ICP000424,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-01-23,,Active,Simulated
+ICP000425,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-01-31,,Active,Simulated
+ICP000426,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-12-18,,Active,Simulated
+ICP000427,RET001,Residential Low User,Uncontrolled,URES,Selwyn,2022-01-28,,Active,Simulated
+ICP000428,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-05-29,,Active,Simulated
+ICP000429,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-08-08,,Active,Simulated
+ICP000430,RET002,Residential Low User,Controlled,RES,Selwyn,2023-12-15,,Active,Simulated
+ICP000431,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-08-17,,Active,Simulated
+ICP000432,RET002,Residential Low User,Controlled,RES,Selwyn,2022-10-19,,Active,Simulated
+ICP000433,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-11-20,,Active,Simulated
+ICP000434,RET002,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-08-30,,Active,Simulated
+ICP000435,RET001,Residential Low User,Controlled,RES,Selwyn,2023-12-26,,Active,Simulated
+ICP000436,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-06-15,,Active,Simulated
+ICP000437,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-06-18,,Active,Simulated
+ICP000438,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-10-27,,Active,Simulated
+ICP000439,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-05-24,,Active,Simulated
+ICP000440,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-05-23,,Active,Simulated
+ICP000441,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-11-05,,Active,Simulated
+ICP000442,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-04-28,,Active,Simulated
+ICP000443,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-07-13,,Active,Simulated
+ICP000444,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2021-04-29,,Active,Simulated
+ICP000445,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2022-01-30,,Active,Simulated
+ICP000446,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2024-08-09,,Active,Simulated
+ICP000447,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-07-12,,Active,Simulated
+ICP000448,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-11-07,,Active,Simulated
+ICP000449,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2022-05-28,,Active,Simulated
+ICP000450,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-21,,Active,Simulated
+ICP000451,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-03-21,,Active,Simulated
+ICP000452,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-01-19,,Active,Simulated
+ICP000453,RET004,Residential Low User,Controlled,RES,Selwyn,2022-03-27,,Active,Simulated
+ICP000454,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2021-08-12,,Active,Simulated
+ICP000455,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2024-06-14,,Active,Simulated
+ICP000456,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-04-02,,Active,Simulated
+ICP000457,RET001,Residential Low User,Uncontrolled,URES,Christchurch Urban,2024-03-10,,Active,Simulated
+ICP000458,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-06-27,,Active,Simulated
+ICP000459,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-07-09,,Active,Simulated
+ICP000460,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-06-24,,Active,Simulated
+ICP000461,RET001,Residential Low User,Controlled,RES,Selwyn,2021-07-18,,Active,Simulated
+ICP000462,RET002,Residential Low User,Controlled,RES,Selwyn,2024-11-19,,Active,Simulated
+ICP000463,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2023-12-04,,Active,Simulated
+ICP000464,RET005,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-03-13,,Active,Simulated
+ICP000465,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-11-16,,Active,Simulated
+ICP000466,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-01-27,,Active,Simulated
+ICP000467,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2022-09-04,,Active,Simulated
+ICP000468,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-11-06,,Active,Simulated
+ICP000469,RET005,Residential Standard User,Controlled,RSC,Selwyn,2024-02-07,,Active,Simulated
+ICP000470,RET002,Residential Low User,Uncontrolled,URES,Christchurch Urban,2023-11-21,,Active,Simulated
+ICP000471,RET001,Residential Standard User,Uncontrolled,RSU,Selwyn,2022-07-10,,Active,Simulated
+ICP000472,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-20,,Active,Simulated
+ICP000473,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-11-08,,Active,Simulated
+ICP000474,RET005,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-04-30,,Active,Simulated
+ICP000475,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2022-01-04,,Active,Simulated
+ICP000476,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-01-16,,Active,Simulated
+ICP000477,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2021-11-09,,Active,Simulated
+ICP000478,RET002,Residential Low User,Uncontrolled,URES,Central Canterbury Rural,2023-02-12,,Active,Simulated
+ICP000479,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-05-07,,Active,Simulated
+ICP000480,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2022-07-15,,Active,Simulated
+ICP000481,RET003,Residential Low User,Uncontrolled,URES,Christchurch Urban,2021-02-07,,Active,Simulated
+ICP000482,RET003,Residential Low User,Controlled,RES,Selwyn,2021-01-18,,Active,Simulated
+ICP000483,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-03-31,,Active,Simulated
+ICP000484,RET004,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-13,,Active,Simulated
+ICP000485,RET001,Residential Standard User,Controlled,RSC,Selwyn,2022-12-10,,Active,Simulated
+ICP000486,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-21,,Active,Simulated
+ICP000487,RET003,Residential Low User,Controlled,RES,Selwyn,2022-01-02,,Active,Simulated
+ICP000488,RET003,Residential Low User,Controlled,RES,Selwyn,2023-07-15,,Active,Simulated
+ICP000489,RET003,Residential Low User,Uncontrolled,URES,Selwyn,2021-08-24,,Active,Simulated
+ICP000490,RET004,Residential Standard User,Controlled,RSC,Christchurch Urban,2022-07-03,,Active,Simulated
+ICP000491,RET002,Residential Standard User,Controlled,RSC,Christchurch Urban,2021-11-23,,Active,Simulated
+ICP000492,RET005,Residential Low User,Controlled,RES,Christchurch Urban,2024-12-11,,Active,Simulated
+ICP000493,RET001,Residential Low User,Controlled,RES,Central Canterbury Rural,2022-05-21,,Active,Simulated
+ICP000494,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-02-28,,Active,Simulated
+ICP000495,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2024-03-14,,Active,Simulated
+ICP000496,RET001,Residential Standard User,Controlled,RSC,Christchurch Urban,2023-06-27,,Active,Simulated
+ICP000497,RET003,Residential Low User,Controlled,RES,Christchurch Urban,2024-03-03,,Active,Simulated
+ICP000498,RET004,Residential Low User,Controlled,RES,Selwyn,2022-12-02,,Active,Simulated
+ICP000499,RET001,Residential Low User,Controlled,RES,Christchurch Urban,2023-08-22,,Active,Simulated
+ICP000500,RET002,Residential Low User,Controlled,RES,Christchurch Urban,2023-04-14,,Active,Simulated

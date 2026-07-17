@@ -1,0 +1,11 @@
+test_id,test_name,test_status,detail
+P01,Price-impact bill count,PASS,Found 1000
+P02,Price-impact months,PASS,"['2026-04', '2026-05']"
+P03,No missing scenario rates,PASS,Both scenarios populated
+P04,Price-impact arithmetic,PASS,Incorrect rows: 0
+P05,Monthly summary row count,PASS,Found 4
+P06,Retailer summary row count,PASS,Found 5
+P07,Category summary row count,PASS,Found 4
+P08,Monthly bills total,PASS,Found 2000
+P09,Monthly exceptions total,PASS,Found 50
+P10,Monthly revenue variance identity,PASS,Incorrect months: 0

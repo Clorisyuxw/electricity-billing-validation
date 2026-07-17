@@ -1,0 +1,5 @@
+price_category_code,bill_count,total_consumption_kwh,expected_revenue,system_billed_revenue,net_billing_variance,total_absolute_variance,exception_count,overbilled_amount,underbilled_amount,passed_bill_count,billing_accuracy_rate_pct,exception_rate_pct
+RES,1288,737443.741,82431.41,82558.74,127.33,255.21,31,191.27,63.94,1257,97.59,2.41
+RSC,396,335625.41,33582.95,33641.79,58.84,90.33,10,74.59,15.74,386,97.47,2.53
+RSU,76,58189.19,6458.51,6478.89,20.38,20.38,1,20.38,0.0,75,98.68,1.32
+URES,240,127736.961,16071.22,16112.23,41.01,61.29,8,51.15,10.14,232,96.67,3.33

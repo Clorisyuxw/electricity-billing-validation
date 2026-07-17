@@ -1,0 +1,11 @@
+test_id,test_name,test_status,detail
+B01,Expected component-detail row count,PASS,"Found 12,000; expected 2,000 months x 6 components"
+B02,Expected monthly-summary row count,PASS,"Found 2,000"
+B03,No missing price matches,PASS,Missing matches: 0
+B04,Prices effective for complete billing periods,PASS,Invalid period matches: 0
+B05,Quantity and price units match,PASS,Unit mismatches: 0
+B06,Six components per monthly bill,PASS,Incorrect summaries: 0
+B07,Monthly charges reconcile to component detail,PASS,Non-reconciling bills: 0
+B08,Price year selected at 1 April boundary,PASS,Wrong price years: 0
+B09,Super Off Peak retained at zero charge,PASS,"Rows checked: 2,000"
+B10,Every source month appears once in billing summary,PASS,"Source IDs: 2,000; output IDs: 2,000"

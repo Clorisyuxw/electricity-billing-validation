@@ -1,0 +1,5 @@
+billing_month,price_year,bill_count,total_consumption_kwh,expected_revenue,system_billed_revenue,net_billing_variance,total_absolute_variance,exception_count,overbilled_amount,underbilled_amount,passed_bill_count,billing_accuracy_rate_pct,exception_rate_pct
+2026-02,2025,500,286673.374,29514.35,29624.28,109.93,110.01,10,109.97,0.04,490,98.0,2.0
+2026-03,2025,500,300112.724,31553.25,31623.0,69.76,69.76,11,69.76,0.0,489,97.8,2.2
+2026-04,2026,500,324464.101,37734.53,37730.91,-3.63,136.62,16,66.5,70.13,484,96.8,3.2
+2026-05,2026,500,347745.103,39741.95,39813.47,71.52,110.82,13,91.17,19.65,487,97.4,2.6

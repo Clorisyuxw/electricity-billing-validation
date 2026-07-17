@@ -1,0 +1,8 @@
+test_id,test_name,test_status,detail
+S01,System summary row count,PASS,Found 2000
+S02,System detail row count,PASS,Found 12010
+S03,Unique controlled exception bills,PASS,Found 50
+S04,Ten bills per exception type,PASS,"{'CALCULATION_ERROR': 10, 'DUPLICATE_CONSUMPTION': 10, 'INCORRECT_ICP_DAYS': 10, 'OLD_PRICE_APPLIED': 10, 'WRONG_PRICE_CATEGORY': 10}"
+S05,Exception impacts exceed one cent,PASS,Minimum impact: 0.04109
+S06,No missing system amounts,PASS,Missing: 0
+S07,Unique system line IDs,PASS,Duplicates: 0

@@ -1,0 +1,12 @@
+test_id,test_name,test_status,detail
+R01,Reconciliation row count,PASS,Found 2000
+R02,Expected and system bills both present,PASS,"{'both': 2000, 'left_only': 0, 'right_only': 0}"
+R03,Review count equals controlled exceptions,PASS,Found 50
+R04,Clean bills pass,PASS,PASS: 1950
+R05,All controlled exceptions detected,PASS,Detected controlled bills: 50
+R06,Root-cause classification accuracy,PASS,Correct: 50 of 50
+R07,No false-positive issue detection,PASS,False positives: 0
+R08,No false-negative issue detection,PASS,False negatives: 0
+R09,System summary reconciles to detail,PASS,Non-reconciling: 0
+R10,Detected financial impact matches control,PASS,Correct: 50 of 50
+R11,Consumption quantity available for every reconciled bill,PASS,Missing total_kwh: 0

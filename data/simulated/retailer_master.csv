@@ -1,0 +1,6 @@
+retailer_id,retailer_name,billing_frequency,active_flag,data_origin
+RET001,Simulated Retailer A,Monthly,True,Simulated
+RET002,Simulated Retailer B,Monthly,True,Simulated
+RET003,Simulated Retailer C,Monthly,True,Simulated
+RET004,Simulated Retailer D,Monthly,True,Simulated
+RET005,Simulated Retailer E,Monthly,True,Simulated

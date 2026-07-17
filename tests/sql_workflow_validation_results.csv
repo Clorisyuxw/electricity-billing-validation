@@ -1,0 +1,9 @@
+test_id,test_name,test_status,detail
+SQL01,SQL expected monthly bill count,PASS,Found 2000
+SQL02,SQL and Python bill keys match,PASS,"{'both': 2000, 'left_only': 0, 'right_only': 0}"
+SQL03,SQL and Python expected amounts match,PASS,Maximum difference: 0.0000000000
+SQL04,SQL component count,PASS,Incorrect bills: 0
+SQL05,SQL reconciliation bill count,PASS,Found 2000
+SQL06,SQL review count,PASS,Found 50
+SQL07,SQL monthly reporting rows,PASS,Found 4
+SQL08,SQL data-quality failures,PASS,Total failures: 0

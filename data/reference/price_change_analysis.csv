@@ -1,0 +1,25 @@
+connection_group,control_type,price_category_code,component_name,component_code,unit,delivery_price_2025,delivery_price_2026,component_status,price_change,price_change_pct
+Residential Low User,Controlled,RES,Fixed Daily Charge,RESCFXD,$/con/day,0.6078,0.7572,Existing,0.1494,24.58
+Residential Low User,Controlled,RES,Off Peak,RESCOP,$/kWh,0.00721,0.00829,Existing,0.00108,14.98
+Residential Low User,Controlled,RES,Peak,RESCP,$/kWh,0.15611,0.17251,Existing,0.0164,10.51
+Residential Low User,Controlled,RES,Shoulder,RESCSH,$/kWh,0.09101,0.10011,Existing,0.0091,10.0
+Residential Low User,Controlled,RES,Super Off Peak,RESCSOP,$/kWh,0.0,0.0,Existing,0.0,0.0
+Residential Low User,Controlled,RES,Weekend,RESCWKD,$/kWh,0.03913,0.045,Existing,0.00587,15.0
+Residential Standard User,Controlled,RSC,Fixed Daily Charge,RSCCFXD,$/con/day,1.0191,1.1243,Existing,0.1052,10.32
+Residential Standard User,Controlled,RSC,Off Peak,RSCCOP,$/kWh,0.00582,0.00657,Existing,0.00075,12.89
+Residential Standard User,Controlled,RSC,Peak,RSCCP,$/kWh,0.12458,0.14192,Existing,0.01734,13.92
+Residential Standard User,Controlled,RSC,Shoulder,RSCCSH,$/kWh,0.0726,0.07993,Existing,0.00733,10.1
+Residential Standard User,Controlled,RSC,Super Off Peak,RSCCSOP,$/kWh,0.0,0.0,Existing,0.0,0.0
+Residential Standard User,Controlled,RSC,Weekend,RSCCWKD,$/kWh,0.03109,0.03636,Existing,0.00527,16.95
+Residential Standard User,Uncontrolled,RSU,Fixed Daily Charge,RSUUFXD,$/con/day,1.1613,1.2501,Existing,0.0888,7.65
+Residential Standard User,Uncontrolled,RSU,Off Peak,RSUUOP,$/kWh,0.00582,0.00657,Existing,0.00075,12.89
+Residential Standard User,Uncontrolled,RSU,Peak,RSUUP,$/kWh,0.12458,0.14192,Existing,0.01734,13.92
+Residential Standard User,Uncontrolled,RSU,Shoulder,RSUUSH,$/kWh,0.0726,0.07993,Existing,0.00733,10.1
+Residential Standard User,Uncontrolled,RSU,Super Off Peak,RSUUSOP,$/kWh,0.0,0.0,Existing,0.0,0.0
+Residential Standard User,Uncontrolled,RSU,Weekend,RSUUWKD,$/kWh,0.03109,0.03636,Existing,0.00527,16.95
+Residential Low User,Uncontrolled,URES,Fixed Daily Charge,URESUFXD,$/con/day,0.75,0.9,Existing,0.15,20.0
+Residential Low User,Uncontrolled,URES,Off Peak,URESUOP,$/kWh,0.00721,0.00829,Existing,0.00108,14.98
+Residential Low User,Uncontrolled,URES,Peak,URESUP,$/kWh,0.15611,0.17251,Existing,0.0164,10.51
+Residential Low User,Uncontrolled,URES,Shoulder,URESUSH,$/kWh,0.09101,0.10011,Existing,0.0091,10.0
+Residential Low User,Uncontrolled,URES,Super Off Peak,URESUSOP,$/kWh,0.0,0.0,Existing,0.0,0.0
+Residential Low User,Uncontrolled,URES,Weekend,URESUWKD,$/kWh,0.03913,0.045,Existing,0.00587,15.0

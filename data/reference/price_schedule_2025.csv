@@ -1,0 +1,25 @@
+price_year,effective_from,effective_to,connection_group,control_type,price_category_code,component_name,component_code,distribution_price,pass_through_recoverable_price,transmission_price,delivery_price,unit,source
+2025,2025-04-01,2026-03-31,Residential Low User,Uncontrolled,URES,Fixed Daily Charge,URESUFXD,0.4778,0.0459,0.2263,0.7500,$/con/day,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Uncontrolled,URES,Weekend,URESUWKD,0.03037,0.00122,0.00754,0.03913,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Uncontrolled,URES,Peak,URESUP,0.12116,0.00486,0.03009,0.15611,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Uncontrolled,URES,Shoulder,URESUSH,0.07000,0.00280,0.01821,0.09101,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Uncontrolled,URES,Off Peak,URESUOP,0.00558,0.00023,0.00140,0.00721,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Controlled,RES,Fixed Daily Charge,RESCFXD,0.3352,0.0459,0.2268,0.6078,$/con/day,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Controlled,RES,Weekend,RESCWKD,0.03037,0.00122,0.00754,0.03913,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Controlled,RES,Peak,RESCP,0.12116,0.00486,0.03009,0.15611,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Controlled,RES,Shoulder,RESCSH,0.07000,0.00280,0.01821,0.09101,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Controlled,RES,Off Peak,RESCOP,0.00558,0.00023,0.00140,0.00721,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Uncontrolled,RSU,Fixed Daily Charge,RSUUFXD,0.8881,0.0460,0.2272,1.1613,$/con/day,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Uncontrolled,RSU,Weekend,RSUUWKD,0.02233,0.00122,0.00754,0.03109,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Uncontrolled,RSU,Peak,RSUUP,0.08962,0.00486,0.03009,0.12458,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Uncontrolled,RSU,Shoulder,RSUUSH,0.05159,0.00280,0.01821,0.07260,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Uncontrolled,RSU,Off Peak,RSUUOP,0.00420,0.00023,0.00140,0.00582,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Controlled,RSC,Fixed Daily Charge,RSCCFXD,0.7466,0.0459,0.2266,1.0191,$/con/day,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Controlled,RSC,Weekend,RSCCWKD,0.02233,0.00122,0.00754,0.03109,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Controlled,RSC,Peak,RSCCP,0.08962,0.00486,0.03009,0.12458,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Controlled,RSC,Shoulder,RSCCSH,0.05159,0.00280,0.01821,0.07260,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Controlled,RSC,Off Peak,RSCCOP,0.00420,0.00023,0.00140,0.00582,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Uncontrolled,URES,Super Off Peak,URESUSOP,0,0,0,0,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Low User,Controlled,RES,Super Off Peak,RESCSOP,0,0,0,0,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Uncontrolled,RSU,Super Off Peak,RSUUSOP,0,0,0,0,$/kWh,Orion delivery price schedule 2025
+2025,2025-04-01,2026-03-31,Residential Standard User,Controlled,RSC,Super Off Peak,RSCCSOP,0,0,0,0,$/kWh,Orion delivery price schedule 2025

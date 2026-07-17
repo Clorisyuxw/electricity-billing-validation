@@ -1,0 +1,1001 @@
+consumption_id,icp_id,retailer_id,price_category_code,region,billing_month,charge_at_2025_rates,charge_at_2026_rates,price_change_impact,price_change_impact_pct,analysis_basis
+ICP000001-202604,ICP000001,RET002,URES,Selwyn,2026-04,59.00939,67.40923,8.39984,14.23,Same quantities and categories; price schedule changed only
+ICP000002-202604,ICP000002,RET004,RSC,Christchurch Urban,2026-04,75.31281,84.51127,9.19846,12.21,Same quantities and categories; price schedule changed only
+ICP000003-202604,ICP000003,RET001,RES,Christchurch Urban,2026-04,68.07737,78.27734,10.19996,14.98,Same quantities and categories; price schedule changed only
+ICP000004-202604,ICP000004,RET003,RES,Christchurch Urban,2026-04,59.62365,68.82742,9.20377,15.44,Same quantities and categories; price schedule changed only
+ICP000005-202604,ICP000005,RET001,RES,Christchurch Urban,2026-04,47.14923,54.86299,7.71376,16.36,Same quantities and categories; price schedule changed only
+ICP000006-202604,ICP000006,RET005,RSU,Christchurch Urban,2026-04,87.09674,96.57177,9.47504,10.88,Same quantities and categories; price schedule changed only
+ICP000007-202604,ICP000007,RET001,RSC,Christchurch Urban,2026-04,94.28528,106.42781,12.14252,12.88,Same quantities and categories; price schedule changed only
+ICP000008-202604,ICP000008,RET002,RSC,Christchurch Urban,2026-04,88.36782,99.57091,11.20309,12.68,Same quantities and categories; price schedule changed only
+ICP000009-202604,ICP000009,RET005,URES,Christchurch Urban,2026-04,59.57816,68.26689,8.68874,14.58,Same quantities and categories; price schedule changed only
+ICP000010-202604,ICP000010,RET005,RES,Christchurch Urban,2026-04,86.88822,98.82515,11.93693,13.74,Same quantities and categories; price schedule changed only
+ICP000011-202604,ICP000011,RET001,RES,Christchurch Urban,2026-04,72.90565,83.30616,10.4005,14.27,Same quantities and categories; price schedule changed only
+ICP000012-202604,ICP000012,RET001,RES,Christchurch Urban,2026-04,63.71595,73.15916,9.44321,14.82,Same quantities and categories; price schedule changed only
+ICP000013-202604,ICP000013,RET002,URES,Central Canterbury Rural,2026-04,75.91553,86.18379,10.26826,13.53,Same quantities and categories; price schedule changed only
+ICP000014-202604,ICP000014,RET004,RSC,Christchurch Urban,2026-04,76.32828,85.30161,8.97333,11.76,Same quantities and categories; price schedule changed only
+ICP000015-202604,ICP000015,RET004,RES,Christchurch Urban,2026-04,64.32262,73.96369,9.64107,14.99,Same quantities and categories; price schedule changed only
+ICP000016-202604,ICP000016,RET002,URES,Central Canterbury Rural,2026-04,51.94042,59.74706,7.80664,15.03,Same quantities and categories; price schedule changed only
+ICP000017-202604,ICP000017,RET003,RSC,Christchurch Urban,2026-04,84.6591,94.65065,9.99155,11.8,Same quantities and categories; price schedule changed only
+ICP000018-202604,ICP000018,RET003,URES,Christchurch Urban,2026-04,64.6946,73.89356,9.19897,14.22,Same quantities and categories; price schedule changed only
+ICP000019-202604,ICP000019,RET001,RSU,Christchurch Urban,2026-04,79.21373,87.78357,8.56984,10.82,Same quantities and categories; price schedule changed only
+ICP000020-202604,ICP000020,RET001,URES,Selwyn,2026-04,81.48602,92.33256,10.84654,13.31,Same quantities and categories; price schedule changed only
+ICP000021-202604,ICP000021,RET005,URES,Christchurch Urban,2026-04,53.62342,61.43337,7.80995,14.56,Same quantities and categories; price schedule changed only
+ICP000022-202604,ICP000022,RET002,RSC,Christchurch Urban,2026-04,79.72413,89.51247,9.78835,12.28,Same quantities and categories; price schedule changed only
+ICP000023-202604,ICP000023,RET002,RES,Christchurch Urban,2026-04,72.80816,83.35841,10.55026,14.49,Same quantities and categories; price schedule changed only
+ICP000024-202604,ICP000024,RET002,RES,Christchurch Urban,2026-04,59.89006,68.80125,8.91118,14.88,Same quantities and categories; price schedule changed only
+ICP000025-202604,ICP000025,RET002,RES,Christchurch Urban,2026-04,50.61548,58.59854,7.98307,15.77,Same quantities and categories; price schedule changed only
+ICP000026-202604,ICP000026,RET004,RES,Christchurch Urban,2026-04,56.7217,65.78393,9.06223,15.98,Same quantities and categories; price schedule changed only
+ICP000027-202604,ICP000027,RET002,RES,Christchurch Urban,2026-04,48.6547,56.59146,7.93676,16.31,Same quantities and categories; price schedule changed only
+ICP000028-202604,ICP000028,RET002,RES,Selwyn,2026-04,75.95844,86.93937,10.98093,14.46,Same quantities and categories; price schedule changed only
+ICP000029-202604,ICP000029,RET001,RSC,Christchurch Urban,2026-04,96.67515,108.72641,12.05127,12.47,Same quantities and categories; price schedule changed only
+ICP000030-202604,ICP000030,RET001,RES,Christchurch Urban,2026-04,92.14556,104.74805,12.60248,13.68,Same quantities and categories; price schedule changed only
+ICP000031-202604,ICP000031,RET002,RSU,Selwyn,2026-04,83.35879,92.30995,8.95115,10.74,Same quantities and categories; price schedule changed only
+ICP000032-202604,ICP000032,RET004,URES,Christchurch Urban,2026-04,85.34393,96.76591,11.42198,13.38,Same quantities and categories; price schedule changed only
+ICP000033-202604,ICP000033,RET002,RES,Christchurch Urban,2026-04,56.01038,64.71358,8.7032,15.54,Same quantities and categories; price schedule changed only
+ICP000034-202604,ICP000034,RET004,RES,Christchurch Urban,2026-04,52.73484,61.06653,8.33169,15.8,Same quantities and categories; price schedule changed only
+ICP000035-202604,ICP000035,RET005,RSC,Selwyn,2026-04,84.88154,94.89986,10.01833,11.8,Same quantities and categories; price schedule changed only
+ICP000036-202604,ICP000036,RET001,RES,Christchurch Urban,2026-04,59.21648,68.33976,9.12328,15.41,Same quantities and categories; price schedule changed only
+ICP000037-202604,ICP000037,RET004,RES,Christchurch Urban,2026-04,43.92009,51.22071,7.30062,16.62,Same quantities and categories; price schedule changed only
+ICP000038-202604,ICP000038,RET004,RSC,Christchurch Urban,2026-04,73.02472,81.693,8.66828,11.87,Same quantities and categories; price schedule changed only
+ICP000039-202604,ICP000039,RET004,RES,Christchurch Urban,2026-04,51.72262,59.98026,8.25763,15.97,Same quantities and categories; price schedule changed only
+ICP000040-202604,ICP000040,RET004,RES,Christchurch Urban,2026-04,69.41138,79.39961,9.98823,14.39,Same quantities and categories; price schedule changed only
+ICP000041-202604,ICP000041,RET004,RES,Christchurch Urban,2026-04,75.6336,86.19734,10.56374,13.97,Same quantities and categories; price schedule changed only
+ICP000042-202604,ICP000042,RET002,RSC,Christchurch Urban,2026-04,86.70642,97.44975,10.74333,12.39,Same quantities and categories; price schedule changed only
+ICP000043-202604,ICP000043,RET001,RSC,Christchurch Urban,2026-04,63.94613,71.22024,7.27412,11.38,Same quantities and categories; price schedule changed only
+ICP000044-202604,ICP000044,RET003,URES,Christchurch Urban,2026-04,75.90619,86.2754,10.36921,13.66,Same quantities and categories; price schedule changed only
+ICP000045-202604,ICP000045,RET001,RSC,Central Canterbury Rural,2026-04,96.13878,108.09796,11.95917,12.44,Same quantities and categories; price schedule changed only
+ICP000046-202604,ICP000046,RET002,RSC,Christchurch Urban,2026-04,76.29468,85.25236,8.95768,11.74,Same quantities and categories; price schedule changed only
+ICP000047-202604,ICP000047,RET001,RSU,Christchurch Urban,2026-04,57.21617,62.83781,5.62164,9.83,Same quantities and categories; price schedule changed only
+ICP000048-202604,ICP000048,RET002,RES,Christchurch Urban,2026-04,52.74333,61.0276,8.28427,15.71,Same quantities and categories; price schedule changed only
+ICP000049-202604,ICP000049,RET001,RES,Christchurch Urban,2026-04,44.43846,51.87831,7.43985,16.74,Same quantities and categories; price schedule changed only
+ICP000050-202604,ICP000050,RET004,RES,Christchurch Urban,2026-04,75.79754,86.42946,10.63192,14.03,Same quantities and categories; price schedule changed only
+ICP000051-202604,ICP000051,RET004,URES,Christchurch Urban,2026-04,62.69725,71.65828,8.96103,14.29,Same quantities and categories; price schedule changed only
+ICP000052-202604,ICP000052,RET001,RSC,Christchurch Urban,2026-04,62.061,69.28634,7.22534,11.64,Same quantities and categories; price schedule changed only
+ICP000053-202604,ICP000053,RET003,RSC,Central Canterbury Rural,2026-04,73.71695,82.68739,8.97044,12.17,Same quantities and categories; price schedule changed only
+ICP000054-202604,ICP000054,RET002,RSC,Selwyn,2026-04,96.86733,108.7033,11.83597,12.22,Same quantities and categories; price schedule changed only
+ICP000055-202604,ICP000055,RET001,RES,Central Canterbury Rural,2026-04,79.15895,90.80544,11.64649,14.71,Same quantities and categories; price schedule changed only
+ICP000056-202604,ICP000056,RET005,URES,Christchurch Urban,2026-04,66.36678,75.57315,9.20637,13.87,Same quantities and categories; price schedule changed only
+ICP000057-202604,ICP000057,RET001,RES,Christchurch Urban,2026-04,107.99203,122.61799,14.62597,13.54,Same quantities and categories; price schedule changed only
+ICP000058-202604,ICP000058,RET003,RES,Selwyn,2026-04,59.86836,69.03645,9.16809,15.31,Same quantities and categories; price schedule changed only
+ICP000059-202604,ICP000059,RET002,RES,Christchurch Urban,2026-04,77.51894,88.41846,10.89952,14.06,Same quantities and categories; price schedule changed only
+ICP000060-202604,ICP000060,RET002,RES,Christchurch Urban,2026-04,47.12217,54.90167,7.77951,16.51,Same quantities and categories; price schedule changed only
+ICP000061-202604,ICP000061,RET001,RES,Christchurch Urban,2026-04,56.46155,64.98882,8.52727,15.1,Same quantities and categories; price schedule changed only
+ICP000062-202604,ICP000062,RET002,RES,Christchurch Urban,2026-04,66.20629,75.79629,9.59,14.49,Same quantities and categories; price schedule changed only
+ICP000063-202604,ICP000063,RET002,RSC,Christchurch Urban,2026-04,98.97624,110.49004,11.5138,11.63,Same quantities and categories; price schedule changed only
+ICP000064-202604,ICP000064,RET002,RES,Central Canterbury Rural,2026-04,65.36653,75.09733,9.7308,14.89,Same quantities and categories; price schedule changed only
+ICP000065-202604,ICP000065,RET001,RES,Christchurch Urban,2026-04,51.18364,59.55017,8.36652,16.35,Same quantities and categories; price schedule changed only
+ICP000066-202604,ICP000066,RET002,RSC,Christchurch Urban,2026-04,80.97553,90.57986,9.60433,11.86,Same quantities and categories; price schedule changed only
+ICP000067-202604,ICP000067,RET004,RES,Christchurch Urban,2026-04,60.49998,69.81824,9.31826,15.4,Same quantities and categories; price schedule changed only
+ICP000068-202604,ICP000068,RET004,RES,Christchurch Urban,2026-04,54.40403,62.96159,8.55756,15.73,Same quantities and categories; price schedule changed only
+ICP000069-202604,ICP000069,RET001,RES,Christchurch Urban,2026-04,56.4404,65.10784,8.66744,15.36,Same quantities and categories; price schedule changed only
+ICP000070-202604,ICP000070,RET001,RES,Christchurch Urban,2026-04,64.36921,73.93282,9.5636,14.86,Same quantities and categories; price schedule changed only
+ICP000071-202604,ICP000071,RET002,RES,Christchurch Urban,2026-04,49.90794,57.91241,8.00447,16.04,Same quantities and categories; price schedule changed only
+ICP000072-202604,ICP000072,RET004,RSC,Christchurch Urban,2026-04,66.52271,74.54625,8.02353,12.06,Same quantities and categories; price schedule changed only
+ICP000073-202604,ICP000073,RET002,RSC,Central Canterbury Rural,2026-04,73.13613,81.61595,8.47982,11.59,Same quantities and categories; price schedule changed only
+ICP000074-202604,ICP000074,RET003,RES,Christchurch Urban,2026-04,54.51693,62.98181,8.46488,15.53,Same quantities and categories; price schedule changed only
+ICP000075-202604,ICP000075,RET003,RES,Christchurch Urban,2026-04,51.02019,59.17231,8.15212,15.98,Same quantities and categories; price schedule changed only
+ICP000076-202604,ICP000076,RET003,RSC,Christchurch Urban,2026-04,65.84775,73.69044,7.84269,11.91,Same quantities and categories; price schedule changed only
+ICP000077-202604,ICP000077,RET002,RES,Central Canterbury Rural,2026-04,53.7024,62.2413,8.5389,15.9,Same quantities and categories; price schedule changed only
+ICP000078-202604,ICP000078,RET003,RES,Christchurch Urban,2026-04,67.21226,77.04458,9.83232,14.63,Same quantities and categories; price schedule changed only
+ICP000079-202604,ICP000079,RET002,RES,Christchurch Urban,2026-04,54.43815,63.11687,8.67872,15.94,Same quantities and categories; price schedule changed only
+ICP000080-202604,ICP000080,RET001,RES,Christchurch Urban,2026-04,46.75432,54.52535,7.77103,16.62,Same quantities and categories; price schedule changed only
+ICP000081-202604,ICP000081,RET003,RSU,Christchurch Urban,2026-04,80.59203,89.18766,8.59563,10.67,Same quantities and categories; price schedule changed only
+ICP000082-202604,ICP000082,RET003,RES,Christchurch Urban,2026-04,40.48568,47.51614,7.03045,17.37,Same quantities and categories; price schedule changed only
+ICP000083-202604,ICP000083,RET003,RES,Selwyn,2026-04,68.7806,79.06826,10.28766,14.96,Same quantities and categories; price schedule changed only
+ICP000084-202604,ICP000084,RET004,RSC,Christchurch Urban,2026-04,49.92493,55.59559,5.67066,11.36,Same quantities and categories; price schedule changed only
+ICP000085-202604,ICP000085,RET001,RES,Christchurch Urban,2026-04,107.87487,121.87732,14.00246,12.98,Same quantities and categories; price schedule changed only
+ICP000086-202604,ICP000086,RET004,RES,Christchurch Urban,2026-04,46.44621,54.08234,7.63613,16.44,Same quantities and categories; price schedule changed only
+ICP000087-202604,ICP000087,RET001,RES,Christchurch Urban,2026-04,66.04875,75.65969,9.61094,14.55,Same quantities and categories; price schedule changed only
+ICP000088-202604,ICP000088,RET001,RES,Christchurch Urban,2026-04,73.2453,83.64066,10.39536,14.19,Same quantities and categories; price schedule changed only
+ICP000089-202604,ICP000089,RET004,RES,Christchurch Urban,2026-04,47.72333,55.58703,7.86371,16.48,Same quantities and categories; price schedule changed only
+ICP000090-202604,ICP000090,RET002,RES,Christchurch Urban,2026-04,50.63025,58.74445,8.1142,16.03,Same quantities and categories; price schedule changed only
+ICP000091-202604,ICP000091,RET004,RES,Christchurch Urban,2026-04,52.03888,60.39082,8.35193,16.05,Same quantities and categories; price schedule changed only
+ICP000092-202604,ICP000092,RET001,RES,Christchurch Urban,2026-04,62.62304,72.23168,9.60864,15.34,Same quantities and categories; price schedule changed only
+ICP000093-202604,ICP000093,RET005,RES,Christchurch Urban,2026-04,52.46029,60.63778,8.17749,15.59,Same quantities and categories; price schedule changed only
+ICP000094-202604,ICP000094,RET005,RES,Christchurch Urban,2026-04,50.46071,58.58169,8.12098,16.09,Same quantities and categories; price schedule changed only
+ICP000095-202604,ICP000095,RET001,RES,Central Canterbury Rural,2026-04,67.49943,77.30555,9.80612,14.53,Same quantities and categories; price schedule changed only
+ICP000096-202604,ICP000096,RET002,URES,Christchurch Urban,2026-04,54.54625,62.62827,8.08202,14.82,Same quantities and categories; price schedule changed only
+ICP000097-202604,ICP000097,RET001,RES,Christchurch Urban,2026-04,61.92622,71.4783,9.55208,15.42,Same quantities and categories; price schedule changed only
+ICP000098-202604,ICP000098,RET005,RES,Christchurch Urban,2026-04,49.55302,57.48626,7.93324,16.01,Same quantities and categories; price schedule changed only
+ICP000099-202604,ICP000099,RET003,RSC,Selwyn,2026-04,75.10679,84.09973,8.99294,11.97,Same quantities and categories; price schedule changed only
+ICP000100-202604,ICP000100,RET003,RSC,Central Canterbury Rural,2026-04,79.16528,88.42363,9.25835,11.69,Same quantities and categories; price schedule changed only
+ICP000101-202604,ICP000101,RET003,RES,Christchurch Urban,2026-04,87.09061,99.20134,12.11073,13.91,Same quantities and categories; price schedule changed only
+ICP000102-202604,ICP000102,RET001,RSC,Christchurch Urban,2026-04,68.65383,77.1363,8.48248,12.36,Same quantities and categories; price schedule changed only
+ICP000103-202604,ICP000103,RET002,RSC,Christchurch Urban,2026-04,83.75213,94.30817,10.55604,12.6,Same quantities and categories; price schedule changed only
+ICP000104-202604,ICP000104,RET005,RSC,Christchurch Urban,2026-04,75.26702,83.8663,8.59928,11.43,Same quantities and categories; price schedule changed only
+ICP000105-202604,ICP000105,RET001,RES,Christchurch Urban,2026-04,98.28029,111.32497,13.04468,13.27,Same quantities and categories; price schedule changed only
+ICP000106-202604,ICP000106,RET001,RES,Christchurch Urban,2026-04,53.43432,61.89319,8.45887,15.83,Same quantities and categories; price schedule changed only
+ICP000107-202604,ICP000107,RET004,URES,Christchurch Urban,2026-04,56.64261,64.97725,8.33464,14.71,Same quantities and categories; price schedule changed only
+ICP000108-202604,ICP000108,RET001,RES,Christchurch Urban,2026-04,50.06724,57.97342,7.90618,15.79,Same quantities and categories; price schedule changed only
+ICP000109-202604,ICP000109,RET001,RSC,Selwyn,2026-04,75.46824,84.59155,9.12331,12.09,Same quantities and categories; price schedule changed only
+ICP000110-202604,ICP000110,RET002,RES,Christchurch Urban,2026-04,65.44865,75.12363,9.67498,14.78,Same quantities and categories; price schedule changed only
+ICP000111-202604,ICP000111,RET002,RES,Christchurch Urban,2026-04,65.14628,74.88076,9.73448,14.94,Same quantities and categories; price schedule changed only
+ICP000112-202604,ICP000112,RET003,RSU,Christchurch Urban,2026-04,65.70897,72.49329,6.78431,10.32,Same quantities and categories; price schedule changed only
+ICP000113-202604,ICP000113,RET001,RES,Christchurch Urban,2026-04,70.58262,80.84437,10.26175,14.54,Same quantities and categories; price schedule changed only
+ICP000114-202604,ICP000114,RET001,RES,Christchurch Urban,2026-04,72.88184,83.45331,10.57147,14.5,Same quantities and categories; price schedule changed only
+ICP000115-202604,ICP000115,RET004,RES,Christchurch Urban,2026-04,86.80304,98.7792,11.97616,13.8,Same quantities and categories; price schedule changed only
+ICP000116-202604,ICP000116,RET002,RES,Christchurch Urban,2026-04,60.86332,70.19821,9.33489,15.34,Same quantities and categories; price schedule changed only
+ICP000117-202604,ICP000117,RET001,RES,Christchurch Urban,2026-04,73.79266,84.15171,10.35906,14.04,Same quantities and categories; price schedule changed only
+ICP000118-202604,ICP000118,RET003,RES,Christchurch Urban,2026-04,64.18209,73.6746,9.49251,14.79,Same quantities and categories; price schedule changed only
+ICP000119-202604,ICP000119,RET004,RES,Selwyn,2026-04,73.95436,84.56865,10.61429,14.35,Same quantities and categories; price schedule changed only
+ICP000120-202604,ICP000120,RET004,RES,Selwyn,2026-04,78.24101,89.26743,11.02643,14.09,Same quantities and categories; price schedule changed only
+ICP000121-202604,ICP000121,RET002,RES,Christchurch Urban,2026-04,56.12245,64.83423,8.71177,15.52,Same quantities and categories; price schedule changed only
+ICP000122-202604,ICP000122,RET005,RES,Selwyn,2026-04,54.99075,63.70603,8.71527,15.85,Same quantities and categories; price schedule changed only
+ICP000123-202604,ICP000123,RET005,RSU,Christchurch Urban,2026-04,106.00687,117.78654,11.77968,11.11,Same quantities and categories; price schedule changed only
+ICP000124-202604,ICP000124,RET004,RES,Central Canterbury Rural,2026-04,41.27098,48.4573,7.18631,17.41,Same quantities and categories; price schedule changed only
+ICP000125-202604,ICP000125,RET001,RES,Christchurch Urban,2026-04,51.7274,59.89512,8.16772,15.79,Same quantities and categories; price schedule changed only
+ICP000126-202604,ICP000126,RET001,RES,Christchurch Urban,2026-04,71.00699,81.49324,10.48625,14.77,Same quantities and categories; price schedule changed only
+ICP000127-202604,ICP000127,RET001,RSU,Christchurch Urban,2026-04,67.1746,74.38667,7.21207,10.74,Same quantities and categories; price schedule changed only
+ICP000128-202604,ICP000128,RET001,RES,Christchurch Urban,2026-04,45.66699,53.09613,7.42914,16.27,Same quantities and categories; price schedule changed only
+ICP000129-202604,ICP000129,RET002,RES,Selwyn,2026-04,58.15117,67.2509,9.09972,15.65,Same quantities and categories; price schedule changed only
+ICP000130-202604,ICP000130,RET001,RSU,Christchurch Urban,2026-04,72.3415,79.75877,7.41727,10.25,Same quantities and categories; price schedule changed only
+ICP000131-202604,ICP000131,RET001,RSC,Christchurch Urban,2026-04,94.67112,105.83772,11.16661,11.8,Same quantities and categories; price schedule changed only
+ICP000132-202604,ICP000132,RET002,RES,Christchurch Urban,2026-04,77.00264,87.89162,10.88897,14.14,Same quantities and categories; price schedule changed only
+ICP000133-202604,ICP000133,RET002,RES,Christchurch Urban,2026-04,65.35017,75.30749,9.95732,15.24,Same quantities and categories; price schedule changed only
+ICP000134-202604,ICP000134,RET004,RES,Selwyn,2026-04,56.97115,65.68602,8.71487,15.3,Same quantities and categories; price schedule changed only
+ICP000135-202604,ICP000135,RET001,RSC,Central Canterbury Rural,2026-04,90.07771,100.82173,10.74401,11.93,Same quantities and categories; price schedule changed only
+ICP000136-202604,ICP000136,RET001,URES,Christchurch Urban,2026-04,45.67874,52.79616,7.11742,15.58,Same quantities and categories; price schedule changed only
+ICP000137-202604,ICP000137,RET004,RES,Christchurch Urban,2026-04,82.31385,93.79625,11.4824,13.95,Same quantities and categories; price schedule changed only
+ICP000138-202604,ICP000138,RET001,RES,Selwyn,2026-04,53.37673,61.70612,8.32939,15.6,Same quantities and categories; price schedule changed only
+ICP000139-202604,ICP000139,RET003,RES,Christchurch Urban,2026-04,57.67347,66.46411,8.79064,15.24,Same quantities and categories; price schedule changed only
+ICP000140-202604,ICP000140,RET002,URES,Christchurch Urban,2026-04,76.10279,86.52099,10.41821,13.69,Same quantities and categories; price schedule changed only
+ICP000141-202604,ICP000141,RET002,RES,Selwyn,2026-04,40.48562,47.55437,7.06876,17.46,Same quantities and categories; price schedule changed only
+ICP000142-202604,ICP000142,RET001,RES,Christchurch Urban,2026-04,43.77597,51.441,7.66504,17.51,Same quantities and categories; price schedule changed only
+ICP000143-202604,ICP000143,RET002,RES,Christchurch Urban,2026-04,59.24176,68.32276,9.081,15.33,Same quantities and categories; price schedule changed only
+ICP000144-202604,ICP000144,RET001,RSC,Christchurch Urban,2026-04,99.27423,111.50056,12.22633,12.32,Same quantities and categories; price schedule changed only
+ICP000145-202604,ICP000145,RET004,RES,Christchurch Urban,2026-04,42.28602,49.60971,7.32369,17.32,Same quantities and categories; price schedule changed only
+ICP000146-202604,ICP000146,RET002,RES,Christchurch Urban,2026-04,81.97419,93.72068,11.74649,14.33,Same quantities and categories; price schedule changed only
+ICP000147-202604,ICP000147,RET003,RSC,Christchurch Urban,2026-04,53.04528,59.15753,6.11225,11.52,Same quantities and categories; price schedule changed only
+ICP000148-202604,ICP000148,RET005,URES,Selwyn,2026-04,66.96945,76.38385,9.41441,14.06,Same quantities and categories; price schedule changed only
+ICP000149-202604,ICP000149,RET001,RES,Christchurch Urban,2026-04,51.78956,59.93281,8.14325,15.72,Same quantities and categories; price schedule changed only
+ICP000150-202604,ICP000150,RET001,RES,Christchurch Urban,2026-04,38.6004,45.39693,6.79653,17.61,Same quantities and categories; price schedule changed only
+ICP000151-202604,ICP000151,RET003,RSC,Christchurch Urban,2026-04,105.62136,118.75087,13.12951,12.43,Same quantities and categories; price schedule changed only
+ICP000152-202604,ICP000152,RET002,RES,Selwyn,2026-04,44.28889,51.56549,7.27661,16.43,Same quantities and categories; price schedule changed only
+ICP000153-202604,ICP000153,RET003,URES,Christchurch Urban,2026-04,55.09325,63.30592,8.21267,14.91,Same quantities and categories; price schedule changed only
+ICP000154-202604,ICP000154,RET002,RES,Christchurch Urban,2026-04,57.74274,66.55592,8.81318,15.26,Same quantities and categories; price schedule changed only
+ICP000155-202604,ICP000155,RET004,RSC,Christchurch Urban,2026-04,96.19563,108.03246,11.83683,12.3,Same quantities and categories; price schedule changed only
+ICP000156-202604,ICP000156,RET002,RES,Christchurch Urban,2026-04,65.43195,75.36479,9.93285,15.18,Same quantities and categories; price schedule changed only
+ICP000157-202604,ICP000157,RET005,RES,Christchurch Urban,2026-04,39.01972,46.02013,7.00041,17.94,Same quantities and categories; price schedule changed only
+ICP000158-202604,ICP000158,RET005,RES,Christchurch Urban,2026-04,32.90787,39.09865,6.19078,18.81,Same quantities and categories; price schedule changed only
+ICP000159-202604,ICP000159,RET001,RSC,Christchurch Urban,2026-04,65.77752,73.66506,7.88754,11.99,Same quantities and categories; price schedule changed only
+ICP000160-202604,ICP000160,RET003,RSC,Christchurch Urban,2026-04,67.06523,75.10809,8.04286,11.99,Same quantities and categories; price schedule changed only
+ICP000161-202604,ICP000161,RET003,RES,Selwyn,2026-04,64.05371,73.67306,9.61935,15.02,Same quantities and categories; price schedule changed only
+ICP000162-202604,ICP000162,RET001,RES,Selwyn,2026-04,55.61948,64.3024,8.68292,15.61,Same quantities and categories; price schedule changed only
+ICP000163-202604,ICP000163,RET003,RES,Selwyn,2026-04,69.2201,79.06274,9.84264,14.22,Same quantities and categories; price schedule changed only
+ICP000164-202604,ICP000164,RET001,RSU,Christchurch Urban,2026-04,77.58453,85.79461,8.21008,10.58,Same quantities and categories; price schedule changed only
+ICP000165-202604,ICP000165,RET001,RSC,Selwyn,2026-04,115.30165,129.42675,14.12511,12.25,Same quantities and categories; price schedule changed only
+ICP000166-202604,ICP000166,RET005,URES,Christchurch Urban,2026-04,80.2413,91.01434,10.77304,13.43,Same quantities and categories; price schedule changed only
+ICP000167-202604,ICP000167,RET002,RSC,Christchurch Urban,2026-04,70.2851,78.26445,7.97935,11.35,Same quantities and categories; price schedule changed only
+ICP000168-202604,ICP000168,RET001,URES,Christchurch Urban,2026-04,64.58055,73.80288,9.22233,14.28,Same quantities and categories; price schedule changed only
+ICP000169-202604,ICP000169,RET005,RES,Christchurch Urban,2026-04,59.68276,68.61349,8.93073,14.96,Same quantities and categories; price schedule changed only
+ICP000170-202604,ICP000170,RET003,URES,Christchurch Urban,2026-04,60.11066,68.88497,8.77431,14.6,Same quantities and categories; price schedule changed only
+ICP000171-202604,ICP000171,RET002,URES,Christchurch Urban,2026-04,49.03584,56.44086,7.40502,15.1,Same quantities and categories; price schedule changed only
+ICP000172-202604,ICP000172,RET001,RES,Christchurch Urban,2026-04,55.68442,64.30588,8.62146,15.48,Same quantities and categories; price schedule changed only
+ICP000173-202604,ICP000173,RET004,RES,Christchurch Urban,2026-04,44.25005,51.53466,7.28461,16.46,Same quantities and categories; price schedule changed only
+ICP000174-202604,ICP000174,RET005,URES,Christchurch Urban,2026-04,46.69007,53.97859,7.28852,15.61,Same quantities and categories; price schedule changed only
+ICP000175-202604,ICP000175,RET003,RSC,Selwyn,2026-04,71.23942,79.7221,8.48267,11.91,Same quantities and categories; price schedule changed only
+ICP000176-202604,ICP000176,RET005,URES,Christchurch Urban,2026-04,69.02309,78.64663,9.62354,13.94,Same quantities and categories; price schedule changed only
+ICP000177-202604,ICP000177,RET003,RSC,Selwyn,2026-04,111.38321,124.46037,13.07716,11.74,Same quantities and categories; price schedule changed only
+ICP000178-202604,ICP000178,RET004,RES,Christchurch Urban,2026-04,57.29221,66.18034,8.88813,15.51,Same quantities and categories; price schedule changed only
+ICP000179-202604,ICP000179,RET001,URES,Christchurch Urban,2026-04,46.66374,53.82547,7.16173,15.35,Same quantities and categories; price schedule changed only
+ICP000180-202604,ICP000180,RET005,RES,Christchurch Urban,2026-04,61.34612,70.53506,9.18894,14.98,Same quantities and categories; price schedule changed only
+ICP000181-202604,ICP000181,RET002,URES,Christchurch Urban,2026-04,48.73078,56.26993,7.53915,15.47,Same quantities and categories; price schedule changed only
+ICP000182-202604,ICP000182,RET002,RSC,Christchurch Urban,2026-04,109.18765,122.68324,13.49559,12.36,Same quantities and categories; price schedule changed only
+ICP000183-202604,ICP000183,RET002,RES,Christchurch Urban,2026-04,94.73547,107.87819,13.14273,13.87,Same quantities and categories; price schedule changed only
+ICP000184-202604,ICP000184,RET002,RES,Central Canterbury Rural,2026-04,67.12215,76.92839,9.80624,14.61,Same quantities and categories; price schedule changed only
+ICP000185-202604,ICP000185,RET004,RES,Central Canterbury Rural,2026-04,55.33749,64.02399,8.6865,15.7,Same quantities and categories; price schedule changed only
+ICP000186-202604,ICP000186,RET002,RSC,Christchurch Urban,2026-04,85.42138,95.34185,9.92047,11.61,Same quantities and categories; price schedule changed only
+ICP000187-202604,ICP000187,RET002,RES,Christchurch Urban,2026-04,67.60516,77.59496,9.9898,14.78,Same quantities and categories; price schedule changed only
+ICP000188-202604,ICP000188,RET004,RES,Selwyn,2026-04,79.16263,90.59415,11.43152,14.44,Same quantities and categories; price schedule changed only
+ICP000189-202604,ICP000189,RET005,RSC,Central Canterbury Rural,2026-04,92.23261,103.68665,11.45405,12.42,Same quantities and categories; price schedule changed only
+ICP000190-202604,ICP000190,RET005,RES,Christchurch Urban,2026-04,52.20812,60.3776,8.16948,15.65,Same quantities and categories; price schedule changed only
+ICP000191-202604,ICP000191,RET001,RES,Christchurch Urban,2026-04,55.92906,64.85823,8.92917,15.97,Same quantities and categories; price schedule changed only
+ICP000192-202604,ICP000192,RET002,RES,Central Canterbury Rural,2026-04,58.84926,67.83374,8.98448,15.27,Same quantities and categories; price schedule changed only
+ICP000193-202604,ICP000193,RET004,RES,Christchurch Urban,2026-04,84.74849,96.47075,11.72226,13.83,Same quantities and categories; price schedule changed only
+ICP000194-202604,ICP000194,RET002,RSC,Christchurch Urban,2026-04,65.97575,74.04994,8.07418,12.24,Same quantities and categories; price schedule changed only
+ICP000195-202604,ICP000195,RET002,RES,Christchurch Urban,2026-04,71.25104,81.77645,10.52541,14.77,Same quantities and categories; price schedule changed only
+ICP000196-202604,ICP000196,RET002,URES,Christchurch Urban,2026-04,62.70855,71.70997,9.00142,14.35,Same quantities and categories; price schedule changed only
+ICP000197-202604,ICP000197,RET004,RES,Christchurch Urban,2026-04,56.11093,64.66362,8.5527,15.24,Same quantities and categories; price schedule changed only
+ICP000198-202604,ICP000198,RET002,RES,Selwyn,2026-04,65.16856,74.694,9.52544,14.62,Same quantities and categories; price schedule changed only
+ICP000199-202604,ICP000199,RET003,RES,Christchurch Urban,2026-04,61.69404,71.47787,9.78383,15.86,Same quantities and categories; price schedule changed only
+ICP000200-202604,ICP000200,RET002,RES,Central Canterbury Rural,2026-04,62.23372,71.53259,9.29888,14.94,Same quantities and categories; price schedule changed only
+ICP000201-202604,ICP000201,RET001,RES,Selwyn,2026-04,60.24212,69.17325,8.93113,14.83,Same quantities and categories; price schedule changed only
+ICP000202-202604,ICP000202,RET005,RSC,Christchurch Urban,2026-04,77.65036,86.96004,9.30969,11.99,Same quantities and categories; price schedule changed only
+ICP000203-202604,ICP000203,RET004,URES,Selwyn,2026-04,49.13763,56.6239,7.48627,15.24,Same quantities and categories; price schedule changed only
+ICP000204-202604,ICP000204,RET005,RSU,Christchurch Urban,2026-04,84.9024,94.50638,9.60398,11.31,Same quantities and categories; price schedule changed only
+ICP000205-202604,ICP000205,RET005,URES,Selwyn,2026-04,62.19698,71.18081,8.98383,14.44,Same quantities and categories; price schedule changed only
+ICP000206-202604,ICP000206,RET001,RSC,Christchurch Urban,2026-04,104.14645,116.70599,12.55955,12.06,Same quantities and categories; price schedule changed only
+ICP000207-202604,ICP000207,RET001,RES,Christchurch Urban,2026-04,70.65864,81.02374,10.3651,14.67,Same quantities and categories; price schedule changed only
+ICP000208-202604,ICP000208,RET003,RES,Christchurch Urban,2026-04,57.74124,66.52936,8.78811,15.22,Same quantities and categories; price schedule changed only
+ICP000209-202604,ICP000209,RET001,RES,Selwyn,2026-04,56.82596,65.68902,8.86306,15.6,Same quantities and categories; price schedule changed only
+ICP000210-202604,ICP000210,RET003,RES,Christchurch Urban,2026-04,54.43498,63.14226,8.70728,16.0,Same quantities and categories; price schedule changed only
+ICP000211-202604,ICP000211,RET002,RES,Selwyn,2026-04,68.72792,78.98207,10.25415,14.92,Same quantities and categories; price schedule changed only
+ICP000212-202604,ICP000212,RET002,RES,Central Canterbury Rural,2026-04,44.92915,52.26466,7.33551,16.33,Same quantities and categories; price schedule changed only
+ICP000213-202604,ICP000213,RET002,RSC,Christchurch Urban,2026-04,110.35359,123.89279,13.53919,12.27,Same quantities and categories; price schedule changed only
+ICP000214-202604,ICP000214,RET002,RES,Christchurch Urban,2026-04,65.42002,75.11043,9.69041,14.81,Same quantities and categories; price schedule changed only
+ICP000215-202604,ICP000215,RET004,RES,Central Canterbury Rural,2026-04,62.39976,71.83725,9.43748,15.12,Same quantities and categories; price schedule changed only
+ICP000216-202604,ICP000216,RET003,URES,Christchurch Urban,2026-04,63.24096,72.19885,8.95789,14.16,Same quantities and categories; price schedule changed only
+ICP000217-202604,ICP000217,RET001,RES,Central Canterbury Rural,2026-04,75.12578,85.75016,10.62439,14.14,Same quantities and categories; price schedule changed only
+ICP000218-202604,ICP000218,RET005,RES,Christchurch Urban,2026-04,59.13101,68.01395,8.88295,15.02,Same quantities and categories; price schedule changed only
+ICP000219-202604,ICP000219,RET005,RSC,Christchurch Urban,2026-04,85.69634,96.15423,10.45789,12.2,Same quantities and categories; price schedule changed only
+ICP000220-202604,ICP000220,RET004,URES,Christchurch Urban,2026-04,81.58436,92.44684,10.86249,13.31,Same quantities and categories; price schedule changed only
+ICP000221-202604,ICP000221,RET001,RSC,Christchurch Urban,2026-04,85.72131,95.76086,10.03955,11.71,Same quantities and categories; price schedule changed only
+ICP000222-202604,ICP000222,RET002,RES,Selwyn,2026-04,64.51973,74.08834,9.56861,14.83,Same quantities and categories; price schedule changed only
+ICP000223-202604,ICP000223,RET001,RES,Christchurch Urban,2026-04,79.4955,90.89788,11.40238,14.34,Same quantities and categories; price schedule changed only
+ICP000224-202604,ICP000224,RET001,RSC,Christchurch Urban,2026-04,73.27861,82.04116,8.76255,11.96,Same quantities and categories; price schedule changed only
+ICP000225-202604,ICP000225,RET001,RES,Christchurch Urban,2026-04,60.02489,69.15139,9.12649,15.2,Same quantities and categories; price schedule changed only
+ICP000226-202604,ICP000226,RET001,RES,Christchurch Urban,2026-04,62.83831,72.11158,9.27327,14.76,Same quantities and categories; price schedule changed only
+ICP000227-202604,ICP000227,RET001,RSC,Christchurch Urban,2026-04,78.49233,88.04209,9.54975,12.17,Same quantities and categories; price schedule changed only
+ICP000228-202604,ICP000228,RET001,RES,Christchurch Urban,2026-04,60.61327,69.61921,9.00593,14.86,Same quantities and categories; price schedule changed only
+ICP000229-202604,ICP000229,RET002,URES,Christchurch Urban,2026-04,54.75606,62.90982,8.15375,14.89,Same quantities and categories; price schedule changed only
+ICP000230-202604,ICP000230,RET003,RES,Central Canterbury Rural,2026-04,57.879,66.71355,8.83455,15.26,Same quantities and categories; price schedule changed only
+ICP000231-202604,ICP000231,RET004,RES,Christchurch Urban,2026-04,50.05513,57.97532,7.92019,15.82,Same quantities and categories; price schedule changed only
+ICP000232-202604,ICP000232,RET002,RES,Christchurch Urban,2026-04,51.69762,59.87915,8.18153,15.83,Same quantities and categories; price schedule changed only
+ICP000233-202604,ICP000233,RET002,RES,Central Canterbury Rural,2026-04,54.5421,63.28124,8.73914,16.02,Same quantities and categories; price schedule changed only
+ICP000234-202604,ICP000234,RET003,RSC,Selwyn,2026-04,62.98787,70.15455,7.16668,11.38,Same quantities and categories; price schedule changed only
+ICP000235-202604,ICP000235,RET001,RES,Christchurch Urban,2026-04,59.46786,68.39365,8.92579,15.01,Same quantities and categories; price schedule changed only
+ICP000236-202604,ICP000236,RET001,RES,Selwyn,2026-04,51.52043,59.83357,8.31315,16.14,Same quantities and categories; price schedule changed only
+ICP000237-202604,ICP000237,RET001,URES,Christchurch Urban,2026-04,58.89227,67.59676,8.70448,14.78,Same quantities and categories; price schedule changed only
+ICP000238-202604,ICP000238,RET001,RES,Christchurch Urban,2026-04,54.38126,62.90532,8.52406,15.67,Same quantities and categories; price schedule changed only
+ICP000239-202604,ICP000239,RET003,RES,Christchurch Urban,2026-04,55.24944,63.89512,8.64568,15.65,Same quantities and categories; price schedule changed only
+ICP000240-202604,ICP000240,RET002,RES,Christchurch Urban,2026-04,80.00071,91.49707,11.49636,14.37,Same quantities and categories; price schedule changed only
+ICP000241-202604,ICP000241,RET001,RSC,Christchurch Urban,2026-04,58.93725,65.87763,6.94039,11.78,Same quantities and categories; price schedule changed only
+ICP000242-202604,ICP000242,RET002,RES,Christchurch Urban,2026-04,51.95926,60.23607,8.2768,15.93,Same quantities and categories; price schedule changed only
+ICP000243-202604,ICP000243,RET003,RSC,Christchurch Urban,2026-04,88.83855,99.7832,10.94465,12.32,Same quantities and categories; price schedule changed only
+ICP000244-202604,ICP000244,RET001,RES,Christchurch Urban,2026-04,66.25678,76.1504,9.89362,14.93,Same quantities and categories; price schedule changed only
+ICP000245-202604,ICP000245,RET004,RES,Christchurch Urban,2026-04,61.16638,70.61177,9.44539,15.44,Same quantities and categories; price schedule changed only
+ICP000246-202604,ICP000246,RET003,RES,Central Canterbury Rural,2026-04,63.03207,72.47164,9.43957,14.98,Same quantities and categories; price schedule changed only
+ICP000247-202604,ICP000247,RET003,RES,Christchurch Urban,2026-04,47.23074,54.98995,7.75922,16.43,Same quantities and categories; price schedule changed only
+ICP000248-202604,ICP000248,RET001,RSC,Christchurch Urban,2026-04,89.63636,100.76732,11.13096,12.42,Same quantities and categories; price schedule changed only
+ICP000249-202604,ICP000249,RET001,URES,Selwyn,2026-04,64.23953,73.26602,9.02649,14.05,Same quantities and categories; price schedule changed only
+ICP000250-202604,ICP000250,RET001,RES,Christchurch Urban,2026-04,57.08789,65.92374,8.83585,15.48,Same quantities and categories; price schedule changed only
+ICP000251-202604,ICP000251,RET004,RES,Christchurch Urban,2026-04,43.086,50.42792,7.34191,17.04,Same quantities and categories; price schedule changed only
+ICP000252-202604,ICP000252,RET002,RSU,Christchurch Urban,2026-04,70.06344,77.27557,7.21213,10.29,Same quantities and categories; price schedule changed only
+ICP000253-202604,ICP000253,RET002,URES,Christchurch Urban,2026-04,65.34412,74.68646,9.34234,14.3,Same quantities and categories; price schedule changed only
+ICP000254-202604,ICP000254,RET002,RES,Selwyn,2026-04,59.7218,68.95793,9.23613,15.47,Same quantities and categories; price schedule changed only
+ICP000255-202604,ICP000255,RET003,URES,Christchurch Urban,2026-04,59.87785,68.49473,8.61688,14.39,Same quantities and categories; price schedule changed only
+ICP000256-202604,ICP000256,RET001,RES,Selwyn,2026-04,66.04239,75.85526,9.81286,14.86,Same quantities and categories; price schedule changed only
+ICP000257-202604,ICP000257,RET003,RSC,Selwyn,2026-04,99.35728,112.08844,12.73116,12.81,Same quantities and categories; price schedule changed only
+ICP000258-202604,ICP000258,RET001,RSC,Christchurch Urban,2026-04,69.39511,77.80769,8.41258,12.12,Same quantities and categories; price schedule changed only
+ICP000259-202604,ICP000259,RET002,RSC,Christchurch Urban,2026-04,101.7075,113.98276,12.27526,12.07,Same quantities and categories; price schedule changed only
+ICP000260-202604,ICP000260,RET002,RES,Central Canterbury Rural,2026-04,58.13227,67.0656,8.93333,15.37,Same quantities and categories; price schedule changed only
+ICP000261-202604,ICP000261,RET004,RES,Central Canterbury Rural,2026-04,58.44934,67.52339,9.07405,15.52,Same quantities and categories; price schedule changed only
+ICP000262-202604,ICP000262,RET001,RES,Selwyn,2026-04,54.70468,63.00266,8.29797,15.17,Same quantities and categories; price schedule changed only
+ICP000263-202604,ICP000263,RET001,URES,Christchurch Urban,2026-04,41.71808,48.32402,6.60594,15.83,Same quantities and categories; price schedule changed only
+ICP000264-202604,ICP000264,RET001,RES,Central Canterbury Rural,2026-04,65.62357,75.24802,9.62445,14.67,Same quantities and categories; price schedule changed only
+ICP000265-202604,ICP000265,RET003,RES,Christchurch Urban,2026-04,56.06049,64.85529,8.7948,15.69,Same quantities and categories; price schedule changed only
+ICP000266-202604,ICP000266,RET003,RES,Christchurch Urban,2026-04,50.91389,58.97321,8.05931,15.83,Same quantities and categories; price schedule changed only
+ICP000267-202604,ICP000267,RET001,RES,Christchurch Urban,2026-04,71.96606,82.19255,10.22649,14.21,Same quantities and categories; price schedule changed only
+ICP000268-202604,ICP000268,RET001,RES,Christchurch Urban,2026-04,44.91658,52.33202,7.41544,16.51,Same quantities and categories; price schedule changed only
+ICP000269-202604,ICP000269,RET003,RSC,Selwyn,2026-04,75.90541,85.21991,9.31451,12.27,Same quantities and categories; price schedule changed only
+ICP000270-202604,ICP000270,RET002,RES,Christchurch Urban,2026-04,34.32951,40.60249,6.27299,18.27,Same quantities and categories; price schedule changed only
+ICP000271-202604,ICP000271,RET004,RES,Christchurch Urban,2026-04,67.97484,78.22008,10.24525,15.07,Same quantities and categories; price schedule changed only
+ICP000272-202604,ICP000272,RET005,RES,Christchurch Urban,2026-04,49.79332,57.74056,7.94724,15.96,Same quantities and categories; price schedule changed only
+ICP000273-202604,ICP000273,RET001,RSC,Christchurch Urban,2026-04,116.06559,130.10393,14.03834,12.1,Same quantities and categories; price schedule changed only
+ICP000274-202604,ICP000274,RET002,RSC,Christchurch Urban,2026-04,69.55346,78.04478,8.49132,12.21,Same quantities and categories; price schedule changed only
+ICP000275-202604,ICP000275,RET004,RSC,Christchurch Urban,2026-04,54.49244,60.63089,6.13845,11.26,Same quantities and categories; price schedule changed only
+ICP000276-202604,ICP000276,RET001,RES,Selwyn,2026-04,53.67816,62.39998,8.72181,16.25,Same quantities and categories; price schedule changed only
+ICP000277-202604,ICP000277,RET001,RES,Christchurch Urban,2026-04,47.21318,54.82432,7.61114,16.12,Same quantities and categories; price schedule changed only
+ICP000278-202604,ICP000278,RET001,RES,Christchurch Urban,2026-04,66.91556,76.77545,9.85989,14.73,Same quantities and categories; price schedule changed only
+ICP000279-202604,ICP000279,RET001,RSC,Central Canterbury Rural,2026-04,61.04205,67.72097,6.67893,10.94,Same quantities and categories; price schedule changed only
+ICP000280-202604,ICP000280,RET002,RSC,Selwyn,2026-04,88.78997,99.26519,10.47523,11.8,Same quantities and categories; price schedule changed only
+ICP000281-202604,ICP000281,RET001,RES,Selwyn,2026-04,50.5522,58.52588,7.97368,15.77,Same quantities and categories; price schedule changed only
+ICP000282-202604,ICP000282,RET001,RES,Christchurch Urban,2026-04,47.36975,55.03226,7.6625,16.18,Same quantities and categories; price schedule changed only
+ICP000283-202604,ICP000283,RET004,RES,Christchurch Urban,2026-04,97.82288,110.97522,13.15234,13.45,Same quantities and categories; price schedule changed only
+ICP000284-202604,ICP000284,RET002,URES,Christchurch Urban,2026-04,48.88996,56.43064,7.54068,15.42,Same quantities and categories; price schedule changed only
+ICP000285-202604,ICP000285,RET001,RES,Christchurch Urban,2026-04,65.88443,75.47753,9.5931,14.56,Same quantities and categories; price schedule changed only
+ICP000286-202604,ICP000286,RET001,RES,Christchurch Urban,2026-04,61.53324,70.97273,9.43949,15.34,Same quantities and categories; price schedule changed only
+ICP000287-202604,ICP000287,RET005,RSC,Christchurch Urban,2026-04,94.44641,105.71473,11.26832,11.93,Same quantities and categories; price schedule changed only
+ICP000288-202604,ICP000288,RET002,RSU,Christchurch Urban,2026-04,69.71859,76.57125,6.85266,9.83,Same quantities and categories; price schedule changed only
+ICP000289-202604,ICP000289,RET001,RES,Christchurch Urban,2026-04,42.93212,50.21367,7.28154,16.96,Same quantities and categories; price schedule changed only
+ICP000290-202604,ICP000290,RET001,RES,Christchurch Urban,2026-04,48.6772,56.62297,7.94577,16.32,Same quantities and categories; price schedule changed only
+ICP000291-202604,ICP000291,RET003,RES,Christchurch Urban,2026-04,53.76682,62.12211,8.35529,15.54,Same quantities and categories; price schedule changed only
+ICP000292-202604,ICP000292,RET001,RES,Christchurch Urban,2026-04,41.40195,48.56953,7.16758,17.31,Same quantities and categories; price schedule changed only
+ICP000293-202604,ICP000293,RET002,RSC,Christchurch Urban,2026-04,77.66769,87.28101,9.61332,12.38,Same quantities and categories; price schedule changed only
+ICP000294-202604,ICP000294,RET002,RES,Christchurch Urban,2026-04,49.91897,57.96486,8.04589,16.12,Same quantities and categories; price schedule changed only
+ICP000295-202604,ICP000295,RET001,RES,Christchurch Urban,2026-04,63.74046,73.25638,9.51592,14.93,Same quantities and categories; price schedule changed only
+ICP000296-202604,ICP000296,RET002,RES,Christchurch Urban,2026-04,62.16578,71.75214,9.58636,15.42,Same quantities and categories; price schedule changed only
+ICP000297-202604,ICP000297,RET001,RES,Christchurch Urban,2026-04,49.2609,57.2535,7.9926,16.23,Same quantities and categories; price schedule changed only
+ICP000298-202604,ICP000298,RET003,URES,Christchurch Urban,2026-04,60.43622,69.10746,8.67123,14.35,Same quantities and categories; price schedule changed only
+ICP000299-202604,ICP000299,RET002,RES,Central Canterbury Rural,2026-04,73.18305,83.74084,10.55778,14.43,Same quantities and categories; price schedule changed only
+ICP000300-202604,ICP000300,RET005,RES,Selwyn,2026-04,70.95581,81.15414,10.19833,14.37,Same quantities and categories; price schedule changed only
+ICP000301-202604,ICP000301,RET001,URES,Christchurch Urban,2026-04,56.92031,65.25015,8.32984,14.63,Same quantities and categories; price schedule changed only
+ICP000302-202604,ICP000302,RET003,RES,Christchurch Urban,2026-04,44.08292,51.37032,7.28739,16.53,Same quantities and categories; price schedule changed only
+ICP000303-202604,ICP000303,RET005,RES,Selwyn,2026-04,66.90562,76.71035,9.80472,14.65,Same quantities and categories; price schedule changed only
+ICP000304-202604,ICP000304,RET001,RSC,Christchurch Urban,2026-04,61.55005,68.55162,7.00157,11.38,Same quantities and categories; price schedule changed only
+ICP000305-202604,ICP000305,RET002,RSC,Christchurch Urban,2026-04,83.4668,93.60463,10.13783,12.15,Same quantities and categories; price schedule changed only
+ICP000306-202604,ICP000306,RET004,RES,Christchurch Urban,2026-04,79.80852,90.8207,11.01218,13.8,Same quantities and categories; price schedule changed only
+ICP000307-202604,ICP000307,RET002,RES,Christchurch Urban,2026-04,65.65763,75.33811,9.68048,14.74,Same quantities and categories; price schedule changed only
+ICP000308-202604,ICP000308,RET003,RES,Christchurch Urban,2026-04,76.05008,86.83928,10.7892,14.19,Same quantities and categories; price schedule changed only
+ICP000309-202604,ICP000309,RET002,RES,Christchurch Urban,2026-04,48.71715,56.53412,7.81698,16.05,Same quantities and categories; price schedule changed only
+ICP000310-202604,ICP000310,RET001,RES,Christchurch Urban,2026-04,50.40761,58.59413,8.18652,16.24,Same quantities and categories; price schedule changed only
+ICP000311-202604,ICP000311,RET005,URES,Selwyn,2026-04,87.06159,98.58022,11.51863,13.23,Same quantities and categories; price schedule changed only
+ICP000312-202604,ICP000312,RET001,RES,Central Canterbury Rural,2026-04,80.21908,91.61955,11.40047,14.21,Same quantities and categories; price schedule changed only
+ICP000313-202604,ICP000313,RET004,RES,Central Canterbury Rural,2026-04,50.19183,58.41023,8.2184,16.37,Same quantities and categories; price schedule changed only
+ICP000314-202604,ICP000314,RET001,RSC,Christchurch Urban,2026-04,88.67135,99.02878,10.35743,11.68,Same quantities and categories; price schedule changed only
+ICP000315-202604,ICP000315,RET002,RES,Christchurch Urban,2026-04,54.96533,63.61628,8.65095,15.74,Same quantities and categories; price schedule changed only
+ICP000316-202604,ICP000316,RET005,RES,Central Canterbury Rural,2026-04,68.98279,79.3367,10.35391,15.01,Same quantities and categories; price schedule changed only
+ICP000317-202604,ICP000317,RET003,RES,Christchurch Urban,2026-04,99.93931,113.15592,13.21661,13.22,Same quantities and categories; price schedule changed only
+ICP000318-202604,ICP000318,RET004,RSU,Christchurch Urban,2026-04,75.31197,83.19155,7.87958,10.46,Same quantities and categories; price schedule changed only
+ICP000319-202604,ICP000319,RET001,RSC,Christchurch Urban,2026-04,69.81912,78.17455,8.35543,11.97,Same quantities and categories; price schedule changed only
+ICP000320-202604,ICP000320,RET004,RES,Christchurch Urban,2026-04,62.13373,71.25854,9.12481,14.69,Same quantities and categories; price schedule changed only
+ICP000321-202604,ICP000321,RET001,RES,Christchurch Urban,2026-04,58.74201,67.65406,8.91204,15.17,Same quantities and categories; price schedule changed only
+ICP000322-202604,ICP000322,RET002,RES,Christchurch Urban,2026-04,62.69514,72.04693,9.35178,14.92,Same quantities and categories; price schedule changed only
+ICP000323-202604,ICP000323,RET002,URES,Central Canterbury Rural,2026-04,61.02225,69.77924,8.757,14.35,Same quantities and categories; price schedule changed only
+ICP000324-202604,ICP000324,RET002,RSC,Selwyn,2026-04,89.71554,100.32276,10.60722,11.82,Same quantities and categories; price schedule changed only
+ICP000325-202604,ICP000325,RET004,RES,Christchurch Urban,2026-04,58.76363,67.93171,9.16808,15.6,Same quantities and categories; price schedule changed only
+ICP000326-202604,ICP000326,RET002,RES,Christchurch Urban,2026-04,77.74299,88.65266,10.90967,14.03,Same quantities and categories; price schedule changed only
+ICP000327-202604,ICP000327,RET001,RES,Christchurch Urban,2026-04,82.29355,93.63553,11.34198,13.78,Same quantities and categories; price schedule changed only
+ICP000328-202604,ICP000328,RET001,RES,Christchurch Urban,2026-04,61.53902,70.80841,9.26939,15.06,Same quantities and categories; price schedule changed only
+ICP000329-202604,ICP000329,RET001,RES,Selwyn,2026-04,55.36027,64.09054,8.73027,15.77,Same quantities and categories; price schedule changed only
+ICP000330-202604,ICP000330,RET001,RSC,Christchurch Urban,2026-04,83.97606,93.72464,9.74859,11.61,Same quantities and categories; price schedule changed only
+ICP000331-202604,ICP000331,RET001,RES,Christchurch Urban,2026-04,62.64625,72.21358,9.56733,15.27,Same quantities and categories; price schedule changed only
+ICP000332-202604,ICP000332,RET002,RES,Christchurch Urban,2026-04,49.93455,57.91886,7.9843,15.99,Same quantities and categories; price schedule changed only
+ICP000333-202604,ICP000333,RET001,RES,Christchurch Urban,2026-04,50.99645,59.10168,8.10524,15.89,Same quantities and categories; price schedule changed only
+ICP000334-202604,ICP000334,RET001,RES,Christchurch Urban,2026-04,48.97959,56.8588,7.87921,16.09,Same quantities and categories; price schedule changed only
+ICP000335-202604,ICP000335,RET001,RES,Christchurch Urban,2026-04,49.0194,56.94423,7.92482,16.17,Same quantities and categories; price schedule changed only
+ICP000336-202604,ICP000336,RET003,RSC,Christchurch Urban,2026-04,55.37901,61.77061,6.3916,11.54,Same quantities and categories; price schedule changed only
+ICP000337-202604,ICP000337,RET001,RSU,Christchurch Urban,2026-04,82.68508,91.76315,9.07806,10.98,Same quantities and categories; price schedule changed only
+ICP000338-202604,ICP000338,RET002,RES,Central Canterbury Rural,2026-04,49.86523,58.09991,8.23468,16.51,Same quantities and categories; price schedule changed only
+ICP000339-202604,ICP000339,RET002,RES,Christchurch Urban,2026-04,57.5542,66.63172,9.07752,15.77,Same quantities and categories; price schedule changed only
+ICP000340-202604,ICP000340,RET003,RES,Christchurch Urban,2026-04,69.31162,79.30561,9.99399,14.42,Same quantities and categories; price schedule changed only
+ICP000341-202604,ICP000341,RET005,RSC,Central Canterbury Rural,2026-04,94.53102,105.98879,11.45777,12.12,Same quantities and categories; price schedule changed only
+ICP000342-202604,ICP000342,RET003,URES,Christchurch Urban,2026-04,74.58326,84.96896,10.3857,13.92,Same quantities and categories; price schedule changed only
+ICP000343-202604,ICP000343,RET004,RES,Christchurch Urban,2026-04,68.45967,78.35599,9.89632,14.46,Same quantities and categories; price schedule changed only
+ICP000344-202604,ICP000344,RET003,RES,Selwyn,2026-04,40.5194,47.42633,6.90693,17.05,Same quantities and categories; price schedule changed only
+ICP000345-202604,ICP000345,RET004,RES,Christchurch Urban,2026-04,53.58877,62.03538,8.44661,15.76,Same quantities and categories; price schedule changed only
+ICP000346-202604,ICP000346,RET001,RES,Christchurch Urban,2026-04,63.90446,73.63339,9.72893,15.22,Same quantities and categories; price schedule changed only
+ICP000347-202604,ICP000347,RET004,RSC,Christchurch Urban,2026-04,110.36847,123.99386,13.62539,12.35,Same quantities and categories; price schedule changed only
+ICP000348-202604,ICP000348,RET002,RES,Christchurch Urban,2026-04,94.19469,107.20152,13.00682,13.81,Same quantities and categories; price schedule changed only
+ICP000349-202604,ICP000349,RET002,RSC,Christchurch Urban,2026-04,118.2584,133.24476,14.98636,12.67,Same quantities and categories; price schedule changed only
+ICP000350-202604,ICP000350,RET003,URES,Selwyn,2026-04,48.80501,56.31297,7.50796,15.38,Same quantities and categories; price schedule changed only
+ICP000351-202604,ICP000351,RET001,RES,Christchurch Urban,2026-04,57.86608,66.68105,8.81498,15.23,Same quantities and categories; price schedule changed only
+ICP000352-202604,ICP000352,RET003,RES,Christchurch Urban,2026-04,67.02827,77.22611,10.19785,15.21,Same quantities and categories; price schedule changed only
+ICP000353-202604,ICP000353,RET001,URES,Christchurch Urban,2026-04,57.58475,65.8158,8.23105,14.29,Same quantities and categories; price schedule changed only
+ICP000354-202604,ICP000354,RET001,RSC,Christchurch Urban,2026-04,78.22692,87.6149,9.38798,12.0,Same quantities and categories; price schedule changed only
+ICP000355-202604,ICP000355,RET001,RES,Christchurch Urban,2026-04,66.76566,76.56443,9.79877,14.68,Same quantities and categories; price schedule changed only
+ICP000356-202604,ICP000356,RET002,RSC,Christchurch Urban,2026-04,121.64262,136.54088,14.89827,12.25,Same quantities and categories; price schedule changed only
+ICP000357-202604,ICP000357,RET003,URES,Central Canterbury Rural,2026-04,77.30665,88.2032,10.89655,14.1,Same quantities and categories; price schedule changed only
+ICP000358-202604,ICP000358,RET001,RES,Christchurch Urban,2026-04,61.11394,70.42153,9.30759,15.23,Same quantities and categories; price schedule changed only
+ICP000359-202604,ICP000359,RET004,RES,Christchurch Urban,2026-04,70.57481,80.71313,10.13832,14.37,Same quantities and categories; price schedule changed only
+ICP000360-202604,ICP000360,RET002,RES,Christchurch Urban,2026-04,64.53082,73.9857,9.45488,14.65,Same quantities and categories; price schedule changed only
+ICP000361-202604,ICP000361,RET004,URES,Christchurch Urban,2026-04,61.42222,70.27721,8.85499,14.42,Same quantities and categories; price schedule changed only
+ICP000362-202604,ICP000362,RET003,RSC,Christchurch Urban,2026-04,92.0178,103.16557,11.14777,12.11,Same quantities and categories; price schedule changed only
+ICP000363-202604,ICP000363,RET004,RES,Christchurch Urban,2026-04,81.07147,92.33591,11.26445,13.89,Same quantities and categories; price schedule changed only
+ICP000364-202604,ICP000364,RET005,RES,Christchurch Urban,2026-04,64.68939,74.2352,9.54581,14.76,Same quantities and categories; price schedule changed only
+ICP000365-202604,ICP000365,RET002,RES,Christchurch Urban,2026-04,70.91336,81.27912,10.36576,14.62,Same quantities and categories; price schedule changed only
+ICP000366-202604,ICP000366,RET001,RES,Selwyn,2026-04,44.06449,51.48223,7.41774,16.83,Same quantities and categories; price schedule changed only
+ICP000367-202604,ICP000367,RET001,RES,Christchurch Urban,2026-04,79.09848,90.3222,11.22372,14.19,Same quantities and categories; price schedule changed only
+ICP000368-202604,ICP000368,RET002,RES,Christchurch Urban,2026-04,54.27693,62.93208,8.65515,15.95,Same quantities and categories; price schedule changed only
+ICP000369-202604,ICP000369,RET004,RES,Christchurch Urban,2026-04,75.97213,86.76242,10.7903,14.2,Same quantities and categories; price schedule changed only
+ICP000370-202604,ICP000370,RET001,RSC,Christchurch Urban,2026-04,62.47331,69.72983,7.25652,11.62,Same quantities and categories; price schedule changed only
+ICP000371-202604,ICP000371,RET001,RES,Christchurch Urban,2026-04,58.44152,67.23993,8.79841,15.06,Same quantities and categories; price schedule changed only
+ICP000372-202604,ICP000372,RET004,RES,Christchurch Urban,2026-04,56.50455,65.27878,8.77423,15.53,Same quantities and categories; price schedule changed only
+ICP000373-202604,ICP000373,RET001,RES,Christchurch Urban,2026-04,62.64951,71.98713,9.33762,14.9,Same quantities and categories; price schedule changed only
+ICP000374-202604,ICP000374,RET004,RES,Central Canterbury Rural,2026-04,63.79294,73.22698,9.43404,14.79,Same quantities and categories; price schedule changed only
+ICP000375-202604,ICP000375,RET002,RES,Christchurch Urban,2026-04,58.80561,67.73232,8.92671,15.18,Same quantities and categories; price schedule changed only
+ICP000376-202604,ICP000376,RET002,RES,Selwyn,2026-04,70.05698,80.17405,10.11706,14.44,Same quantities and categories; price schedule changed only
+ICP000377-202604,ICP000377,RET004,RES,Selwyn,2026-04,55.41669,64.1409,8.72421,15.74,Same quantities and categories; price schedule changed only
+ICP000378-202604,ICP000378,RET003,URES,Christchurch Urban,2026-04,79.39674,90.18602,10.78928,13.59,Same quantities and categories; price schedule changed only
+ICP000379-202604,ICP000379,RET003,RES,Christchurch Urban,2026-04,56.80752,65.43244,8.62492,15.18,Same quantities and categories; price schedule changed only
+ICP000380-202604,ICP000380,RET004,RES,Christchurch Urban,2026-04,70.93254,80.93741,10.00487,14.1,Same quantities and categories; price schedule changed only
+ICP000381-202604,ICP000381,RET001,RES,Christchurch Urban,2026-04,71.106,81.40234,10.29634,14.48,Same quantities and categories; price schedule changed only
+ICP000382-202604,ICP000382,RET002,RSU,Christchurch Urban,2026-04,99.48566,110.25622,10.77056,10.83,Same quantities and categories; price schedule changed only
+ICP000383-202604,ICP000383,RET004,RES,Selwyn,2026-04,70.45048,80.62527,10.17479,14.44,Same quantities and categories; price schedule changed only
+ICP000384-202604,ICP000384,RET001,RES,Christchurch Urban,2026-04,46.62253,54.59137,7.96884,17.09,Same quantities and categories; price schedule changed only
+ICP000385-202604,ICP000385,RET003,RSC,Christchurch Urban,2026-04,57.92942,64.70802,6.7786,11.7,Same quantities and categories; price schedule changed only
+ICP000386-202604,ICP000386,RET002,RES,Christchurch Urban,2026-04,41.53964,48.66577,7.12613,17.16,Same quantities and categories; price schedule changed only
+ICP000387-202604,ICP000387,RET004,URES,Christchurch Urban,2026-04,87.88818,99.56451,11.67633,13.29,Same quantities and categories; price schedule changed only
+ICP000388-202604,ICP000388,RET003,RSC,Christchurch Urban,2026-04,86.24133,96.89337,10.65204,12.35,Same quantities and categories; price schedule changed only
+ICP000389-202604,ICP000389,RET001,RES,Christchurch Urban,2026-04,50.42033,58.50985,8.08952,16.04,Same quantities and categories; price schedule changed only
+ICP000390-202604,ICP000390,RET004,RES,Christchurch Urban,2026-04,69.23225,79.30224,10.06999,14.55,Same quantities and categories; price schedule changed only
+ICP000391-202604,ICP000391,RET002,RES,Christchurch Urban,2026-04,47.31407,54.94469,7.63061,16.13,Same quantities and categories; price schedule changed only
+ICP000392-202604,ICP000392,RET002,RSU,Christchurch Urban,2026-04,90.37101,99.44918,9.07817,10.05,Same quantities and categories; price schedule changed only
+ICP000393-202604,ICP000393,RET002,RES,Christchurch Urban,2026-04,52.24049,60.65103,8.41055,16.1,Same quantities and categories; price schedule changed only
+ICP000394-202604,ICP000394,RET001,URES,Christchurch Urban,2026-04,68.91272,78.57707,9.66434,14.02,Same quantities and categories; price schedule changed only
+ICP000395-202604,ICP000395,RET001,RES,Christchurch Urban,2026-04,54.27242,62.87241,8.59999,15.85,Same quantities and categories; price schedule changed only
+ICP000396-202604,ICP000396,RET003,RES,Christchurch Urban,2026-04,118.25649,133.85165,15.59516,13.19,Same quantities and categories; price schedule changed only
+ICP000397-202604,ICP000397,RET004,URES,Christchurch Urban,2026-04,67.49821,76.88401,9.3858,13.91,Same quantities and categories; price schedule changed only
+ICP000398-202604,ICP000398,RET003,RSC,Christchurch Urban,2026-04,92.0588,103.18241,11.12361,12.08,Same quantities and categories; price schedule changed only
+ICP000399-202604,ICP000399,RET003,RES,Christchurch Urban,2026-04,47.01549,54.88274,7.86725,16.73,Same quantities and categories; price schedule changed only
+ICP000400-202604,ICP000400,RET004,RES,Christchurch Urban,2026-04,78.34146,89.38039,11.03893,14.09,Same quantities and categories; price schedule changed only
+ICP000401-202604,ICP000401,RET001,RSC,Christchurch Urban,2026-04,62.36679,69.28788,6.92109,11.1,Same quantities and categories; price schedule changed only
+ICP000402-202604,ICP000402,RET003,RES,Christchurch Urban,2026-04,62.02185,71.26278,9.24093,14.9,Same quantities and categories; price schedule changed only
+ICP000403-202604,ICP000403,RET001,URES,Selwyn,2026-04,63.24009,72.15041,8.91033,14.09,Same quantities and categories; price schedule changed only
+ICP000404-202604,ICP000404,RET003,RES,Christchurch Urban,2026-04,43.75527,51.10544,7.35017,16.8,Same quantities and categories; price schedule changed only
+ICP000405-202604,ICP000405,RET005,RSC,Christchurch Urban,2026-04,76.27964,85.41956,9.13993,11.98,Same quantities and categories; price schedule changed only
+ICP000406-202604,ICP000406,RET002,RES,Christchurch Urban,2026-04,64.48726,74.15891,9.67164,15.0,Same quantities and categories; price schedule changed only
+ICP000407-202604,ICP000407,RET001,RSU,Christchurch Urban,2026-04,58.88709,64.84668,5.95959,10.12,Same quantities and categories; price schedule changed only
+ICP000408-202604,ICP000408,RET001,RES,Selwyn,2026-04,70.35639,80.51246,10.15607,14.44,Same quantities and categories; price schedule changed only
+ICP000409-202604,ICP000409,RET005,RSC,Selwyn,2026-04,65.12434,72.5965,7.47216,11.47,Same quantities and categories; price schedule changed only
+ICP000410-202604,ICP000410,RET005,RES,Christchurch Urban,2026-04,81.96829,93.87763,11.90935,14.53,Same quantities and categories; price schedule changed only
+ICP000411-202604,ICP000411,RET002,RES,Selwyn,2026-04,48.91805,56.78217,7.86412,16.08,Same quantities and categories; price schedule changed only
+ICP000412-202604,ICP000412,RET001,RES,Selwyn,2026-04,76.67815,87.59584,10.91769,14.24,Same quantities and categories; price schedule changed only
+ICP000413-202604,ICP000413,RET001,RES,Selwyn,2026-04,48.49733,56.21745,7.72013,15.92,Same quantities and categories; price schedule changed only
+ICP000414-202604,ICP000414,RET001,RES,Selwyn,2026-04,73.35326,84.24914,10.89588,14.85,Same quantities and categories; price schedule changed only
+ICP000415-202604,ICP000415,RET005,RES,Christchurch Urban,2026-04,66.13427,75.76974,9.63547,14.57,Same quantities and categories; price schedule changed only
+ICP000416-202604,ICP000416,RET001,RES,Christchurch Urban,2026-04,63.6226,72.87998,9.25738,14.55,Same quantities and categories; price schedule changed only
+ICP000417-202604,ICP000417,RET001,RES,Christchurch Urban,2026-04,60.17018,69.32675,9.15657,15.22,Same quantities and categories; price schedule changed only
+ICP000418-202604,ICP000418,RET001,RES,Christchurch Urban,2026-04,60.87217,70.02155,9.14938,15.03,Same quantities and categories; price schedule changed only
+ICP000419-202604,ICP000419,RET001,URES,Selwyn,2026-04,47.6948,54.99285,7.29805,15.3,Same quantities and categories; price schedule changed only
+ICP000420-202604,ICP000420,RET002,RES,Central Canterbury Rural,2026-04,53.15349,61.51388,8.3604,15.73,Same quantities and categories; price schedule changed only
+ICP000421-202604,ICP000421,RET003,RSC,Christchurch Urban,2026-04,77.2887,86.53167,9.24297,11.96,Same quantities and categories; price schedule changed only
+ICP000422-202604,ICP000422,RET002,RSC,Christchurch Urban,2026-04,66.79178,74.51934,7.72756,11.57,Same quantities and categories; price schedule changed only
+ICP000423-202604,ICP000423,RET001,RES,Selwyn,2026-04,53.07754,61.55534,8.4778,15.97,Same quantities and categories; price schedule changed only
+ICP000424-202604,ICP000424,RET001,RES,Christchurch Urban,2026-04,59.75188,68.66003,8.90815,14.91,Same quantities and categories; price schedule changed only
+ICP000425-202604,ICP000425,RET004,RES,Christchurch Urban,2026-04,82.45386,93.87452,11.42067,13.85,Same quantities and categories; price schedule changed only
+ICP000426-202604,ICP000426,RET001,RES,Christchurch Urban,2026-04,51.41464,59.57319,8.15855,15.87,Same quantities and categories; price schedule changed only
+ICP000427-202604,ICP000427,RET001,URES,Selwyn,2026-04,51.38901,59.10654,7.71754,15.02,Same quantities and categories; price schedule changed only
+ICP000428-202604,ICP000428,RET004,RES,Christchurch Urban,2026-04,63.1884,72.68065,9.49224,15.02,Same quantities and categories; price schedule changed only
+ICP000429-202604,ICP000429,RET001,RES,Christchurch Urban,2026-04,50.49246,58.43457,7.94211,15.73,Same quantities and categories; price schedule changed only
+ICP000430-202604,ICP000430,RET002,RES,Selwyn,2026-04,66.29596,76.13123,9.83527,14.84,Same quantities and categories; price schedule changed only
+ICP000431-202604,ICP000431,RET002,RES,Christchurch Urban,2026-04,87.09901,99.14221,12.0432,13.83,Same quantities and categories; price schedule changed only
+ICP000432-202604,ICP000432,RET002,RES,Selwyn,2026-04,58.79081,67.72562,8.93481,15.2,Same quantities and categories; price schedule changed only
+ICP000433-202604,ICP000433,RET002,RES,Christchurch Urban,2026-04,76.72393,87.6349,10.91097,14.22,Same quantities and categories; price schedule changed only
+ICP000434-202604,ICP000434,RET002,RES,Central Canterbury Rural,2026-04,65.32918,75.22413,9.89494,15.15,Same quantities and categories; price schedule changed only
+ICP000435-202604,ICP000435,RET001,RES,Selwyn,2026-04,46.63093,54.36882,7.73789,16.59,Same quantities and categories; price schedule changed only
+ICP000436-202604,ICP000436,RET004,RSC,Christchurch Urban,2026-04,51.76922,57.67241,5.90319,11.4,Same quantities and categories; price schedule changed only
+ICP000437-202604,ICP000437,RET001,URES,Christchurch Urban,2026-04,67.49615,77.08921,9.59306,14.21,Same quantities and categories; price schedule changed only
+ICP000438-202604,ICP000438,RET004,RES,Christchurch Urban,2026-04,51.20331,59.30845,8.10514,15.83,Same quantities and categories; price schedule changed only
+ICP000439-202604,ICP000439,RET001,RES,Christchurch Urban,2026-04,65.29066,75.37951,10.08885,15.45,Same quantities and categories; price schedule changed only
+ICP000440-202604,ICP000440,RET001,RSC,Christchurch Urban,2026-04,56.8897,63.57166,6.68195,11.75,Same quantities and categories; price schedule changed only
+ICP000441-202604,ICP000441,RET003,RES,Christchurch Urban,2026-04,50.65168,58.6755,8.02383,15.84,Same quantities and categories; price schedule changed only
+ICP000442-202604,ICP000442,RET001,RES,Christchurch Urban,2026-04,59.69933,68.94308,9.24375,15.48,Same quantities and categories; price schedule changed only
+ICP000443-202604,ICP000443,RET001,RES,Christchurch Urban,2026-04,59.96639,69.07052,9.10413,15.18,Same quantities and categories; price schedule changed only
+ICP000444-202604,ICP000444,RET004,RES,Christchurch Urban,2026-04,55.6826,64.19489,8.51229,15.29,Same quantities and categories; price schedule changed only
+ICP000445-202604,ICP000445,RET004,RES,Christchurch Urban,2026-04,51.7814,59.93235,8.15095,15.74,Same quantities and categories; price schedule changed only
+ICP000446-202604,ICP000446,RET004,RES,Christchurch Urban,2026-04,50.80927,58.78698,7.97771,15.7,Same quantities and categories; price schedule changed only
+ICP000447-202604,ICP000447,RET002,RES,Christchurch Urban,2026-04,95.11024,107.81644,12.70619,13.36,Same quantities and categories; price schedule changed only
+ICP000448-202604,ICP000448,RET005,RES,Christchurch Urban,2026-04,64.73448,74.30848,9.57399,14.79,Same quantities and categories; price schedule changed only
+ICP000449-202604,ICP000449,RET001,URES,Christchurch Urban,2026-04,53.15659,61.00556,7.84897,14.77,Same quantities and categories; price schedule changed only
+ICP000450-202604,ICP000450,RET005,RES,Christchurch Urban,2026-04,47.73619,55.65519,7.919,16.59,Same quantities and categories; price schedule changed only
+ICP000451-202604,ICP000451,RET003,RES,Christchurch Urban,2026-04,80.61296,91.86546,11.2525,13.96,Same quantities and categories; price schedule changed only
+ICP000452-202604,ICP000452,RET001,RES,Christchurch Urban,2026-04,53.58136,62.10627,8.52491,15.91,Same quantities and categories; price schedule changed only
+ICP000453-202604,ICP000453,RET004,RES,Selwyn,2026-04,45.32973,52.79461,7.46487,16.47,Same quantities and categories; price schedule changed only
+ICP000454-202604,ICP000454,RET002,RES,Christchurch Urban,2026-04,97.92695,111.11955,13.1926,13.47,Same quantities and categories; price schedule changed only
+ICP000455-202604,ICP000455,RET002,RES,Christchurch Urban,2026-04,37.88354,44.51757,6.63404,17.51,Same quantities and categories; price schedule changed only
+ICP000456-202604,ICP000456,RET001,RES,Christchurch Urban,2026-04,46.0265,53.56699,7.54049,16.38,Same quantities and categories; price schedule changed only
+ICP000457-202604,ICP000457,RET001,URES,Christchurch Urban,2026-04,70.73618,80.41506,9.67889,13.68,Same quantities and categories; price schedule changed only
+ICP000458-202604,ICP000458,RET001,RES,Christchurch Urban,2026-04,58.45851,67.31577,8.85727,15.15,Same quantities and categories; price schedule changed only
+ICP000459-202604,ICP000459,RET001,RSC,Christchurch Urban,2026-04,56.00804,62.61071,6.60267,11.79,Same quantities and categories; price schedule changed only
+ICP000460-202604,ICP000460,RET001,RES,Christchurch Urban,2026-04,63.81173,73.27184,9.46011,14.83,Same quantities and categories; price schedule changed only
+ICP000461-202604,ICP000461,RET001,RES,Selwyn,2026-04,79.60909,91.05713,11.44805,14.38,Same quantities and categories; price schedule changed only
+ICP000462-202604,ICP000462,RET002,RES,Selwyn,2026-04,84.15868,95.93742,11.77874,14.0,Same quantities and categories; price schedule changed only
+ICP000463-202604,ICP000463,RET003,RES,Christchurch Urban,2026-04,83.50918,95.11028,11.60109,13.89,Same quantities and categories; price schedule changed only
+ICP000464-202604,ICP000464,RET005,RSC,Christchurch Urban,2026-04,84.44903,94.12091,9.67187,11.45,Same quantities and categories; price schedule changed only
+ICP000465-202604,ICP000465,RET001,RES,Christchurch Urban,2026-04,81.1455,92.50139,11.35589,13.99,Same quantities and categories; price schedule changed only
+ICP000466-202604,ICP000466,RET001,RES,Christchurch Urban,2026-04,60.28776,69.28714,8.99938,14.93,Same quantities and categories; price schedule changed only
+ICP000467-202604,ICP000467,RET001,RES,Christchurch Urban,2026-04,63.42065,72.80444,9.3838,14.8,Same quantities and categories; price schedule changed only
+ICP000468-202604,ICP000468,RET001,RES,Christchurch Urban,2026-04,61.85721,71.36701,9.50981,15.37,Same quantities and categories; price schedule changed only
+ICP000469-202604,ICP000469,RET005,RSC,Selwyn,2026-04,73.12288,81.18504,8.06215,11.03,Same quantities and categories; price schedule changed only
+ICP000470-202604,ICP000470,RET002,URES,Christchurch Urban,2026-04,52.47543,60.25877,7.78334,14.83,Same quantities and categories; price schedule changed only
+ICP000471-202604,ICP000471,RET001,RSU,Selwyn,2026-04,91.2089,101.21116,10.00226,10.97,Same quantities and categories; price schedule changed only
+ICP000472-202604,ICP000472,RET001,RES,Christchurch Urban,2026-04,43.55026,50.91399,7.36373,16.91,Same quantities and categories; price schedule changed only
+ICP000473-202604,ICP000473,RET001,RES,Christchurch Urban,2026-04,59.21729,68.16477,8.94749,15.11,Same quantities and categories; price schedule changed only
+ICP000474-202604,ICP000474,RET005,RSC,Christchurch Urban,2026-04,101.78248,114.73861,12.95613,12.73,Same quantities and categories; price schedule changed only
+ICP000475-202604,ICP000475,RET002,RES,Christchurch Urban,2026-04,68.11018,78.34053,10.23035,15.02,Same quantities and categories; price schedule changed only
+ICP000476-202604,ICP000476,RET003,RES,Christchurch Urban,2026-04,52.88989,61.33376,8.44387,15.97,Same quantities and categories; price schedule changed only
+ICP000477-202604,ICP000477,RET003,RES,Christchurch Urban,2026-04,72.49476,82.84856,10.3538,14.28,Same quantities and categories; price schedule changed only
+ICP000478-202604,ICP000478,RET002,URES,Central Canterbury Rural,2026-04,74.43744,84.68508,10.24764,13.77,Same quantities and categories; price schedule changed only
+ICP000479-202604,ICP000479,RET002,RSC,Christchurch Urban,2026-04,78.89687,88.0322,9.13532,11.58,Same quantities and categories; price schedule changed only
+ICP000480-202604,ICP000480,RET003,RES,Christchurch Urban,2026-04,44.83847,52.35676,7.51829,16.77,Same quantities and categories; price schedule changed only
+ICP000481-202604,ICP000481,RET003,URES,Christchurch Urban,2026-04,61.35956,70.4033,9.04373,14.74,Same quantities and categories; price schedule changed only
+ICP000482-202604,ICP000482,RET003,RES,Selwyn,2026-04,56.33212,65.04682,8.71469,15.47,Same quantities and categories; price schedule changed only
+ICP000483-202604,ICP000483,RET003,RES,Christchurch Urban,2026-04,82.83753,94.09825,11.26072,13.59,Same quantities and categories; price schedule changed only
+ICP000484-202604,ICP000484,RET004,RES,Christchurch Urban,2026-04,50.8394,58.92063,8.08123,15.9,Same quantities and categories; price schedule changed only
+ICP000485-202604,ICP000485,RET001,RSC,Selwyn,2026-04,78.13263,87.47223,9.3396,11.95,Same quantities and categories; price schedule changed only
+ICP000486-202604,ICP000486,RET001,RES,Christchurch Urban,2026-04,54.50399,63.08179,8.5778,15.74,Same quantities and categories; price schedule changed only
+ICP000487-202604,ICP000487,RET003,RES,Selwyn,2026-04,52.47923,60.8059,8.32666,15.87,Same quantities and categories; price schedule changed only
+ICP000488-202604,ICP000488,RET003,RES,Selwyn,2026-04,58.84711,67.84942,9.0023,15.3,Same quantities and categories; price schedule changed only
+ICP000489-202604,ICP000489,RET003,URES,Selwyn,2026-04,64.4339,73.42439,8.99049,13.95,Same quantities and categories; price schedule changed only
+ICP000490-202604,ICP000490,RET004,RSC,Christchurch Urban,2026-04,73.42517,82.35488,8.9297,12.16,Same quantities and categories; price schedule changed only
+ICP000491-202604,ICP000491,RET002,RSC,Christchurch Urban,2026-04,72.10391,80.73329,8.62938,11.97,Same quantities and categories; price schedule changed only
+ICP000492-202604,ICP000492,RET005,RES,Christchurch Urban,2026-04,58.31424,67.33366,9.01943,15.47,Same quantities and categories; price schedule changed only
+ICP000493-202604,ICP000493,RET001,RES,Central Canterbury Rural,2026-04,87.89514,99.8242,11.92906,13.57,Same quantities and categories; price schedule changed only
+ICP000494-202604,ICP000494,RET002,RES,Christchurch Urban,2026-04,76.58366,87.68685,11.10318,14.5,Same quantities and categories; price schedule changed only
+ICP000495-202604,ICP000495,RET001,RES,Christchurch Urban,2026-04,69.55789,79.72403,10.16614,14.62,Same quantities and categories; price schedule changed only
+ICP000496-202604,ICP000496,RET001,RSC,Christchurch Urban,2026-04,80.66742,90.41484,9.74742,12.08,Same quantities and categories; price schedule changed only
+ICP000497-202604,ICP000497,RET003,RES,Christchurch Urban,2026-04,37.97377,44.73415,6.76038,17.8,Same quantities and categories; price schedule changed only
+ICP000498-202604,ICP000498,RET004,RES,Selwyn,2026-04,62.41611,71.89688,9.48076,15.19,Same quantities and categories; price schedule changed only
+ICP000499-202604,ICP000499,RET001,RES,Christchurch Urban,2026-04,71.28709,81.66944,10.38235,14.56,Same quantities and categories; price schedule changed only
+ICP000500-202604,ICP000500,RET002,RES,Christchurch Urban,2026-04,47.56784,55.35892,7.79107,16.38,Same quantities and categories; price schedule changed only
+ICP000001-202605,ICP000001,RET002,URES,Selwyn,2026-05,56.76125,65.10504,8.34378,14.7,Same quantities and categories; price schedule changed only
+ICP000002-202605,ICP000002,RET004,RSC,Christchurch Urban,2026-05,93.28583,105.22737,11.94154,12.8,Same quantities and categories; price schedule changed only
+ICP000003-202605,ICP000003,RET001,RES,Christchurch Urban,2026-05,63.23288,72.61762,9.38474,14.84,Same quantities and categories; price schedule changed only
+ICP000004-202605,ICP000004,RET003,RES,Christchurch Urban,2026-05,44.88036,52.48007,7.59971,16.93,Same quantities and categories; price schedule changed only
+ICP000005-202605,ICP000005,RET001,RES,Christchurch Urban,2026-05,55.8091,64.55071,8.74161,15.66,Same quantities and categories; price schedule changed only
+ICP000006-202605,ICP000006,RET005,RSU,Christchurch Urban,2026-05,81.973,90.5574,8.5844,10.47,Same quantities and categories; price schedule changed only
+ICP000007-202605,ICP000007,RET001,RSC,Christchurch Urban,2026-05,104.10578,116.84923,12.74345,12.24,Same quantities and categories; price schedule changed only
+ICP000008-202605,ICP000008,RET002,RSC,Christchurch Urban,2026-05,68.72746,76.82272,8.09526,11.78,Same quantities and categories; price schedule changed only
+ICP000009-202605,ICP000009,RET005,URES,Christchurch Urban,2026-05,64.11518,73.31059,9.19541,14.34,Same quantities and categories; price schedule changed only
+ICP000010-202605,ICP000010,RET005,RES,Christchurch Urban,2026-05,46.03753,53.76828,7.73075,16.79,Same quantities and categories; price schedule changed only
+ICP000011-202605,ICP000011,RET001,RES,Christchurch Urban,2026-05,61.00244,70.18963,9.18719,15.06,Same quantities and categories; price schedule changed only
+ICP000012-202605,ICP000012,RET001,RES,Christchurch Urban,2026-05,64.71698,74.45794,9.74095,15.05,Same quantities and categories; price schedule changed only
+ICP000013-202605,ICP000013,RET002,URES,Central Canterbury Rural,2026-05,48.44499,56.01522,7.57023,15.63,Same quantities and categories; price schedule changed only
+ICP000014-202605,ICP000014,RET004,RSC,Christchurch Urban,2026-05,105.93218,118.60349,12.67132,11.96,Same quantities and categories; price schedule changed only
+ICP000015-202605,ICP000015,RET004,RES,Christchurch Urban,2026-05,39.25649,46.1853,6.92881,17.65,Same quantities and categories; price schedule changed only
+ICP000016-202605,ICP000016,RET002,URES,Central Canterbury Rural,2026-05,80.16025,91.36045,11.2002,13.97,Same quantities and categories; price schedule changed only
+ICP000017-202605,ICP000017,RET003,RSC,Christchurch Urban,2026-05,62.06571,69.04037,6.97466,11.24,Same quantities and categories; price schedule changed only
+ICP000018-202605,ICP000018,RET003,URES,Christchurch Urban,2026-05,46.98671,54.42828,7.44157,15.84,Same quantities and categories; price schedule changed only
+ICP000019-202605,ICP000019,RET001,RSU,Christchurch Urban,2026-05,88.7258,98.65638,9.93058,11.19,Same quantities and categories; price schedule changed only
+ICP000020-202605,ICP000020,RET001,URES,Selwyn,2026-05,73.46954,83.41497,9.94543,13.54,Same quantities and categories; price schedule changed only
+ICP000021-202605,ICP000021,RET005,URES,Christchurch Urban,2026-05,56.32247,64.86519,8.54271,15.17,Same quantities and categories; price schedule changed only
+ICP000022-202605,ICP000022,RET002,RSC,Christchurch Urban,2026-05,77.62218,86.57816,8.95598,11.54,Same quantities and categories; price schedule changed only
+ICP000023-202605,ICP000023,RET002,RES,Christchurch Urban,2026-05,59.92464,69.1556,9.23096,15.4,Same quantities and categories; price schedule changed only
+ICP000024-202605,ICP000024,RET002,RES,Christchurch Urban,2026-05,86.41287,98.67197,12.2591,14.19,Same quantities and categories; price schedule changed only
+ICP000025-202605,ICP000025,RET002,RES,Christchurch Urban,2026-05,46.56247,54.19686,7.63439,16.4,Same quantities and categories; price schedule changed only
+ICP000026-202605,ICP000026,RET004,RES,Christchurch Urban,2026-05,64.34747,73.86078,9.5133,14.78,Same quantities and categories; price schedule changed only
+ICP000027-202605,ICP000027,RET002,RES,Christchurch Urban,2026-05,74.44852,85.20861,10.76009,14.45,Same quantities and categories; price schedule changed only
+ICP000028-202605,ICP000028,RET002,RES,Selwyn,2026-05,45.26273,52.88476,7.62203,16.84,Same quantities and categories; price schedule changed only
+ICP000029-202605,ICP000029,RET001,RSC,Christchurch Urban,2026-05,101.13616,113.40534,12.26918,12.13,Same quantities and categories; price schedule changed only
+ICP000030-202605,ICP000030,RET001,RES,Christchurch Urban,2026-05,68.1293,78.14129,10.01199,14.7,Same quantities and categories; price schedule changed only
+ICP000031-202605,ICP000031,RET002,RSU,Selwyn,2026-05,114.14876,126.32483,12.17607,10.67,Same quantities and categories; price schedule changed only
+ICP000032-202605,ICP000032,RET004,URES,Christchurch Urban,2026-05,72.8794,82.91501,10.03561,13.77,Same quantities and categories; price schedule changed only
+ICP000033-202605,ICP000033,RET002,RES,Christchurch Urban,2026-05,53.99689,62.42677,8.42988,15.61,Same quantities and categories; price schedule changed only
+ICP000034-202605,ICP000034,RET004,RES,Christchurch Urban,2026-05,53.52647,62.0493,8.52283,15.92,Same quantities and categories; price schedule changed only
+ICP000035-202605,ICP000035,RET005,RSC,Selwyn,2026-05,78.97382,88.13759,9.16377,11.6,Same quantities and categories; price schedule changed only
+ICP000036-202605,ICP000036,RET001,RES,Christchurch Urban,2026-05,42.78985,50.03604,7.24619,16.93,Same quantities and categories; price schedule changed only
+ICP000037-202605,ICP000037,RET004,RES,Christchurch Urban,2026-05,66.34788,76.10768,9.7598,14.71,Same quantities and categories; price schedule changed only
+ICP000038-202605,ICP000038,RET004,RSC,Christchurch Urban,2026-05,85.81617,95.90693,10.09076,11.76,Same quantities and categories; price schedule changed only
+ICP000039-202605,ICP000039,RET004,RES,Christchurch Urban,2026-05,70.30521,80.56751,10.2623,14.6,Same quantities and categories; price schedule changed only
+ICP000040-202605,ICP000040,RET004,RES,Christchurch Urban,2026-05,58.06719,67.12661,9.05941,15.6,Same quantities and categories; price schedule changed only
+ICP000041-202605,ICP000041,RET004,RES,Christchurch Urban,2026-05,45.83637,53.69235,7.85598,17.14,Same quantities and categories; price schedule changed only
+ICP000042-202605,ICP000042,RET002,RSC,Christchurch Urban,2026-05,98.67199,110.62083,11.94884,12.11,Same quantities and categories; price schedule changed only
+ICP000043-202605,ICP000043,RET001,RSC,Christchurch Urban,2026-05,93.9155,105.14297,11.22747,11.95,Same quantities and categories; price schedule changed only
+ICP000044-202605,ICP000044,RET003,URES,Christchurch Urban,2026-05,77.07291,87.40974,10.33683,13.41,Same quantities and categories; price schedule changed only
+ICP000045-202605,ICP000045,RET001,RSC,Central Canterbury Rural,2026-05,86.70858,97.02797,10.31939,11.9,Same quantities and categories; price schedule changed only
+ICP000046-202605,ICP000046,RET002,RSC,Christchurch Urban,2026-05,71.93434,80.48459,8.55025,11.89,Same quantities and categories; price schedule changed only
+ICP000047-202605,ICP000047,RET001,RSU,Christchurch Urban,2026-05,83.36702,92.44113,9.07411,10.88,Same quantities and categories; price schedule changed only
+ICP000048-202605,ICP000048,RET002,RES,Christchurch Urban,2026-05,52.91829,61.3586,8.44031,15.95,Same quantities and categories; price schedule changed only
+ICP000049-202605,ICP000049,RET001,RES,Christchurch Urban,2026-05,55.36095,63.94604,8.58509,15.51,Same quantities and categories; price schedule changed only
+ICP000050-202605,ICP000050,RET004,RES,Christchurch Urban,2026-05,65.56139,75.42359,9.8622,15.04,Same quantities and categories; price schedule changed only
+ICP000051-202605,ICP000051,RET004,URES,Christchurch Urban,2026-05,47.64211,55.08733,7.44523,15.63,Same quantities and categories; price schedule changed only
+ICP000052-202605,ICP000052,RET001,RSC,Christchurch Urban,2026-05,104.81444,118.03855,13.22411,12.62,Same quantities and categories; price schedule changed only
+ICP000053-202605,ICP000053,RET003,RSC,Central Canterbury Rural,2026-05,55.76708,62.21529,6.44822,11.56,Same quantities and categories; price schedule changed only
+ICP000054-202605,ICP000054,RET002,RSC,Selwyn,2026-05,73.35831,82.11886,8.76055,11.94,Same quantities and categories; price schedule changed only
+ICP000055-202605,ICP000055,RET001,RES,Central Canterbury Rural,2026-05,49.35673,57.50359,8.14686,16.51,Same quantities and categories; price schedule changed only
+ICP000056-202605,ICP000056,RET005,URES,Christchurch Urban,2026-05,64.75002,74.19763,9.44761,14.59,Same quantities and categories; price schedule changed only
+ICP000057-202605,ICP000057,RET001,RES,Christchurch Urban,2026-05,65.22244,74.97363,9.75119,14.95,Same quantities and categories; price schedule changed only
+ICP000058-202605,ICP000058,RET003,RES,Selwyn,2026-05,54.87299,63.63078,8.75779,15.96,Same quantities and categories; price schedule changed only
+ICP000059-202605,ICP000059,RET002,RES,Christchurch Urban,2026-05,72.57501,83.10603,10.53102,14.51,Same quantities and categories; price schedule changed only
+ICP000060-202605,ICP000060,RET002,RES,Christchurch Urban,2026-05,77.3514,88.29974,10.94834,14.15,Same quantities and categories; price schedule changed only
+ICP000061-202605,ICP000061,RET001,RES,Christchurch Urban,2026-05,55.08875,63.90095,8.8122,16.0,Same quantities and categories; price schedule changed only
+ICP000062-202605,ICP000062,RET002,RES,Christchurch Urban,2026-05,72.90089,83.37316,10.47227,14.37,Same quantities and categories; price schedule changed only
+ICP000063-202605,ICP000063,RET002,RSC,Christchurch Urban,2026-05,96.11364,107.6474,11.53376,12.0,Same quantities and categories; price schedule changed only
+ICP000064-202605,ICP000064,RET002,RES,Central Canterbury Rural,2026-05,52.24509,60.49663,8.25154,15.79,Same quantities and categories; price schedule changed only
+ICP000065-202605,ICP000065,RET001,RES,Christchurch Urban,2026-05,86.34611,98.29103,11.94492,13.83,Same quantities and categories; price schedule changed only
+ICP000066-202605,ICP000066,RET002,RSC,Christchurch Urban,2026-05,92.42637,103.9398,11.51343,12.46,Same quantities and categories; price schedule changed only
+ICP000067-202605,ICP000067,RET004,RES,Christchurch Urban,2026-05,67.27674,77.51379,10.23705,15.22,Same quantities and categories; price schedule changed only
+ICP000068-202605,ICP000068,RET004,RES,Christchurch Urban,2026-05,49.00633,57.25961,8.25328,16.84,Same quantities and categories; price schedule changed only
+ICP000069-202605,ICP000069,RET001,RES,Christchurch Urban,2026-05,44.00907,51.41366,7.40458,16.83,Same quantities and categories; price schedule changed only
+ICP000070-202605,ICP000070,RET001,RES,Christchurch Urban,2026-05,41.2539,48.46884,7.21494,17.49,Same quantities and categories; price schedule changed only
+ICP000071-202605,ICP000071,RET002,RES,Christchurch Urban,2026-05,53.01359,61.64103,8.62744,16.27,Same quantities and categories; price schedule changed only
+ICP000072-202605,ICP000072,RET004,RSC,Christchurch Urban,2026-05,115.09795,129.06126,13.96331,12.13,Same quantities and categories; price schedule changed only
+ICP000073-202605,ICP000073,RET002,RSC,Central Canterbury Rural,2026-05,85.2001,95.53757,10.33747,12.13,Same quantities and categories; price schedule changed only
+ICP000074-202605,ICP000074,RET003,RES,Christchurch Urban,2026-05,83.68632,95.29221,11.6059,13.87,Same quantities and categories; price schedule changed only
+ICP000075-202605,ICP000075,RET003,RES,Christchurch Urban,2026-05,58.8696,68.075,9.2054,15.64,Same quantities and categories; price schedule changed only
+ICP000076-202605,ICP000076,RET003,RSC,Christchurch Urban,2026-05,81.20048,91.19742,9.99695,12.31,Same quantities and categories; price schedule changed only
+ICP000077-202605,ICP000077,RET002,RES,Central Canterbury Rural,2026-05,70.76137,81.1311,10.36973,14.65,Same quantities and categories; price schedule changed only
+ICP000078-202605,ICP000078,RET003,RES,Christchurch Urban,2026-05,81.91286,93.37922,11.46636,14.0,Same quantities and categories; price schedule changed only
+ICP000079-202605,ICP000079,RET002,RES,Christchurch Urban,2026-05,70.90224,81.25194,10.3497,14.6,Same quantities and categories; price schedule changed only
+ICP000080-202605,ICP000080,RET001,RES,Christchurch Urban,2026-05,56.07143,64.98118,8.90975,15.89,Same quantities and categories; price schedule changed only
+ICP000081-202605,ICP000081,RET003,RSU,Christchurch Urban,2026-05,87.20797,96.76662,9.55865,10.96,Same quantities and categories; price schedule changed only
+ICP000082-202605,ICP000082,RET003,RES,Christchurch Urban,2026-05,58.11117,66.9815,8.87033,15.26,Same quantities and categories; price schedule changed only
+ICP000083-202605,ICP000083,RET003,RES,Selwyn,2026-05,92.10072,104.73124,12.63052,13.71,Same quantities and categories; price schedule changed only
+ICP000084-202605,ICP000084,RET004,RSC,Christchurch Urban,2026-05,69.14701,77.51843,8.37142,12.11,Same quantities and categories; price schedule changed only
+ICP000085-202605,ICP000085,RET001,RES,Christchurch Urban,2026-05,56.50349,65.26303,8.75955,15.5,Same quantities and categories; price schedule changed only
+ICP000086-202605,ICP000086,RET004,RES,Christchurch Urban,2026-05,47.10598,54.87057,7.7646,16.48,Same quantities and categories; price schedule changed only
+ICP000087-202605,ICP000087,RET001,RES,Christchurch Urban,2026-05,82.48709,93.94622,11.45913,13.89,Same quantities and categories; price schedule changed only
+ICP000088-202605,ICP000088,RET001,RES,Christchurch Urban,2026-05,47.14301,55.04063,7.89763,16.75,Same quantities and categories; price schedule changed only
+ICP000089-202605,ICP000089,RET004,RES,Christchurch Urban,2026-05,76.89845,87.73115,10.8327,14.09,Same quantities and categories; price schedule changed only
+ICP000090-202605,ICP000090,RET002,RES,Christchurch Urban,2026-05,59.86105,69.01314,9.15209,15.29,Same quantities and categories; price schedule changed only
+ICP000091-202605,ICP000091,RET004,RES,Christchurch Urban,2026-05,85.14919,97.06777,11.91858,14.0,Same quantities and categories; price schedule changed only
+ICP000092-202605,ICP000092,RET001,RES,Christchurch Urban,2026-05,68.201,78.27693,10.07593,14.77,Same quantities and categories; price schedule changed only
+ICP000093-202605,ICP000093,RET005,RES,Christchurch Urban,2026-05,96.45293,109.35666,12.90373,13.38,Same quantities and categories; price schedule changed only
+ICP000094-202605,ICP000094,RET005,RES,Christchurch Urban,2026-05,83.99757,95.53951,11.54194,13.74,Same quantities and categories; price schedule changed only
+ICP000095-202605,ICP000095,RET001,RES,Central Canterbury Rural,2026-05,43.22495,50.61401,7.38907,17.09,Same quantities and categories; price schedule changed only
+ICP000096-202605,ICP000096,RET002,URES,Christchurch Urban,2026-05,95.75262,108.49943,12.74681,13.31,Same quantities and categories; price schedule changed only
+ICP000097-202605,ICP000097,RET001,RES,Christchurch Urban,2026-05,73.90427,84.77621,10.87194,14.71,Same quantities and categories; price schedule changed only
+ICP000098-202605,ICP000098,RET005,RES,Christchurch Urban,2026-05,50.38587,58.80243,8.41656,16.7,Same quantities and categories; price schedule changed only
+ICP000099-202605,ICP000099,RET003,RSC,Selwyn,2026-05,81.27765,90.9522,9.67455,11.9,Same quantities and categories; price schedule changed only
+ICP000100-202605,ICP000100,RET003,RSC,Central Canterbury Rural,2026-05,78.92761,88.29923,9.37162,11.87,Same quantities and categories; price schedule changed only
+ICP000101-202605,ICP000101,RET003,RES,Christchurch Urban,2026-05,44.94589,52.81764,7.87175,17.51,Same quantities and categories; price schedule changed only
+ICP000102-202605,ICP000102,RET001,RSC,Christchurch Urban,2026-05,125.41347,140.84504,15.43157,12.3,Same quantities and categories; price schedule changed only
+ICP000103-202605,ICP000103,RET002,RSC,Christchurch Urban,2026-05,76.03348,85.42816,9.39468,12.36,Same quantities and categories; price schedule changed only
+ICP000104-202605,ICP000104,RET005,RSC,Christchurch Urban,2026-05,73.32594,81.96323,8.63729,11.78,Same quantities and categories; price schedule changed only
+ICP000105-202605,ICP000105,RET001,RES,Christchurch Urban,2026-05,114.21558,128.973,14.75742,12.92,Same quantities and categories; price schedule changed only
+ICP000106-202605,ICP000106,RET001,RES,Christchurch Urban,2026-05,41.81571,48.99416,7.17844,17.17,Same quantities and categories; price schedule changed only
+ICP000107-202605,ICP000107,RET004,URES,Christchurch Urban,2026-05,60.78413,69.59176,8.80763,14.49,Same quantities and categories; price schedule changed only
+ICP000108-202605,ICP000108,RET001,RES,Christchurch Urban,2026-05,52.3215,60.54418,8.22268,15.72,Same quantities and categories; price schedule changed only
+ICP000109-202605,ICP000109,RET001,RSC,Selwyn,2026-05,76.89757,85.83961,8.94203,11.63,Same quantities and categories; price schedule changed only
+ICP000110-202605,ICP000110,RET002,RES,Christchurch Urban,2026-05,50.77711,59.12321,8.3461,16.44,Same quantities and categories; price schedule changed only
+ICP000111-202605,ICP000111,RET002,RES,Christchurch Urban,2026-05,76.91012,88.00428,11.09417,14.42,Same quantities and categories; price schedule changed only
+ICP000112-202605,ICP000112,RET003,RSU,Christchurch Urban,2026-05,78.59427,87.19048,8.59621,10.94,Same quantities and categories; price schedule changed only
+ICP000113-202605,ICP000113,RET001,RES,Christchurch Urban,2026-05,81.06615,92.55805,11.4919,14.18,Same quantities and categories; price schedule changed only
+ICP000114-202605,ICP000114,RET001,RES,Christchurch Urban,2026-05,71.53225,82.07015,10.5379,14.73,Same quantities and categories; price schedule changed only
+ICP000115-202605,ICP000115,RET004,RES,Christchurch Urban,2026-05,74.51144,85.01488,10.50344,14.1,Same quantities and categories; price schedule changed only
+ICP000116-202605,ICP000116,RET002,RES,Christchurch Urban,2026-05,62.64695,71.98724,9.3403,14.91,Same quantities and categories; price schedule changed only
+ICP000117-202605,ICP000117,RET001,RES,Christchurch Urban,2026-05,47.52617,55.52921,8.00304,16.84,Same quantities and categories; price schedule changed only
+ICP000118-202605,ICP000118,RET003,RES,Christchurch Urban,2026-05,62.25177,71.64373,9.39196,15.09,Same quantities and categories; price schedule changed only
+ICP000119-202605,ICP000119,RET004,RES,Selwyn,2026-05,67.32828,77.41746,10.08918,14.99,Same quantities and categories; price schedule changed only
+ICP000120-202605,ICP000120,RET004,RES,Selwyn,2026-05,83.18707,94.99877,11.8117,14.2,Same quantities and categories; price schedule changed only
+ICP000121-202605,ICP000121,RET002,RES,Christchurch Urban,2026-05,53.60996,62.27921,8.66924,16.17,Same quantities and categories; price schedule changed only
+ICP000122-202605,ICP000122,RET005,RES,Selwyn,2026-05,56.65135,65.39091,8.73956,15.43,Same quantities and categories; price schedule changed only
+ICP000123-202605,ICP000123,RET005,RSU,Christchurch Urban,2026-05,83.98114,92.95114,8.97,10.68,Same quantities and categories; price schedule changed only
+ICP000124-202605,ICP000124,RET004,RES,Central Canterbury Rural,2026-05,66.10584,75.97664,9.8708,14.93,Same quantities and categories; price schedule changed only
+ICP000125-202605,ICP000125,RET001,RES,Christchurch Urban,2026-05,101.26362,114.92214,13.65852,13.49,Same quantities and categories; price schedule changed only
+ICP000126-202605,ICP000126,RET001,RES,Christchurch Urban,2026-05,81.4128,92.89414,11.48134,14.1,Same quantities and categories; price schedule changed only
+ICP000127-202605,ICP000127,RET001,RSU,Christchurch Urban,2026-05,91.5039,101.12125,9.61735,10.51,Same quantities and categories; price schedule changed only
+ICP000128-202605,ICP000128,RET001,RES,Christchurch Urban,2026-05,59.81607,68.85626,9.04019,15.11,Same quantities and categories; price schedule changed only
+ICP000129-202605,ICP000129,RET002,RES,Selwyn,2026-05,52.74948,61.12406,8.37458,15.88,Same quantities and categories; price schedule changed only
+ICP000130-202605,ICP000130,RET001,RSU,Christchurch Urban,2026-05,92.62448,102.86833,10.24385,11.06,Same quantities and categories; price schedule changed only
+ICP000131-202605,ICP000131,RET001,RSC,Christchurch Urban,2026-05,79.55996,89.16113,9.60117,12.07,Same quantities and categories; price schedule changed only
+ICP000132-202605,ICP000132,RET002,RES,Christchurch Urban,2026-05,44.84896,52.4179,7.56894,16.88,Same quantities and categories; price schedule changed only
+ICP000133-202605,ICP000133,RET002,RES,Christchurch Urban,2026-05,52.61116,61.34821,8.73705,16.61,Same quantities and categories; price schedule changed only
+ICP000134-202605,ICP000134,RET004,RES,Selwyn,2026-05,63.13695,72.71734,9.58038,15.17,Same quantities and categories; price schedule changed only
+ICP000135-202605,ICP000135,RET001,RSC,Central Canterbury Rural,2026-05,129.24866,144.22365,14.97499,11.59,Same quantities and categories; price schedule changed only
+ICP000136-202605,ICP000136,RET001,URES,Christchurch Urban,2026-05,80.89076,91.97388,11.08311,13.7,Same quantities and categories; price schedule changed only
+ICP000137-202605,ICP000137,RET004,RES,Christchurch Urban,2026-05,46.48388,54.19611,7.71223,16.59,Same quantities and categories; price schedule changed only
+ICP000138-202605,ICP000138,RET001,RES,Selwyn,2026-05,54.4992,63.15791,8.65871,15.89,Same quantities and categories; price schedule changed only
+ICP000139-202605,ICP000139,RET003,RES,Christchurch Urban,2026-05,59.68986,68.65127,8.96141,15.01,Same quantities and categories; price schedule changed only
+ICP000140-202605,ICP000140,RET002,URES,Christchurch Urban,2026-05,77.93436,88.56115,10.62679,13.64,Same quantities and categories; price schedule changed only
+ICP000141-202605,ICP000141,RET002,RES,Selwyn,2026-05,53.9767,62.62841,8.65171,16.03,Same quantities and categories; price schedule changed only
+ICP000142-202605,ICP000142,RET001,RES,Christchurch Urban,2026-05,49.54774,57.62227,8.07453,16.3,Same quantities and categories; price schedule changed only
+ICP000143-202605,ICP000143,RET002,RES,Christchurch Urban,2026-05,50.43403,58.74388,8.30985,16.48,Same quantities and categories; price schedule changed only
+ICP000144-202605,ICP000144,RET001,RSC,Christchurch Urban,2026-05,104.75925,116.77132,12.01207,11.47,Same quantities and categories; price schedule changed only
+ICP000145-202605,ICP000145,RET004,RES,Christchurch Urban,2026-05,50.64006,58.76724,8.12718,16.05,Same quantities and categories; price schedule changed only
+ICP000146-202605,ICP000146,RET002,RES,Christchurch Urban,2026-05,55.84547,64.60914,8.76366,15.69,Same quantities and categories; price schedule changed only
+ICP000147-202605,ICP000147,RET003,RSC,Christchurch Urban,2026-05,74.00711,82.5187,8.51159,11.5,Same quantities and categories; price schedule changed only
+ICP000148-202605,ICP000148,RET005,URES,Selwyn,2026-05,43.76319,50.72896,6.96577,15.92,Same quantities and categories; price schedule changed only
+ICP000149-202605,ICP000149,RET001,RES,Christchurch Urban,2026-05,61.95467,71.34672,9.39204,15.16,Same quantities and categories; price schedule changed only
+ICP000150-202605,ICP000150,RET001,RES,Christchurch Urban,2026-05,81.43347,92.70051,11.26704,13.84,Same quantities and categories; price schedule changed only
+ICP000151-202605,ICP000151,RET003,RSC,Christchurch Urban,2026-05,99.45938,112.1479,12.68853,12.76,Same quantities and categories; price schedule changed only
+ICP000152-202605,ICP000152,RET002,RES,Selwyn,2026-05,65.58495,75.54373,9.95878,15.18,Same quantities and categories; price schedule changed only
+ICP000153-202605,ICP000153,RET003,URES,Christchurch Urban,2026-05,55.32738,63.78606,8.45868,15.29,Same quantities and categories; price schedule changed only
+ICP000154-202605,ICP000154,RET002,RES,Christchurch Urban,2026-05,50.96969,59.08565,8.11596,15.92,Same quantities and categories; price schedule changed only
+ICP000155-202605,ICP000155,RET004,RSC,Christchurch Urban,2026-05,64.64639,72.3927,7.74631,11.98,Same quantities and categories; price schedule changed only
+ICP000156-202605,ICP000156,RET002,RES,Christchurch Urban,2026-05,68.42781,78.55799,10.13018,14.8,Same quantities and categories; price schedule changed only
+ICP000157-202605,ICP000157,RET005,RES,Christchurch Urban,2026-05,92.2715,105.0381,12.76661,13.84,Same quantities and categories; price schedule changed only
+ICP000158-202605,ICP000158,RET005,RES,Christchurch Urban,2026-05,83.22559,95.30942,12.08383,14.52,Same quantities and categories; price schedule changed only
+ICP000159-202605,ICP000159,RET001,RSC,Christchurch Urban,2026-05,117.843,132.14775,14.30475,12.14,Same quantities and categories; price schedule changed only
+ICP000160-202605,ICP000160,RET003,RSC,Christchurch Urban,2026-05,86.28015,96.98214,10.70199,12.4,Same quantities and categories; price schedule changed only
+ICP000161-202605,ICP000161,RET003,RES,Selwyn,2026-05,42.03348,49.21097,7.17749,17.08,Same quantities and categories; price schedule changed only
+ICP000162-202605,ICP000162,RET001,RES,Selwyn,2026-05,63.04032,72.3854,9.34508,14.82,Same quantities and categories; price schedule changed only
+ICP000163-202605,ICP000163,RET003,RES,Selwyn,2026-05,47.41895,55.31282,7.89388,16.65,Same quantities and categories; price schedule changed only
+ICP000164-202605,ICP000164,RET001,RSU,Christchurch Urban,2026-05,108.8054,121.25681,12.45141,11.44,Same quantities and categories; price schedule changed only
+ICP000165-202605,ICP000165,RET001,RSC,Selwyn,2026-05,85.17215,95.49443,10.32228,12.12,Same quantities and categories; price schedule changed only
+ICP000166-202605,ICP000166,RET005,URES,Christchurch Urban,2026-05,96.63603,109.15973,12.5237,12.96,Same quantities and categories; price schedule changed only
+ICP000167-202605,ICP000167,RET002,RSC,Christchurch Urban,2026-05,130.41934,147.05465,16.6353,12.76,Same quantities and categories; price schedule changed only
+ICP000168-202605,ICP000168,RET001,URES,Christchurch Urban,2026-05,60.83253,69.6618,8.82927,14.51,Same quantities and categories; price schedule changed only
+ICP000169-202605,ICP000169,RET005,RES,Christchurch Urban,2026-05,55.77766,64.39831,8.62065,15.46,Same quantities and categories; price schedule changed only
+ICP000170-202605,ICP000170,RET003,URES,Christchurch Urban,2026-05,57.18338,65.88329,8.6999,15.21,Same quantities and categories; price schedule changed only
+ICP000171-202605,ICP000171,RET002,URES,Christchurch Urban,2026-05,51.69429,59.58767,7.89338,15.27,Same quantities and categories; price schedule changed only
+ICP000172-202605,ICP000172,RET001,RES,Christchurch Urban,2026-05,46.22486,54.0845,7.85964,17.0,Same quantities and categories; price schedule changed only
+ICP000173-202605,ICP000173,RET004,RES,Christchurch Urban,2026-05,58.66312,67.80329,9.14016,15.58,Same quantities and categories; price schedule changed only
+ICP000174-202605,ICP000174,RET005,URES,Christchurch Urban,2026-05,74.29742,84.70694,10.40952,14.01,Same quantities and categories; price schedule changed only
+ICP000175-202605,ICP000175,RET003,RSC,Selwyn,2026-05,116.30857,130.66923,14.36065,12.35,Same quantities and categories; price schedule changed only
+ICP000176-202605,ICP000176,RET005,URES,Christchurch Urban,2026-05,88.52201,100.09007,11.56806,13.07,Same quantities and categories; price schedule changed only
+ICP000177-202605,ICP000177,RET003,RSC,Selwyn,2026-05,77.24321,86.70412,9.46091,12.25,Same quantities and categories; price schedule changed only
+ICP000178-202605,ICP000178,RET004,RES,Christchurch Urban,2026-05,68.53267,78.83641,10.30374,15.03,Same quantities and categories; price schedule changed only
+ICP000179-202605,ICP000179,RET001,URES,Christchurch Urban,2026-05,70.54079,80.31424,9.77346,13.86,Same quantities and categories; price schedule changed only
+ICP000180-202605,ICP000180,RET005,RES,Christchurch Urban,2026-05,58.06067,67.19499,9.13432,15.73,Same quantities and categories; price schedule changed only
+ICP000181-202605,ICP000181,RET002,URES,Christchurch Urban,2026-05,74.65876,84.75119,10.09242,13.52,Same quantities and categories; price schedule changed only
+ICP000182-202605,ICP000182,RET002,RSC,Christchurch Urban,2026-05,79.18736,88.4731,9.28574,11.73,Same quantities and categories; price schedule changed only
+ICP000183-202605,ICP000183,RET002,RES,Christchurch Urban,2026-05,78.44118,89.62227,11.18109,14.25,Same quantities and categories; price schedule changed only
+ICP000184-202605,ICP000184,RET002,RES,Central Canterbury Rural,2026-05,143.18181,160.94911,17.76731,12.41,Same quantities and categories; price schedule changed only
+ICP000185-202605,ICP000185,RET004,RES,Central Canterbury Rural,2026-05,64.27694,73.80932,9.53238,14.83,Same quantities and categories; price schedule changed only
+ICP000186-202605,ICP000186,RET002,RSC,Christchurch Urban,2026-05,105.27585,118.27913,13.00328,12.35,Same quantities and categories; price schedule changed only
+ICP000187-202605,ICP000187,RET002,RES,Christchurch Urban,2026-05,48.89182,56.97926,8.08744,16.54,Same quantities and categories; price schedule changed only
+ICP000188-202605,ICP000188,RET004,RES,Selwyn,2026-05,64.33609,73.86731,9.53122,14.81,Same quantities and categories; price schedule changed only
+ICP000189-202605,ICP000189,RET005,RSC,Central Canterbury Rural,2026-05,109.35278,122.14834,12.79555,11.7,Same quantities and categories; price schedule changed only
+ICP000190-202605,ICP000190,RET005,RES,Christchurch Urban,2026-05,69.68505,79.69866,10.01361,14.37,Same quantities and categories; price schedule changed only
+ICP000191-202605,ICP000191,RET001,RES,Christchurch Urban,2026-05,57.71888,66.88301,9.16414,15.88,Same quantities and categories; price schedule changed only
+ICP000192-202605,ICP000192,RET002,RES,Central Canterbury Rural,2026-05,85.38836,97.4151,12.02674,14.08,Same quantities and categories; price schedule changed only
+ICP000193-202605,ICP000193,RET004,RES,Christchurch Urban,2026-05,70.58498,81.0131,10.42812,14.77,Same quantities and categories; price schedule changed only
+ICP000194-202605,ICP000194,RET002,RSC,Christchurch Urban,2026-05,107.67757,120.53489,12.85733,11.94,Same quantities and categories; price schedule changed only
+ICP000195-202605,ICP000195,RET002,RES,Christchurch Urban,2026-05,79.68686,90.87049,11.18364,14.03,Same quantities and categories; price schedule changed only
+ICP000196-202605,ICP000196,RET002,URES,Christchurch Urban,2026-05,45.5747,52.83606,7.26136,15.93,Same quantities and categories; price schedule changed only
+ICP000197-202605,ICP000197,RET004,RES,Christchurch Urban,2026-05,56.06323,64.77709,8.71386,15.54,Same quantities and categories; price schedule changed only
+ICP000198-202605,ICP000198,RET002,RES,Selwyn,2026-05,38.33759,45.23869,6.9011,18.0,Same quantities and categories; price schedule changed only
+ICP000199-202605,ICP000199,RET003,RES,Christchurch Urban,2026-05,74.93879,85.8591,10.92031,14.57,Same quantities and categories; price schedule changed only
+ICP000200-202605,ICP000200,RET002,RES,Central Canterbury Rural,2026-05,52.94943,61.48152,8.53209,16.11,Same quantities and categories; price schedule changed only
+ICP000201-202605,ICP000201,RET001,RES,Selwyn,2026-05,50.0939,58.29896,8.20506,16.38,Same quantities and categories; price schedule changed only
+ICP000202-202605,ICP000202,RET005,RSC,Christchurch Urban,2026-05,86.40445,96.99459,10.59014,12.26,Same quantities and categories; price schedule changed only
+ICP000203-202605,ICP000203,RET004,URES,Selwyn,2026-05,62.1093,71.0795,8.9702,14.44,Same quantities and categories; price schedule changed only
+ICP000204-202605,ICP000204,RET005,RSU,Christchurch Urban,2026-05,92.18434,102.17112,9.98678,10.83,Same quantities and categories; price schedule changed only
+ICP000205-202605,ICP000205,RET005,URES,Selwyn,2026-05,75.59857,86.20591,10.60735,14.03,Same quantities and categories; price schedule changed only
+ICP000206-202605,ICP000206,RET001,RSC,Christchurch Urban,2026-05,85.70491,95.95432,10.24941,11.96,Same quantities and categories; price schedule changed only
+ICP000207-202605,ICP000207,RET001,RES,Christchurch Urban,2026-05,73.64698,84.13719,10.49021,14.24,Same quantities and categories; price schedule changed only
+ICP000208-202605,ICP000208,RET003,RES,Christchurch Urban,2026-05,96.22913,109.5389,13.30977,13.83,Same quantities and categories; price schedule changed only
+ICP000209-202605,ICP000209,RET001,RES,Selwyn,2026-05,48.18378,56.0178,7.83402,16.26,Same quantities and categories; price schedule changed only
+ICP000210-202605,ICP000210,RET003,RES,Christchurch Urban,2026-05,59.10953,68.35118,9.24165,15.63,Same quantities and categories; price schedule changed only
+ICP000211-202605,ICP000211,RET002,RES,Selwyn,2026-05,81.40536,92.63031,11.22495,13.79,Same quantities and categories; price schedule changed only
+ICP000212-202605,ICP000212,RET002,RES,Central Canterbury Rural,2026-05,79.17144,90.30199,11.13055,14.06,Same quantities and categories; price schedule changed only
+ICP000213-202605,ICP000213,RET002,RSC,Christchurch Urban,2026-05,89.43492,99.66642,10.2315,11.44,Same quantities and categories; price schedule changed only
+ICP000214-202605,ICP000214,RET002,RES,Christchurch Urban,2026-05,79.63876,90.83086,11.1921,14.05,Same quantities and categories; price schedule changed only
+ICP000215-202605,ICP000215,RET004,RES,Central Canterbury Rural,2026-05,49.59291,57.65269,8.05978,16.25,Same quantities and categories; price schedule changed only
+ICP000216-202605,ICP000216,RET003,URES,Christchurch Urban,2026-05,79.53475,90.33076,10.79601,13.57,Same quantities and categories; price schedule changed only
+ICP000217-202605,ICP000217,RET001,RES,Central Canterbury Rural,2026-05,90.26349,102.71015,12.44666,13.79,Same quantities and categories; price schedule changed only
+ICP000218-202605,ICP000218,RET005,RES,Christchurch Urban,2026-05,70.19356,80.58219,10.38863,14.8,Same quantities and categories; price schedule changed only
+ICP000219-202605,ICP000219,RET005,RSC,Christchurch Urban,2026-05,103.74678,116.41939,12.67261,12.21,Same quantities and categories; price schedule changed only
+ICP000220-202605,ICP000220,RET004,URES,Christchurch Urban,2026-05,50.68459,58.49376,7.80917,15.41,Same quantities and categories; price schedule changed only
+ICP000221-202605,ICP000221,RET001,RSC,Christchurch Urban,2026-05,102.72867,115.25934,12.53067,12.2,Same quantities and categories; price schedule changed only
+ICP000222-202605,ICP000222,RET002,RES,Selwyn,2026-05,69.6092,79.74381,10.13461,14.56,Same quantities and categories; price schedule changed only
+ICP000223-202605,ICP000223,RET001,RES,Christchurch Urban,2026-05,83.31041,95.27204,11.96162,14.36,Same quantities and categories; price schedule changed only
+ICP000224-202605,ICP000224,RET001,RSC,Christchurch Urban,2026-05,99.13752,111.25126,12.11375,12.22,Same quantities and categories; price schedule changed only
+ICP000225-202605,ICP000225,RET001,RES,Christchurch Urban,2026-05,62.95152,72.27237,9.32085,14.81,Same quantities and categories; price schedule changed only
+ICP000226-202605,ICP000226,RET001,RES,Christchurch Urban,2026-05,69.78306,80.08116,10.2981,14.76,Same quantities and categories; price schedule changed only
+ICP000227-202605,ICP000227,RET001,RSC,Christchurch Urban,2026-05,115.9258,130.85415,14.92835,12.88,Same quantities and categories; price schedule changed only
+ICP000228-202605,ICP000228,RET001,RES,Christchurch Urban,2026-05,58.6546,67.58346,8.92886,15.22,Same quantities and categories; price schedule changed only
+ICP000229-202605,ICP000229,RET002,URES,Christchurch Urban,2026-05,59.9227,68.71243,8.78973,14.67,Same quantities and categories; price schedule changed only
+ICP000230-202605,ICP000230,RET003,RES,Central Canterbury Rural,2026-05,59.70016,68.96692,9.26676,15.52,Same quantities and categories; price schedule changed only
+ICP000231-202605,ICP000231,RET004,RES,Christchurch Urban,2026-05,57.36747,66.47952,9.11205,15.88,Same quantities and categories; price schedule changed only
+ICP000232-202605,ICP000232,RET002,RES,Christchurch Urban,2026-05,90.08175,102.61871,12.53696,13.92,Same quantities and categories; price schedule changed only
+ICP000233-202605,ICP000233,RET002,RES,Central Canterbury Rural,2026-05,52.80968,61.13904,8.32936,15.77,Same quantities and categories; price schedule changed only
+ICP000234-202605,ICP000234,RET003,RSC,Selwyn,2026-05,99.78531,112.49202,12.70671,12.73,Same quantities and categories; price schedule changed only
+ICP000235-202605,ICP000235,RET001,RES,Christchurch Urban,2026-05,46.14597,53.83612,7.69015,16.66,Same quantities and categories; price schedule changed only
+ICP000236-202605,ICP000236,RET001,RES,Selwyn,2026-05,64.53425,74.29853,9.76427,15.13,Same quantities and categories; price schedule changed only
+ICP000237-202605,ICP000237,RET001,URES,Christchurch Urban,2026-05,92.97146,105.20103,12.22957,13.15,Same quantities and categories; price schedule changed only
+ICP000238-202605,ICP000238,RET001,RES,Christchurch Urban,2026-05,66.18173,76.10366,9.92193,14.99,Same quantities and categories; price schedule changed only
+ICP000239-202605,ICP000239,RET003,RES,Christchurch Urban,2026-05,59.45011,68.57341,9.1233,15.35,Same quantities and categories; price schedule changed only
+ICP000240-202605,ICP000240,RET002,RES,Christchurch Urban,2026-05,80.11066,91.47375,11.36309,14.18,Same quantities and categories; price schedule changed only
+ICP000241-202605,ICP000241,RET001,RSC,Christchurch Urban,2026-05,75.84858,84.75319,8.90461,11.74,Same quantities and categories; price schedule changed only
+ICP000242-202605,ICP000242,RET002,RES,Christchurch Urban,2026-05,66.88884,76.82676,9.93792,14.86,Same quantities and categories; price schedule changed only
+ICP000243-202605,ICP000243,RET003,RSC,Christchurch Urban,2026-05,87.87207,98.06396,10.19189,11.6,Same quantities and categories; price schedule changed only
+ICP000244-202605,ICP000244,RET001,RES,Christchurch Urban,2026-05,70.03525,80.60795,10.57269,15.1,Same quantities and categories; price schedule changed only
+ICP000245-202605,ICP000245,RET004,RES,Christchurch Urban,2026-05,37.85385,44.67655,6.8227,18.02,Same quantities and categories; price schedule changed only
+ICP000246-202605,ICP000246,RET003,RES,Central Canterbury Rural,2026-05,71.58002,81.92527,10.34525,14.45,Same quantities and categories; price schedule changed only
+ICP000247-202605,ICP000247,RET003,RES,Christchurch Urban,2026-05,51.82851,60.27432,8.44581,16.3,Same quantities and categories; price schedule changed only
+ICP000248-202605,ICP000248,RET001,RSC,Christchurch Urban,2026-05,72.42439,80.69369,8.2693,11.42,Same quantities and categories; price schedule changed only
+ICP000249-202605,ICP000249,RET001,URES,Selwyn,2026-05,47.12123,54.40752,7.28629,15.46,Same quantities and categories; price schedule changed only
+ICP000250-202605,ICP000250,RET001,RES,Christchurch Urban,2026-05,43.78546,51.15582,7.37036,16.83,Same quantities and categories; price schedule changed only
+ICP000251-202605,ICP000251,RET004,RES,Christchurch Urban,2026-05,49.21284,57.21204,7.99921,16.25,Same quantities and categories; price schedule changed only
+ICP000252-202605,ICP000252,RET002,RSU,Christchurch Urban,2026-05,84.5152,93.44931,8.93411,10.57,Same quantities and categories; price schedule changed only
+ICP000253-202605,ICP000253,RET002,URES,Christchurch Urban,2026-05,72.00156,82.19398,10.19241,14.16,Same quantities and categories; price schedule changed only
+ICP000254-202605,ICP000254,RET002,RES,Selwyn,2026-05,57.87708,66.96267,9.08559,15.7,Same quantities and categories; price schedule changed only
+ICP000255-202605,ICP000255,RET003,URES,Christchurch Urban,2026-05,70.50689,80.2327,9.72581,13.79,Same quantities and categories; price schedule changed only
+ICP000256-202605,ICP000256,RET001,RES,Selwyn,2026-05,65.75211,75.62406,9.87196,15.01,Same quantities and categories; price schedule changed only
+ICP000257-202605,ICP000257,RET003,RSC,Selwyn,2026-05,86.19891,96.83443,10.63552,12.34,Same quantities and categories; price schedule changed only
+ICP000258-202605,ICP000258,RET001,RSC,Christchurch Urban,2026-05,96.57907,108.20439,11.62532,12.04,Same quantities and categories; price schedule changed only
+ICP000259-202605,ICP000259,RET002,RSC,Christchurch Urban,2026-05,74.60922,83.67421,9.06499,12.15,Same quantities and categories; price schedule changed only
+ICP000260-202605,ICP000260,RET002,RES,Central Canterbury Rural,2026-05,55.93273,64.75579,8.82306,15.77,Same quantities and categories; price schedule changed only
+ICP000261-202605,ICP000261,RET004,RES,Central Canterbury Rural,2026-05,47.00268,55.06854,8.06586,17.16,Same quantities and categories; price schedule changed only
+ICP000262-202605,ICP000262,RET001,RES,Selwyn,2026-05,53.13708,61.60031,8.46323,15.93,Same quantities and categories; price schedule changed only
+ICP000263-202605,ICP000263,RET001,URES,Christchurch Urban,2026-05,76.58285,87.1778,10.59494,13.83,Same quantities and categories; price schedule changed only
+ICP000264-202605,ICP000264,RET001,RES,Central Canterbury Rural,2026-05,49.5664,57.68367,8.11727,16.38,Same quantities and categories; price schedule changed only
+ICP000265-202605,ICP000265,RET003,RES,Christchurch Urban,2026-05,66.91383,76.90505,9.99122,14.93,Same quantities and categories; price schedule changed only
+ICP000266-202605,ICP000266,RET003,RES,Christchurch Urban,2026-05,64.91077,74.60126,9.69049,14.93,Same quantities and categories; price schedule changed only
+ICP000267-202605,ICP000267,RET001,RES,Christchurch Urban,2026-05,57.82027,66.85034,9.03007,15.62,Same quantities and categories; price schedule changed only
+ICP000268-202605,ICP000268,RET001,RES,Christchurch Urban,2026-05,79.40628,90.77945,11.37317,14.32,Same quantities and categories; price schedule changed only
+ICP000269-202605,ICP000269,RET003,RSC,Selwyn,2026-05,86.54371,96.64888,10.10517,11.68,Same quantities and categories; price schedule changed only
+ICP000270-202605,ICP000270,RET002,RES,Christchurch Urban,2026-05,61.13748,70.41795,9.28047,15.18,Same quantities and categories; price schedule changed only
+ICP000271-202605,ICP000271,RET004,RES,Christchurch Urban,2026-05,53.01434,61.37921,8.36486,15.78,Same quantities and categories; price schedule changed only
+ICP000272-202605,ICP000272,RET005,RES,Christchurch Urban,2026-05,86.95206,98.97963,12.02757,13.83,Same quantities and categories; price schedule changed only
+ICP000273-202605,ICP000273,RET001,RSC,Christchurch Urban,2026-05,79.54308,88.98796,9.44488,11.87,Same quantities and categories; price schedule changed only
+ICP000274-202605,ICP000274,RET002,RSC,Christchurch Urban,2026-05,96.4003,108.13174,11.73144,12.17,Same quantities and categories; price schedule changed only
+ICP000275-202605,ICP000275,RET004,RSC,Christchurch Urban,2026-05,90.45116,101.50102,11.04985,12.22,Same quantities and categories; price schedule changed only
+ICP000276-202605,ICP000276,RET001,RES,Selwyn,2026-05,65.14499,74.92527,9.78028,15.01,Same quantities and categories; price schedule changed only
+ICP000277-202605,ICP000277,RET001,RES,Christchurch Urban,2026-05,91.61775,104.52594,12.90819,14.09,Same quantities and categories; price schedule changed only
+ICP000278-202605,ICP000278,RET001,RES,Christchurch Urban,2026-05,70.25171,80.63054,10.37883,14.77,Same quantities and categories; price schedule changed only
+ICP000279-202605,ICP000279,RET001,RSC,Central Canterbury Rural,2026-05,69.01646,77.25185,8.23539,11.93,Same quantities and categories; price schedule changed only
+ICP000280-202605,ICP000280,RET002,RSC,Selwyn,2026-05,72.66305,81.56547,8.90242,12.25,Same quantities and categories; price schedule changed only
+ICP000281-202605,ICP000281,RET001,RES,Selwyn,2026-05,79.16929,90.8018,11.63251,14.69,Same quantities and categories; price schedule changed only
+ICP000282-202605,ICP000282,RET001,RES,Christchurch Urban,2026-05,56.96414,65.75804,8.7939,15.44,Same quantities and categories; price schedule changed only
+ICP000283-202605,ICP000283,RET004,RES,Christchurch Urban,2026-05,58.37754,67.45034,9.0728,15.54,Same quantities and categories; price schedule changed only
+ICP000284-202605,ICP000284,RET002,URES,Christchurch Urban,2026-05,55.69944,63.88332,8.18388,14.69,Same quantities and categories; price schedule changed only
+ICP000285-202605,ICP000285,RET001,RES,Christchurch Urban,2026-05,40.06715,47.00025,6.9331,17.3,Same quantities and categories; price schedule changed only
+ICP000286-202605,ICP000286,RET001,RES,Christchurch Urban,2026-05,85.51964,97.39425,11.87461,13.89,Same quantities and categories; price schedule changed only
+ICP000287-202605,ICP000287,RET005,RSC,Christchurch Urban,2026-05,73.10921,81.76612,8.65692,11.84,Same quantities and categories; price schedule changed only
+ICP000288-202605,ICP000288,RET002,RSU,Christchurch Urban,2026-05,71.9338,79.50628,7.57248,10.53,Same quantities and categories; price schedule changed only
+ICP000289-202605,ICP000289,RET001,RES,Christchurch Urban,2026-05,45.49562,53.13478,7.63916,16.79,Same quantities and categories; price schedule changed only
+ICP000290-202605,ICP000290,RET001,RES,Christchurch Urban,2026-05,91.35437,103.75443,12.40006,13.57,Same quantities and categories; price schedule changed only
+ICP000291-202605,ICP000291,RET003,RES,Christchurch Urban,2026-05,70.43547,80.70846,10.27299,14.58,Same quantities and categories; price schedule changed only
+ICP000292-202605,ICP000292,RET001,RES,Christchurch Urban,2026-05,74.48624,85.111,10.62476,14.26,Same quantities and categories; price schedule changed only
+ICP000293-202605,ICP000293,RET002,RSC,Christchurch Urban,2026-05,117.58172,131.67312,14.0914,11.98,Same quantities and categories; price schedule changed only
+ICP000294-202605,ICP000294,RET002,RES,Christchurch Urban,2026-05,58.75258,67.69484,8.94226,15.22,Same quantities and categories; price schedule changed only
+ICP000295-202605,ICP000295,RET001,RES,Christchurch Urban,2026-05,63.84083,73.47025,9.62942,15.08,Same quantities and categories; price schedule changed only
+ICP000296-202605,ICP000296,RET002,RES,Christchurch Urban,2026-05,57.21613,66.09602,8.87989,15.52,Same quantities and categories; price schedule changed only
+ICP000297-202605,ICP000297,RET001,RES,Christchurch Urban,2026-05,54.3138,63.01606,8.70225,16.02,Same quantities and categories; price schedule changed only
+ICP000298-202605,ICP000298,RET003,URES,Christchurch Urban,2026-05,57.41835,66.03626,8.61791,15.01,Same quantities and categories; price schedule changed only
+ICP000299-202605,ICP000299,RET002,RES,Central Canterbury Rural,2026-05,65.30532,75.14278,9.83746,15.06,Same quantities and categories; price schedule changed only
+ICP000300-202605,ICP000300,RET005,RES,Selwyn,2026-05,61.8039,71.40787,9.60397,15.54,Same quantities and categories; price schedule changed only
+ICP000301-202605,ICP000301,RET001,URES,Christchurch Urban,2026-05,84.82205,96.1474,11.32536,13.35,Same quantities and categories; price schedule changed only
+ICP000302-202605,ICP000302,RET003,RES,Christchurch Urban,2026-05,55.12411,63.76921,8.6451,15.68,Same quantities and categories; price schedule changed only
+ICP000303-202605,ICP000303,RET005,RES,Selwyn,2026-05,88.68821,100.92168,12.23347,13.79,Same quantities and categories; price schedule changed only
+ICP000304-202605,ICP000304,RET001,RSC,Christchurch Urban,2026-05,73.90665,82.51199,8.60534,11.64,Same quantities and categories; price schedule changed only
+ICP000305-202605,ICP000305,RET002,RSC,Christchurch Urban,2026-05,72.7714,81.5556,8.7842,12.07,Same quantities and categories; price schedule changed only
+ICP000306-202605,ICP000306,RET004,RES,Christchurch Urban,2026-05,78.61814,89.7301,11.11195,14.13,Same quantities and categories; price schedule changed only
+ICP000307-202605,ICP000307,RET002,RES,Christchurch Urban,2026-05,76.89192,88.07633,11.18441,14.55,Same quantities and categories; price schedule changed only
+ICP000308-202605,ICP000308,RET003,RES,Christchurch Urban,2026-05,55.04912,63.67688,8.62776,15.67,Same quantities and categories; price schedule changed only
+ICP000309-202605,ICP000309,RET002,RES,Christchurch Urban,2026-05,60.47586,69.86868,9.39282,15.53,Same quantities and categories; price schedule changed only
+ICP000310-202605,ICP000310,RET001,RES,Christchurch Urban,2026-05,59.98312,69.419,9.43588,15.73,Same quantities and categories; price schedule changed only
+ICP000311-202605,ICP000311,RET005,URES,Selwyn,2026-05,103.18545,116.60802,13.42257,13.01,Same quantities and categories; price schedule changed only
+ICP000312-202605,ICP000312,RET001,RES,Central Canterbury Rural,2026-05,88.74698,100.93994,12.19296,13.74,Same quantities and categories; price schedule changed only
+ICP000313-202605,ICP000313,RET004,RES,Central Canterbury Rural,2026-05,83.20081,94.84102,11.64022,13.99,Same quantities and categories; price schedule changed only
+ICP000314-202605,ICP000314,RET001,RSC,Christchurch Urban,2026-05,70.49704,78.58442,8.08738,11.47,Same quantities and categories; price schedule changed only
+ICP000315-202605,ICP000315,RET002,RES,Christchurch Urban,2026-05,65.91473,75.69947,9.78474,14.84,Same quantities and categories; price schedule changed only
+ICP000316-202605,ICP000316,RET005,RES,Central Canterbury Rural,2026-05,67.22022,77.3329,10.11268,15.04,Same quantities and categories; price schedule changed only
+ICP000317-202605,ICP000317,RET003,RES,Christchurch Urban,2026-05,47.83597,55.63689,7.80093,16.31,Same quantities and categories; price schedule changed only
+ICP000318-202605,ICP000318,RET004,RSU,Christchurch Urban,2026-05,80.32377,89.09181,8.76804,10.92,Same quantities and categories; price schedule changed only
+ICP000319-202605,ICP000319,RET001,RSC,Christchurch Urban,2026-05,70.34704,78.4288,8.08176,11.49,Same quantities and categories; price schedule changed only
+ICP000320-202605,ICP000320,RET004,RES,Christchurch Urban,2026-05,48.61757,56.60399,7.98642,16.43,Same quantities and categories; price schedule changed only
+ICP000321-202605,ICP000321,RET001,RES,Christchurch Urban,2026-05,51.75558,60.00173,8.24615,15.93,Same quantities and categories; price schedule changed only
+ICP000322-202605,ICP000322,RET002,RES,Christchurch Urban,2026-05,71.25527,81.86747,10.6122,14.89,Same quantities and categories; price schedule changed only
+ICP000323-202605,ICP000323,RET002,URES,Central Canterbury Rural,2026-05,73.13486,83.27182,10.13696,13.86,Same quantities and categories; price schedule changed only
+ICP000324-202605,ICP000324,RET002,RSC,Selwyn,2026-05,63.25363,70.77525,7.52161,11.89,Same quantities and categories; price schedule changed only
+ICP000325-202605,ICP000325,RET004,RES,Christchurch Urban,2026-05,59.05721,68.31993,9.26273,15.68,Same quantities and categories; price schedule changed only
+ICP000326-202605,ICP000326,RET002,RES,Christchurch Urban,2026-05,51.42291,59.7175,8.2946,16.13,Same quantities and categories; price schedule changed only
+ICP000327-202605,ICP000327,RET001,RES,Christchurch Urban,2026-05,77.4669,88.48134,11.01444,14.22,Same quantities and categories; price schedule changed only
+ICP000328-202605,ICP000328,RET001,RES,Christchurch Urban,2026-05,50.56041,58.7558,8.19539,16.21,Same quantities and categories; price schedule changed only
+ICP000329-202605,ICP000329,RET001,RES,Selwyn,2026-05,56.87285,65.85414,8.98129,15.79,Same quantities and categories; price schedule changed only
+ICP000330-202605,ICP000330,RET001,RSC,Christchurch Urban,2026-05,95.44028,106.9758,11.53552,12.09,Same quantities and categories; price schedule changed only
+ICP000331-202605,ICP000331,RET001,RES,Christchurch Urban,2026-05,75.06022,85.9196,10.85938,14.47,Same quantities and categories; price schedule changed only
+ICP000332-202605,ICP000332,RET002,RES,Christchurch Urban,2026-05,56.14203,64.92008,8.77806,15.64,Same quantities and categories; price schedule changed only
+ICP000333-202605,ICP000333,RET001,RES,Christchurch Urban,2026-05,47.01263,54.71566,7.70303,16.39,Same quantities and categories; price schedule changed only
+ICP000334-202605,ICP000334,RET001,RES,Christchurch Urban,2026-05,75.29654,86.16092,10.86438,14.43,Same quantities and categories; price schedule changed only
+ICP000335-202605,ICP000335,RET001,RES,Christchurch Urban,2026-05,54.33097,62.93017,8.5992,15.83,Same quantities and categories; price schedule changed only
+ICP000336-202605,ICP000336,RET003,RSC,Christchurch Urban,2026-05,71.80259,80.21175,8.40916,11.71,Same quantities and categories; price schedule changed only
+ICP000337-202605,ICP000337,RET001,RSU,Christchurch Urban,2026-05,74.13018,81.87304,7.74286,10.44,Same quantities and categories; price schedule changed only
+ICP000338-202605,ICP000338,RET002,RES,Central Canterbury Rural,2026-05,64.32159,73.97579,9.65421,15.01,Same quantities and categories; price schedule changed only
+ICP000339-202605,ICP000339,RET002,RES,Christchurch Urban,2026-05,63.04711,72.7192,9.67209,15.34,Same quantities and categories; price schedule changed only
+ICP000340-202605,ICP000340,RET003,RES,Christchurch Urban,2026-05,55.81453,64.67868,8.86415,15.88,Same quantities and categories; price schedule changed only
+ICP000341-202605,ICP000341,RET005,RSC,Central Canterbury Rural,2026-05,96.38936,108.44407,12.05471,12.51,Same quantities and categories; price schedule changed only
+ICP000342-202605,ICP000342,RET003,URES,Christchurch Urban,2026-05,79.13724,89.70989,10.57265,13.36,Same quantities and categories; price schedule changed only
+ICP000343-202605,ICP000343,RET004,RES,Christchurch Urban,2026-05,84.63446,96.56494,11.93048,14.1,Same quantities and categories; price schedule changed only
+ICP000344-202605,ICP000344,RET003,RES,Selwyn,2026-05,54.68814,63.47992,8.79178,16.08,Same quantities and categories; price schedule changed only
+ICP000345-202605,ICP000345,RET004,RES,Christchurch Urban,2026-05,52.82462,61.20271,8.37809,15.86,Same quantities and categories; price schedule changed only
+ICP000346-202605,ICP000346,RET001,RES,Christchurch Urban,2026-05,52.65757,61.15324,8.49567,16.13,Same quantities and categories; price schedule changed only
+ICP000347-202605,ICP000347,RET004,RSC,Christchurch Urban,2026-05,81.47171,91.12888,9.65717,11.85,Same quantities and categories; price schedule changed only
+ICP000348-202605,ICP000348,RET002,RES,Christchurch Urban,2026-05,60.55911,69.73418,9.17507,15.15,Same quantities and categories; price schedule changed only
+ICP000349-202605,ICP000349,RET002,RSC,Christchurch Urban,2026-05,68.74005,76.46476,7.72471,11.24,Same quantities and categories; price schedule changed only
+ICP000350-202605,ICP000350,RET003,URES,Selwyn,2026-05,66.47166,75.87646,9.4048,14.15,Same quantities and categories; price schedule changed only
+ICP000351-202605,ICP000351,RET001,RES,Christchurch Urban,2026-05,69.35595,79.63627,10.28032,14.82,Same quantities and categories; price schedule changed only
+ICP000352-202605,ICP000352,RET003,RES,Christchurch Urban,2026-05,53.84556,62.35385,8.50829,15.8,Same quantities and categories; price schedule changed only
+ICP000353-202605,ICP000353,RET001,URES,Christchurch Urban,2026-05,62.45531,71.439,8.98369,14.38,Same quantities and categories; price schedule changed only
+ICP000354-202605,ICP000354,RET001,RSC,Christchurch Urban,2026-05,73.82097,82.49723,8.67626,11.75,Same quantities and categories; price schedule changed only
+ICP000355-202605,ICP000355,RET001,RES,Christchurch Urban,2026-05,73.96319,84.69575,10.73257,14.51,Same quantities and categories; price schedule changed only
+ICP000356-202605,ICP000356,RET002,RSC,Christchurch Urban,2026-05,66.27288,73.9368,7.66392,11.56,Same quantities and categories; price schedule changed only
+ICP000357-202605,ICP000357,RET003,URES,Central Canterbury Rural,2026-05,73.11111,83.16201,10.0509,13.75,Same quantities and categories; price schedule changed only
+ICP000358-202605,ICP000358,RET001,RES,Christchurch Urban,2026-05,67.49685,77.52857,10.03172,14.86,Same quantities and categories; price schedule changed only
+ICP000359-202605,ICP000359,RET004,RES,Christchurch Urban,2026-05,68.93318,79.36487,10.43169,15.13,Same quantities and categories; price schedule changed only
+ICP000360-202605,ICP000360,RET002,RES,Christchurch Urban,2026-05,66.69209,76.41463,9.72253,14.58,Same quantities and categories; price schedule changed only
+ICP000361-202605,ICP000361,RET004,URES,Christchurch Urban,2026-05,85.23472,96.6037,11.36898,13.34,Same quantities and categories; price schedule changed only
+ICP000362-202605,ICP000362,RET003,RSC,Christchurch Urban,2026-05,81.79529,91.48628,9.691,11.85,Same quantities and categories; price schedule changed only
+ICP000363-202605,ICP000363,RET004,RES,Christchurch Urban,2026-05,59.21472,68.4909,9.27617,15.67,Same quantities and categories; price schedule changed only
+ICP000364-202605,ICP000364,RET005,RES,Christchurch Urban,2026-05,56.35307,65.35089,8.99782,15.97,Same quantities and categories; price schedule changed only
+ICP000365-202605,ICP000365,RET002,RES,Christchurch Urban,2026-05,83.93125,95.581,11.64974,13.88,Same quantities and categories; price schedule changed only
+ICP000366-202605,ICP000366,RET001,RES,Selwyn,2026-05,59.27148,68.57637,9.30489,15.7,Same quantities and categories; price schedule changed only
+ICP000367-202605,ICP000367,RET001,RES,Christchurch Urban,2026-05,55.81005,64.65956,8.8495,15.86,Same quantities and categories; price schedule changed only
+ICP000368-202605,ICP000368,RET002,RES,Christchurch Urban,2026-05,54.18767,62.97331,8.78564,16.21,Same quantities and categories; price schedule changed only
+ICP000369-202605,ICP000369,RET004,RES,Christchurch Urban,2026-05,67.16488,77.14651,9.98163,14.86,Same quantities and categories; price schedule changed only
+ICP000370-202605,ICP000370,RET001,RSC,Christchurch Urban,2026-05,73.74291,82.15563,8.41272,11.41,Same quantities and categories; price schedule changed only
+ICP000371-202605,ICP000371,RET001,RES,Christchurch Urban,2026-05,74.10408,84.86698,10.76291,14.52,Same quantities and categories; price schedule changed only
+ICP000372-202605,ICP000372,RET004,RES,Christchurch Urban,2026-05,68.15161,78.13387,9.98226,14.65,Same quantities and categories; price schedule changed only
+ICP000373-202605,ICP000373,RET001,RES,Christchurch Urban,2026-05,67.893,77.87156,9.97856,14.7,Same quantities and categories; price schedule changed only
+ICP000374-202605,ICP000374,RET004,RES,Central Canterbury Rural,2026-05,53.22838,61.78919,8.56081,16.08,Same quantities and categories; price schedule changed only
+ICP000375-202605,ICP000375,RET002,RES,Christchurch Urban,2026-05,62.70953,72.16123,9.4517,15.07,Same quantities and categories; price schedule changed only
+ICP000376-202605,ICP000376,RET002,RES,Selwyn,2026-05,56.9874,66.01872,9.03131,15.85,Same quantities and categories; price schedule changed only
+ICP000377-202605,ICP000377,RET004,RES,Selwyn,2026-05,45.77305,53.61244,7.83938,17.13,Same quantities and categories; price schedule changed only
+ICP000378-202605,ICP000378,RET003,URES,Christchurch Urban,2026-05,58.49251,67.03689,8.54438,14.61,Same quantities and categories; price schedule changed only
+ICP000379-202605,ICP000379,RET003,RES,Christchurch Urban,2026-05,46.9404,54.80382,7.86341,16.75,Same quantities and categories; price schedule changed only
+ICP000380-202605,ICP000380,RET004,RES,Christchurch Urban,2026-05,45.02006,52.74005,7.71999,17.15,Same quantities and categories; price schedule changed only
+ICP000381-202605,ICP000381,RET001,RES,Christchurch Urban,2026-05,96.14948,109.45551,13.30604,13.84,Same quantities and categories; price schedule changed only
+ICP000382-202605,ICP000382,RET002,RSU,Christchurch Urban,2026-05,83.7952,93.13802,9.34282,11.15,Same quantities and categories; price schedule changed only
+ICP000383-202605,ICP000383,RET004,RES,Selwyn,2026-05,60.48026,69.67758,9.19732,15.21,Same quantities and categories; price schedule changed only
+ICP000384-202605,ICP000384,RET001,RES,Christchurch Urban,2026-05,82.48988,93.96542,11.47554,13.91,Same quantities and categories; price schedule changed only
+ICP000385-202605,ICP000385,RET003,RSC,Christchurch Urban,2026-05,83.35698,93.04686,9.68988,11.62,Same quantities and categories; price schedule changed only
+ICP000386-202605,ICP000386,RET002,RES,Christchurch Urban,2026-05,60.26021,69.38468,9.12447,15.14,Same quantities and categories; price schedule changed only
+ICP000387-202605,ICP000387,RET004,URES,Christchurch Urban,2026-05,67.74899,77.34194,9.59296,14.16,Same quantities and categories; price schedule changed only
+ICP000388-202605,ICP000388,RET003,RSC,Christchurch Urban,2026-05,111.01135,124.24296,13.23161,11.92,Same quantities and categories; price schedule changed only
+ICP000389-202605,ICP000389,RET001,RES,Christchurch Urban,2026-05,47.1877,55.06501,7.87732,16.69,Same quantities and categories; price schedule changed only
+ICP000390-202605,ICP000390,RET004,RES,Christchurch Urban,2026-05,65.29505,75.15444,9.85939,15.1,Same quantities and categories; price schedule changed only
+ICP000391-202605,ICP000391,RET002,RES,Christchurch Urban,2026-05,47.74908,55.73017,7.98109,16.71,Same quantities and categories; price schedule changed only
+ICP000392-202605,ICP000392,RET002,RSU,Christchurch Urban,2026-05,90.7313,100.1936,9.4623,10.43,Same quantities and categories; price schedule changed only
+ICP000393-202605,ICP000393,RET002,RES,Christchurch Urban,2026-05,59.73018,68.96529,9.23511,15.46,Same quantities and categories; price schedule changed only
+ICP000394-202605,ICP000394,RET001,URES,Christchurch Urban,2026-05,61.24212,69.99818,8.75605,14.3,Same quantities and categories; price schedule changed only
+ICP000395-202605,ICP000395,RET001,RES,Christchurch Urban,2026-05,75.44951,86.26701,10.81749,14.34,Same quantities and categories; price schedule changed only
+ICP000396-202605,ICP000396,RET003,RES,Christchurch Urban,2026-05,58.58558,67.90683,9.32126,15.91,Same quantities and categories; price schedule changed only
+ICP000397-202605,ICP000397,RET004,URES,Christchurch Urban,2026-05,68.92008,78.74517,9.82508,14.26,Same quantities and categories; price schedule changed only
+ICP000398-202605,ICP000398,RET003,RSC,Christchurch Urban,2026-05,84.25874,94.62454,10.3658,12.3,Same quantities and categories; price schedule changed only
+ICP000399-202605,ICP000399,RET003,RES,Christchurch Urban,2026-05,51.84701,60.13547,8.28846,15.99,Same quantities and categories; price schedule changed only
+ICP000400-202605,ICP000400,RET004,RES,Christchurch Urban,2026-05,60.9951,70.48986,9.49476,15.57,Same quantities and categories; price schedule changed only
+ICP000401-202605,ICP000401,RET001,RSC,Christchurch Urban,2026-05,59.20837,66.04755,6.83918,11.55,Same quantities and categories; price schedule changed only
+ICP000402-202605,ICP000402,RET003,RES,Christchurch Urban,2026-05,98.75957,112.18306,13.42349,13.59,Same quantities and categories; price schedule changed only
+ICP000403-202605,ICP000403,RET001,URES,Selwyn,2026-05,64.84722,74.04869,9.20147,14.19,Same quantities and categories; price schedule changed only
+ICP000404-202605,ICP000404,RET003,RES,Christchurch Urban,2026-05,45.8882,53.53854,7.65034,16.67,Same quantities and categories; price schedule changed only
+ICP000405-202605,ICP000405,RET005,RSC,Christchurch Urban,2026-05,65.64428,73.01874,7.37446,11.23,Same quantities and categories; price schedule changed only
+ICP000406-202605,ICP000406,RET002,RES,Christchurch Urban,2026-05,99.66895,112.89805,13.2291,13.27,Same quantities and categories; price schedule changed only
+ICP000407-202605,ICP000407,RET001,RSU,Christchurch Urban,2026-05,105.35633,117.50701,12.15068,11.53,Same quantities and categories; price schedule changed only
+ICP000408-202605,ICP000408,RET001,RES,Selwyn,2026-05,51.48113,59.71587,8.23474,16.0,Same quantities and categories; price schedule changed only
+ICP000409-202605,ICP000409,RET005,RSC,Selwyn,2026-05,72.98559,81.38731,8.40172,11.51,Same quantities and categories; price schedule changed only
+ICP000410-202605,ICP000410,RET005,RES,Christchurch Urban,2026-05,73.84228,84.59451,10.75223,14.56,Same quantities and categories; price schedule changed only
+ICP000411-202605,ICP000411,RET002,RES,Selwyn,2026-05,57.88246,66.66815,8.78569,15.18,Same quantities and categories; price schedule changed only
+ICP000412-202605,ICP000412,RET001,RES,Selwyn,2026-05,62.86555,72.2993,9.43375,15.01,Same quantities and categories; price schedule changed only
+ICP000413-202605,ICP000413,RET001,RES,Selwyn,2026-05,57.64078,66.35752,8.71674,15.12,Same quantities and categories; price schedule changed only
+ICP000414-202605,ICP000414,RET001,RES,Selwyn,2026-05,63.09042,72.60508,9.51466,15.08,Same quantities and categories; price schedule changed only
+ICP000415-202605,ICP000415,RET005,RES,Christchurch Urban,2026-05,47.61533,55.44082,7.82549,16.43,Same quantities and categories; price schedule changed only
+ICP000416-202605,ICP000416,RET001,RES,Christchurch Urban,2026-05,72.69775,83.25768,10.55993,14.53,Same quantities and categories; price schedule changed only
+ICP000417-202605,ICP000417,RET001,RES,Christchurch Urban,2026-05,102.732,116.61665,13.88466,13.52,Same quantities and categories; price schedule changed only
+ICP000418-202605,ICP000418,RET001,RES,Christchurch Urban,2026-05,69.47505,79.53636,10.06131,14.48,Same quantities and categories; price schedule changed only
+ICP000419-202605,ICP000419,RET001,URES,Selwyn,2026-05,64.24669,73.43945,9.19276,14.31,Same quantities and categories; price schedule changed only
+ICP000420-202605,ICP000420,RET002,RES,Central Canterbury Rural,2026-05,54.84674,63.53012,8.68338,15.83,Same quantities and categories; price schedule changed only
+ICP000421-202605,ICP000421,RET003,RSC,Christchurch Urban,2026-05,92.26568,103.47492,11.20924,12.15,Same quantities and categories; price schedule changed only
+ICP000422-202605,ICP000422,RET002,RSC,Christchurch Urban,2026-05,94.53843,105.72357,11.18514,11.83,Same quantities and categories; price schedule changed only
+ICP000423-202605,ICP000423,RET001,RES,Selwyn,2026-05,60.31387,69.26778,8.9539,14.85,Same quantities and categories; price schedule changed only
+ICP000424-202605,ICP000424,RET001,RES,Christchurch Urban,2026-05,48.30561,56.1787,7.87309,16.3,Same quantities and categories; price schedule changed only
+ICP000425-202605,ICP000425,RET004,RES,Christchurch Urban,2026-05,44.00097,51.40662,7.40565,16.83,Same quantities and categories; price schedule changed only
+ICP000426-202605,ICP000426,RET001,RES,Christchurch Urban,2026-05,68.88442,78.87763,9.99321,14.51,Same quantities and categories; price schedule changed only
+ICP000427-202605,ICP000427,RET001,URES,Selwyn,2026-05,44.65069,51.68928,7.03859,15.76,Same quantities and categories; price schedule changed only
+ICP000428-202605,ICP000428,RET004,RES,Christchurch Urban,2026-05,81.4014,93.08659,11.68519,14.36,Same quantities and categories; price schedule changed only
+ICP000429-202605,ICP000429,RET001,RES,Christchurch Urban,2026-05,101.95853,115.75819,13.79966,13.53,Same quantities and categories; price schedule changed only
+ICP000430-202605,ICP000430,RET002,RES,Selwyn,2026-05,53.87352,62.46324,8.58972,15.94,Same quantities and categories; price schedule changed only
+ICP000431-202605,ICP000431,RET002,RES,Christchurch Urban,2026-05,102.10651,115.78741,13.6809,13.4,Same quantities and categories; price schedule changed only
+ICP000432-202605,ICP000432,RET002,RES,Selwyn,2026-05,67.58378,77.44278,9.859,14.59,Same quantities and categories; price schedule changed only
+ICP000433-202605,ICP000433,RET002,RES,Christchurch Urban,2026-05,53.88817,62.36688,8.47871,15.73,Same quantities and categories; price schedule changed only
+ICP000434-202605,ICP000434,RET002,RES,Central Canterbury Rural,2026-05,45.641,53.30577,7.66477,16.79,Same quantities and categories; price schedule changed only
+ICP000435-202605,ICP000435,RET001,RES,Selwyn,2026-05,60.40236,69.52835,9.12599,15.11,Same quantities and categories; price schedule changed only
+ICP000436-202605,ICP000436,RET004,RSC,Christchurch Urban,2026-05,68.59294,76.15712,7.56418,11.03,Same quantities and categories; price schedule changed only
+ICP000437-202605,ICP000437,RET001,URES,Christchurch Urban,2026-05,61.61874,70.47018,8.85144,14.36,Same quantities and categories; price schedule changed only
+ICP000438-202605,ICP000438,RET004,RES,Christchurch Urban,2026-05,46.78759,54.46552,7.67794,16.41,Same quantities and categories; price schedule changed only
+ICP000439-202605,ICP000439,RET001,RES,Christchurch Urban,2026-05,56.63669,65.52873,8.89204,15.7,Same quantities and categories; price schedule changed only
+ICP000440-202605,ICP000440,RET001,RSC,Christchurch Urban,2026-05,60.30608,67.26794,6.96186,11.54,Same quantities and categories; price schedule changed only
+ICP000441-202605,ICP000441,RET003,RES,Christchurch Urban,2026-05,94.75277,107.94637,13.1936,13.92,Same quantities and categories; price schedule changed only
+ICP000442-202605,ICP000442,RET001,RES,Christchurch Urban,2026-05,80.4386,91.55449,11.11589,13.82,Same quantities and categories; price schedule changed only
+ICP000443-202605,ICP000443,RET001,RES,Christchurch Urban,2026-05,57.35271,66.1026,8.74989,15.26,Same quantities and categories; price schedule changed only
+ICP000444-202605,ICP000444,RET004,RES,Christchurch Urban,2026-05,72.83917,83.15973,10.32056,14.17,Same quantities and categories; price schedule changed only
+ICP000445-202605,ICP000445,RET004,RES,Christchurch Urban,2026-05,57.76242,66.70165,8.93924,15.48,Same quantities and categories; price schedule changed only
+ICP000446-202605,ICP000446,RET004,RES,Christchurch Urban,2026-05,88.9041,101.01334,12.10924,13.62,Same quantities and categories; price schedule changed only
+ICP000447-202605,ICP000447,RET002,RES,Christchurch Urban,2026-05,84.36866,96.08448,11.71582,13.89,Same quantities and categories; price schedule changed only
+ICP000448-202605,ICP000448,RET005,RES,Christchurch Urban,2026-05,86.34171,98.44623,12.10452,14.02,Same quantities and categories; price schedule changed only
+ICP000449-202605,ICP000449,RET001,URES,Christchurch Urban,2026-05,62.8569,71.7752,8.9183,14.19,Same quantities and categories; price schedule changed only
+ICP000450-202605,ICP000450,RET005,RES,Christchurch Urban,2026-05,55.99334,64.79895,8.80561,15.73,Same quantities and categories; price schedule changed only
+ICP000451-202605,ICP000451,RET003,RES,Christchurch Urban,2026-05,63.54156,73.11154,9.56999,15.06,Same quantities and categories; price schedule changed only
+ICP000452-202605,ICP000452,RET001,RES,Christchurch Urban,2026-05,64.6619,74.3577,9.6958,14.99,Same quantities and categories; price schedule changed only
+ICP000453-202605,ICP000453,RET004,RES,Selwyn,2026-05,40.53458,47.64007,7.10548,17.53,Same quantities and categories; price schedule changed only
+ICP000454-202605,ICP000454,RET002,RES,Christchurch Urban,2026-05,67.11625,76.95575,9.8395,14.66,Same quantities and categories; price schedule changed only
+ICP000455-202605,ICP000455,RET002,RES,Christchurch Urban,2026-05,91.86054,104.72293,12.8624,14.0,Same quantities and categories; price schedule changed only
+ICP000456-202605,ICP000456,RET001,RES,Christchurch Urban,2026-05,62.56113,72.14001,9.57888,15.31,Same quantities and categories; price schedule changed only
+ICP000457-202605,ICP000457,RET001,URES,Christchurch Urban,2026-05,72.35073,82.53737,10.18664,14.08,Same quantities and categories; price schedule changed only
+ICP000458-202605,ICP000458,RET001,RES,Christchurch Urban,2026-05,62.74871,72.37081,9.6221,15.33,Same quantities and categories; price schedule changed only
+ICP000459-202605,ICP000459,RET001,RSC,Christchurch Urban,2026-05,85.25772,95.93679,10.67907,12.53,Same quantities and categories; price schedule changed only
+ICP000460-202605,ICP000460,RET001,RES,Christchurch Urban,2026-05,71.9981,82.43646,10.43836,14.5,Same quantities and categories; price schedule changed only
+ICP000461-202605,ICP000461,RET001,RES,Selwyn,2026-05,42.05485,49.35663,7.30178,17.36,Same quantities and categories; price schedule changed only
+ICP000462-202605,ICP000462,RET002,RES,Selwyn,2026-05,57.75906,66.63358,8.87452,15.36,Same quantities and categories; price schedule changed only
+ICP000463-202605,ICP000463,RET003,RES,Christchurch Urban,2026-05,65.10734,74.70771,9.60037,14.75,Same quantities and categories; price schedule changed only
+ICP000464-202605,ICP000464,RET005,RSC,Christchurch Urban,2026-05,70.52033,78.82608,8.30575,11.78,Same quantities and categories; price schedule changed only
+ICP000465-202605,ICP000465,RET001,RES,Christchurch Urban,2026-05,60.4809,69.89317,9.41228,15.56,Same quantities and categories; price schedule changed only
+ICP000466-202605,ICP000466,RET001,RES,Christchurch Urban,2026-05,66.57464,76.41929,9.84465,14.79,Same quantities and categories; price schedule changed only
+ICP000467-202605,ICP000467,RET001,RES,Christchurch Urban,2026-05,52.88869,61.35322,8.46453,16.0,Same quantities and categories; price schedule changed only
+ICP000468-202605,ICP000468,RET001,RES,Christchurch Urban,2026-05,88.04641,100.14503,12.09862,13.74,Same quantities and categories; price schedule changed only
+ICP000469-202605,ICP000469,RET005,RSC,Selwyn,2026-05,93.2943,103.85026,10.55596,11.31,Same quantities and categories; price schedule changed only
+ICP000470-202605,ICP000470,RET002,URES,Christchurch Urban,2026-05,64.07121,73.21423,9.14302,14.27,Same quantities and categories; price schedule changed only
+ICP000471-202605,ICP000471,RET001,RSU,Selwyn,2026-05,81.18467,90.10602,8.92136,10.99,Same quantities and categories; price schedule changed only
+ICP000472-202605,ICP000472,RET001,RES,Christchurch Urban,2026-05,70.1566,80.35292,10.19632,14.53,Same quantities and categories; price schedule changed only
+ICP000473-202605,ICP000473,RET001,RES,Christchurch Urban,2026-05,69.61937,79.95811,10.33874,14.85,Same quantities and categories; price schedule changed only
+ICP000474-202605,ICP000474,RET005,RSC,Christchurch Urban,2026-05,63.14394,70.43078,7.28683,11.54,Same quantities and categories; price schedule changed only
+ICP000475-202605,ICP000475,RET002,RES,Christchurch Urban,2026-05,90.12421,102.37809,12.25388,13.6,Same quantities and categories; price schedule changed only
+ICP000476-202605,ICP000476,RET003,RES,Christchurch Urban,2026-05,55.14947,63.92168,8.7722,15.91,Same quantities and categories; price schedule changed only
+ICP000477-202605,ICP000477,RET003,RES,Christchurch Urban,2026-05,52.44642,60.93606,8.48963,16.19,Same quantities and categories; price schedule changed only
+ICP000478-202605,ICP000478,RET002,URES,Central Canterbury Rural,2026-05,54.3096,62.3849,8.0753,14.87,Same quantities and categories; price schedule changed only
+ICP000479-202605,ICP000479,RET002,RSC,Christchurch Urban,2026-05,72.50573,81.3099,8.80418,12.14,Same quantities and categories; price schedule changed only
+ICP000480-202605,ICP000480,RET003,RES,Christchurch Urban,2026-05,85.03438,97.13585,12.10147,14.23,Same quantities and categories; price schedule changed only
+ICP000481-202605,ICP000481,RET003,URES,Christchurch Urban,2026-05,64.27394,73.51452,9.24058,14.38,Same quantities and categories; price schedule changed only
+ICP000482-202605,ICP000482,RET003,RES,Selwyn,2026-05,54.81336,63.42207,8.60871,15.71,Same quantities and categories; price schedule changed only
+ICP000483-202605,ICP000483,RET003,RES,Christchurch Urban,2026-05,40.50489,47.50157,6.99668,17.27,Same quantities and categories; price schedule changed only
+ICP000484-202605,ICP000484,RET004,RES,Christchurch Urban,2026-05,56.16245,64.91486,8.75241,15.58,Same quantities and categories; price schedule changed only
+ICP000485-202605,ICP000485,RET001,RSC,Selwyn,2026-05,124.13273,138.90405,14.77132,11.9,Same quantities and categories; price schedule changed only
+ICP000486-202605,ICP000486,RET001,RES,Christchurch Urban,2026-05,64.96593,74.51574,9.54981,14.7,Same quantities and categories; price schedule changed only
+ICP000487-202605,ICP000487,RET003,RES,Selwyn,2026-05,48.63016,56.52484,7.89469,16.23,Same quantities and categories; price schedule changed only
+ICP000488-202605,ICP000488,RET003,RES,Selwyn,2026-05,53.53555,61.97759,8.44204,15.77,Same quantities and categories; price schedule changed only
+ICP000489-202605,ICP000489,RET003,URES,Selwyn,2026-05,78.4821,89.13013,10.64803,13.57,Same quantities and categories; price schedule changed only
+ICP000490-202605,ICP000490,RET004,RSC,Christchurch Urban,2026-05,105.43432,117.98321,12.54889,11.9,Same quantities and categories; price schedule changed only
+ICP000491-202605,ICP000491,RET002,RSC,Christchurch Urban,2026-05,86.3084,96.44546,10.13706,11.75,Same quantities and categories; price schedule changed only
+ICP000492-202605,ICP000492,RET005,RES,Christchurch Urban,2026-05,47.9349,55.69054,7.75564,16.18,Same quantities and categories; price schedule changed only
+ICP000493-202605,ICP000493,RET001,RES,Central Canterbury Rural,2026-05,50.92663,59.2896,8.36297,16.42,Same quantities and categories; price schedule changed only
+ICP000494-202605,ICP000494,RET002,RES,Christchurch Urban,2026-05,68.21079,78.24491,10.03412,14.71,Same quantities and categories; price schedule changed only
+ICP000495-202605,ICP000495,RET001,RES,Christchurch Urban,2026-05,79.17374,90.25796,11.08422,14.0,Same quantities and categories; price schedule changed only
+ICP000496-202605,ICP000496,RET001,RSC,Christchurch Urban,2026-05,80.78512,90.49317,9.70805,12.02,Same quantities and categories; price schedule changed only
+ICP000497-202605,ICP000497,RET003,RES,Christchurch Urban,2026-05,47.00211,54.89018,7.88806,16.78,Same quantities and categories; price schedule changed only
+ICP000498-202605,ICP000498,RET004,RES,Selwyn,2026-05,66.44437,76.54782,10.10345,15.21,Same quantities and categories; price schedule changed only
+ICP000499-202605,ICP000499,RET001,RES,Christchurch Urban,2026-05,61.50283,70.76491,9.26208,15.06,Same quantities and categories; price schedule changed only
+ICP000500-202605,ICP000500,RET002,RES,Christchurch Urban,2026-05,48.30701,56.54504,8.23803,17.05,Same quantities and categories; price schedule changed only

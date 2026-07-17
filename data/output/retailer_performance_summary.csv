@@ -1,0 +1,6 @@
+retailer_id,bill_count,total_consumption_kwh,expected_revenue,system_billed_revenue,net_billing_variance,total_absolute_variance,exception_count,overbilled_amount,underbilled_amount,passed_bill_count,billing_accuracy_rate_pct,exception_rate_pct
+RET001,696,434963.044,48112.64,48185.18,72.54,105.58,15,89.06,16.52,681,97.84,2.16
+RET002,500,321148.645,34999.19,35077.5,78.31,118.13,12,98.22,19.91,488,97.6,2.4
+RET003,316,200123.053,22060.9,22105.16,44.27,44.27,5,44.27,0.0,311,98.42,1.58
+RET004,308,184660.616,20352.71,20383.42,30.71,103.27,10,66.99,36.28,298,96.75,3.25
+RET005,180,118099.944,13018.65,13040.4,21.75,55.97,8,38.86,17.11,172,95.56,4.44

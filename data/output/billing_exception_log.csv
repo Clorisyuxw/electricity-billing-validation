@@ -1,0 +1,51 @@
+issue_id,consumption_id,icp_id,retailer_id,billing_month,price_category_code,expected_delivery_charge,system_billed_amount,billing_variance,variance_direction,detected_issue_type,priority,recommended_action,issue_status
+ISS001,ICP000076-202602,ICP000076,RET003,2026-02,RSC,88.59,90.63,2.04,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS002,ICP000107-202602,ICP000107,RET004,2026-02,URES,58.66,60.16,1.5,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS003,ICP000128-202602,ICP000128,RET001,2026-02,RES,60.95,79.06,18.1,Overbilled,DUPLICATE_CONSUMPTION,Medium,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS004,ICP000140-202602,ICP000140,RET002,2026-02,URES,78.04,107.02,28.98,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS005,ICP000296-202602,ICP000296,RET002,2026-02,RES,73.98,73.94,-0.04,Underbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS006,ICP000297-202602,ICP000297,RET001,2026-02,RES,57.92,63.17,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS007,ICP000316-202602,ICP000316,RET005,2026-02,RES,50.9,56.15,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS008,ICP000337-202602,ICP000337,RET001,2026-02,RSU,71.02,91.4,20.38,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS009,ICP000354-202602,ICP000354,RET001,2026-02,RSC,78.68,105.93,27.25,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS010,ICP000433-202602,ICP000433,RET002,2026-02,RES,47.56,48.78,1.22,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS011,ICP000021-202603,ICP000021,RET005,2026-03,URES,69.44,74.69,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS012,ICP000139-202603,ICP000139,RET003,2026-03,RES,74.09,75.3,1.22,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS013,ICP000234-202603,ICP000234,RET003,2026-03,RSC,100.52,105.24,4.72,Overbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS014,ICP000263-202603,ICP000263,RET001,2026-03,URES,71.27,76.52,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS015,ICP000303-202603,ICP000303,RET005,2026-03,RES,65.94,71.19,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS016,ICP000326-202603,ICP000326,RET002,2026-03,RES,48.09,54.91,6.82,Overbilled,WRONG_PRICE_CATEGORY,Medium,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS017,ICP000363-202603,ICP000363,RET004,2026-03,RES,50.21,70.35,20.14,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS018,ICP000448-202603,ICP000448,RET005,2026-03,RES,49.27,64.14,14.87,Overbilled,DUPLICATE_CONSUMPTION,Medium,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS019,ICP000450-202603,ICP000450,RET005,2026-03,RES,67.08,70.07,2.99,Overbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS020,ICP000462-202603,ICP000462,RET002,2026-03,RES,63.77,64.98,1.22,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS021,ICP000496-202603,ICP000496,RET001,2026-03,RSC,82.12,84.16,2.04,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS022,ICP000002-202604,ICP000002,RET004,2026-04,RSC,84.51,75.31,-9.2,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS023,ICP000056-202604,ICP000056,RET005,2026-04,URES,75.57,80.82,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS024,ICP000064-202604,ICP000064,RET002,2026-04,RES,75.1,65.37,-9.73,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS025,ICP000093-202604,ICP000093,RET005,2026-04,RES,60.64,52.46,-8.18,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS026,ICP000137-202604,ICP000137,RET004,2026-04,RES,93.8,82.31,-11.48,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS027,ICP000149-202604,ICP000149,RET001,2026-04,RES,59.93,51.79,-8.14,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS028,ICP000155-202604,ICP000155,RET004,2026-04,RSC,108.03,113.28,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS029,ICP000169-202604,ICP000169,RET005,2026-04,RES,68.61,59.68,-8.93,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS030,ICP000250-202604,ICP000250,RET001,2026-04,RES,65.92,67.44,1.51,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS031,ICP000254-202604,ICP000254,RET002,2026-04,RES,68.96,74.21,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS032,ICP000258-202604,ICP000258,RET001,2026-04,RSC,77.81,77.17,-0.64,Underbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS033,ICP000296-202604,ICP000296,RET002,2026-04,RES,71.75,94.85,23.1,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS034,ICP000309-202604,ICP000309,RET002,2026-04,RES,56.53,82.67,26.14,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS035,ICP000380-202604,ICP000380,RET004,2026-04,RES,80.94,80.76,-0.18,Underbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS036,ICP000435-202604,ICP000435,RET001,2026-04,RES,54.37,46.63,-7.74,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS037,ICP000436-202604,ICP000436,RET004,2026-04,RSC,57.67,51.77,-5.9,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS038,ICP000026-202605,ICP000026,RET004,2026-05,RES,73.86,64.35,-9.51,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS039,ICP000040-202605,ICP000040,RET004,2026-05,RES,67.13,72.38,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS040,ICP000050-202605,ICP000050,RET004,2026-05,RES,75.42,110.27,34.85,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS041,ICP000078-202605,ICP000078,RET003,2026-05,RES,93.38,98.63,5.25,Overbilled,CALCULATION_ERROR,Medium,Investigate calculation routine and recalculate charge,Open - Review Required
+ISS042,ICP000168-202605,ICP000168,RET001,2026-05,URES,69.66,72.78,3.12,Overbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS043,ICP000226-202605,ICP000226,RET001,2026-05,RES,80.08,80.67,0.58,Overbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS044,ICP000243-202605,ICP000243,RET003,2026-05,RSC,98.06,129.11,31.05,Overbilled,DUPLICATE_CONSUMPTION,High,Remove duplicate component and rerun billing validation,Open - Review Required
+ISS045,ICP000294-202605,ICP000294,RET002,2026-05,RES,67.69,70.77,3.08,Overbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS046,ICP000301-202605,ICP000301,RET001,2026-05,URES,96.15,97.95,1.8,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS047,ICP000323-202605,ICP000323,RET002,2026-05,URES,83.27,73.13,-10.14,Underbilled,OLD_PRICE_APPLIED,Medium,Correct price version and rebill affected record,Open - Review Required
+ISS048,ICP000348-202605,ICP000348,RET002,2026-05,RES,69.73,72.16,2.43,Overbilled,WRONG_PRICE_CATEGORY,Low,"Confirm ICP category, correct master data and rebill",Open - Review Required
+ISS049,ICP000459-202605,ICP000459,RET001,2026-05,RSC,95.94,98.19,2.25,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required
+ISS050,ICP000466-202605,ICP000466,RET001,2026-05,RES,76.42,77.93,1.51,Overbilled,INCORRECT_ICP_DAYS,Low,Correct billable day count and recalculate fixed charge,Open - Review Required

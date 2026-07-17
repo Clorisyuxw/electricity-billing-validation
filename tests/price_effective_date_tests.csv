@@ -1,0 +1,5 @@
+test_date,description,expected_price_year,actual_price_year,test_status
+2026-02-01,February uses the 2025 schedule,2025,2025,PASS
+2026-03-31,Last day of the 2025 schedule,2025,2025,PASS
+2026-04-01,First day of the 2026 schedule,2026,2026,PASS
+2026-05-01,May uses the 2026 schedule,2026,2026,PASS

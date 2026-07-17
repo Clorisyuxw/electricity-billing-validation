@@ -1,0 +1,16 @@
+test_id,test_name,test_status,detail
+I01,Retailer count,PASS,Found 5
+I02,ICP count,PASS,Found 500
+I03,Monthly consumption count,PASS,Found 2000
+I04,Unique ICP identifiers,PASS,Duplicate ICP IDs: 0
+I05,Unique consumption identifiers,PASS,Duplicate consumption IDs: 0
+I06,ICP retailer references,PASS,Unknown retailer IDs: []
+I07,Consumption ICP references,PASS,Unknown ICP IDs: 0
+I08,Valid price categories,PASS,Invalid categories: []
+I09,One business mapping per price category,PASS,Categories with conflicting mappings: 0
+I10,Expected billing months,PASS,"Months: ['2026-02', '2026-03', '2026-04', '2026-05']"
+I11,Four months per ICP,PASS,ICPs without four months: 0
+I12,Billing-day calculation,PASS,Incorrect day counts: 0
+I13,Non-negative consumption,PASS,Negative values: 0
+I14,Time-band total reconciliation,PASS,Rows not reconciling: 0
+I15,Simulated-data labelling,PASS,All generated datasets must be explicitly labelled Simulated
