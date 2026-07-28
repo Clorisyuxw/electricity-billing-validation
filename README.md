@@ -33,6 +33,16 @@ The project simulates a revenue-control workflow designed to answer the followin
 4. Which retailers and issue types should be prioritised for investigation?
 5. What is the price-only impact of applying the 2026 schedule instead of the 2025 schedule to identical quantities?
 
+## Business systems analysis
+
+The repository includes a business-systems analysis layer connecting the implemented workflow to New Zealand electricity-market context, functional requirements, solution choices and test evidence:
+
+- [New Zealand Electricity Market Context](docs/nz_electricity_market_context.md) — participant and ICP context, relevant Code concepts, system boundaries and the distinction between billing validation and Part 15 market reconciliation.
+- [Business Systems Analysis Pack](docs/business_systems_analysis_pack.md) — stakeholders, current/future process, functional and non-functional requirements, business rules, solution shaping, configuration impact and UAT criteria.
+- [Requirements Traceability Matrix](docs/requirements_traceability_matrix.csv) — requirement-to-implementation, test and operational-output traceability.
+
+These documents describe a portfolio case study. They do not represent customer discovery, an Orion implementation engagement, Registry integration or regulatory compliance.
+
 ## Key results
 
 | Revenue and billing result | Outcome |
@@ -127,6 +137,10 @@ It executes nine ordered stages and stops if a validation fails.
 
 - Billing reconciliation and revenue assurance
 - Pricing implementation support and billing validation
+- Requirements analysis and business-rule modelling
+- Requirements-to-function, configuration, development and process mapping
+- System and process modelling, UAT criteria, and requirements traceability
+- New Zealand electricity-market and ICP context
 - Data-quality investigation and exception management
 - Revenue, billing, consumption, and trend analysis
 - Process controls and continuous-improvement recommendations
@@ -153,7 +167,11 @@ electricity-billing-validation/
 ├── scripts/            # Nine ordered Python workflow stages
 ├── sql/                # Data-quality, billing, reconciliation and reporting SQL
 ├── tests/              # Validation evidence produced by the workflow
-├── docs/               # Scope, rules, assumptions, sources and findings
+├── docs/
+│   ├── nz_electricity_market_context.md
+│   ├── business_systems_analysis_pack.md
+│   ├── requirements_traceability_matrix.csv
+│   └── ...             # Scope, rules, assumptions, sources and findings
 ├── powerbi/
 │   ├── Orion_Revenue_Billing_Validation.pbix
 │   ├── Orion_Revenue_Billing_Validation.pdf
@@ -171,3 +189,5 @@ electricity-billing-validation/
 The project covers four residential delivery price categories—URES, RES, RSU, and RSC—and fixed daily, weekend, peak, shoulder, off-peak, and zero-rated super-off-peak components for February to May 2026.
 
 It excludes retail energy charges, retailer margins, GST, payments, debt collection, loss factors, export credits, Winter Peak Injection, and non-residential pricing. It does not reproduce Orion's internal billing system, approval process, confidential data, or actual revenue performance.
+
+The project also does not connect to the Electricity Registry, use production metering or retailer data, prepare market-reconciliation submissions, calculate wholesale settlement obligations, or claim compliance with the Electricity Industry Participation Code. In this repository, **reconciliation** means expected-versus-system delivery-charge validation, not Part 15 market reconciliation.
